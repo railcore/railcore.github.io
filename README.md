@@ -8,9 +8,8 @@ RailcoreII is a Core-XY based Reprap 3d printer designed by J. Steve White & Ton
 
 ### Project and Models
 
-  * [https://www.thingiverse.com/thing:2407174](Main Project on Thingiverse)
-  * [[https://www.thingiverse.com/thing:2765693|ZL Option on Thingiverse]]
-  * [[https://www.thingiverse.com/dancheeseandham/collections/railcore-ii|Railcore II Thingiverse Collection]]
+  * (Main Project on Thingiverse)[https://www.thingiverse.com/thing:2407174]
+  * (Railcore II Thingiverse Collection)[https://www.thingiverse.com/dancheeseandham/collections/railcore-ii
 
 === Aluminum Components  ===
 
