@@ -13,7 +13,7 @@ RailcoreII is a Core-XY based Reprap 3d printer designed by J. Steve White & Ton
 
 ### Aluminum Components
 
-  * [Mandala Rose Works - Railcore Parts]([http://www.mandalaroseworks.com/product/railcore)
+  * [Mandala Rose Works - Railcore Parts](http://www.mandalaroseworks.com/product/railcore)
   * [713 Maker - Railcore Parts](https://713maker.com/railcore)
 
 
