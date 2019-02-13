@@ -27,6 +27,7 @@ Semi-Direct drive or full bowden is supported.
 ### BOM, Model & Thingiverse Project
 The Fusion360 models and BOM should be considered the master copies maintained by Tony Akens. Thingiverse is also maintained by Tony Akens. 
 
+ * RailcoreII 300ZL / 300ZLT Assembly Guide - https://railcore.page.link/guide
  * RailcoreII 300ZL Bill Of Materials - https://railcore.page.link/zlbom
  * RailcoreII 300ZL Fusion360 Model - https://railcore.page.link/zlmodel 
  * RailcoreII 300ZLT Bill Of Materials - https://railcore.page.link/zltbom 
