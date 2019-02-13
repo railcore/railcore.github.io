@@ -22,7 +22,7 @@ Some notable aspects of the design: 3 trapezoidal lead screws Z-axis, stacked id
 The electronics in the design are the Duet (Wifi or Ethernet), Duex2/5,  24v PSU and 0.9 degree steppers.  We used an E3D v6 for the design, as it’s the most common hotend at this time.  Support for other hotends such as Bondtech and Mosquito and many others are also available.
 Semi-Direct drive or full bowden is supported.
 
-__A special thanks to Filastruder, Duet3d, E3D, SeeMeCNC, [Mandala Rose Works](http://www.mandalaroseworks.com/product/railcore), [713 Maker](https://713maker.com/railcore) and Project R3D for supporting the project.__
+*A special thanks to [Filastruder](https://www.filastruder.com/), [Duet3d](https://www.duet3d.com/), [E3D](https://e3d-online.com/), [SeeMeCNC](https://www.seemecnc.com/), [Mandala Rose Works](http://www.mandalaroseworks.com/product/railcore), [713 Maker](https://713maker.com/railcore) and [Project R3D](https://www.projectr3d.com/) for supporting the project.*
 
 ### BOM, Model & Thingiverse Project
 The Fusion360 models and BOM should be considered the master copies maintained by Tony Akens. Thingiverse is also maintained by Tony Akens. 
