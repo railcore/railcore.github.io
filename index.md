@@ -2,11 +2,11 @@
 title: RailCore 3d Printer
 ---
 
-# documentation
+# Documentation
 Documentation for the RailCore II 3d printer and its components
 
 ## About the RailCore II
-RailcoreII is a Core-XY based Reprap 3D printer designed by J. Steve White & Tony Akens under the [[CC-Attribution Only license]]. The initial idea to collaborate on a printer started in the #RepRap IRC channel, and centered on some common goals we both had in mind for a new printer design.
+RailcoreII is a Core-XY based Reprap 3D printer designed by J. Steve White & Tony Akens under the CC-Attribution Only license. The initial idea to collaborate on a printer started in the #RepRap IRC channel, and centered on some common goals we both had in mind for a new printer design.
 
 These were:-
  * Core-XY motion.
@@ -29,24 +29,37 @@ Semi-Direct drive or full bowden is supported.
 *A special thanks to [Filastruder](https://www.filastruder.com/), [Duet3d](https://www.duet3d.com/), [E3D](https://e3d-online.com/), [SeeMeCNC](https://www.seemecnc.com/), [Mandala Rose Works](http://www.mandalaroseworks.com/product/railcore), [713 Maker](https://713maker.com/railcore) and [Project R3D](https://www.projectr3d.com/) for supporting the project.*
 
 ### BOM, Model & Thingiverse Project
-The Fusion360 models and BOM should be considered the master copies maintained by Tony Akens. Thingiverse is also maintained by Tony Akens.
+The Fusion360 models and BOM should be considered the master copies, and are maintained by Tony Akens.
 
- * RailcoreII 300ZL / 300ZLT Assembly Guide - https://railcore.page.link/guide
- * RailcoreII 300ZL Bill Of Materials - https://railcore.page.link/zlbom
- * RailcoreII 300ZL Fusion360 Model - https://railcore.page.link/zlmodel
- * RailcoreII 300ZLT Bill Of Materials - https://railcore.page.link/zltbom
- * RailcoreII 300ZLT Fusion360 Model - https://railcore.page.link/zltmodel
- * RailcoreII 300ZL/ZLT Thingiverse (all printable parts) - https://www.thingiverse.com/thing:2407174
- * Website - https://railcore.org/
+ * RailcoreII 300ZL / 300ZLT Assembly Guide - [https://railcore.page.link/guide](https://railcore.page.link/guide)
+ * RailcoreII 300ZL Bill Of Materials - [https://railcore.page.link/zlbom](https://railcore.page.link/zlbom)
+ * RailcoreII 300ZL Fusion360 Model - [https://railcore.page.link/zlmodel](https://railcore.page.link/zlmodel)
+ * RailcoreII 300ZLT Bill Of Materials - [https://railcore.page.link/zltbom](https://railcore.page.link/zltbom)
+ * RailcoreII 300ZLT Fusion360 Model - [https://railcore.page.link/zltmodel](https://railcore.page.link/zltmodel)
+ * RailcoreII 300ZL/ZLT Thingiverse (all printable parts) - [https://www.thingiverse.com/thing:2407174](https://www.thingiverse.com/thing:2407174)
+ * Website - [https://railcore.org/](https://railcore.org/)
+
+# Official RailCore Versions
+
+|                   | RailCore II (Deprecated) | RailCore IIZL | RailCore II 300 (Deprecated) | RailCore II 300ZL | RailCore II 300ZLT |
+|-------------------|--------------------------|---------------|------------------------------|-------------------|--------------------|
+| X/Y Printable     | 250×250                  | 250×250       | 300×300                      | 300×300           | 300×300            |
+| Z Printable       | 250                      | 280           | 300                          | 330               | 600                |
+| Auto Leveling?    | No                       | Yes           | No                           | Yes               | Yes                |
+| Fusion 360 Model  | [Model](http://a360.co/2z30VXH)                    | [Model](http://a360.co/2DoeHFu)         | [Model](http://a360.co/2BZLzTA)                        | [Model](http://a360.co/2D5OryV)             | [Model](https://a360.co/2w7PjT6)              |
+| Bill of Materials | [BOM](https://docs.google.com/spreadsheets/d/1KvlSNYHE20HYjQlURdH50Pn_V7t8TfuNNLnhcvI4Nos/edit?usp=sharing)                      | [BOM](https://docs.google.com/spreadsheets/d/1QZgV6a6Gk4xR9WxrK2C4QYaPQTXA8t7dFDyHO74-oSY/edit?usp=sharing)           | [BOM](https://docs.google.com/spreadsheets/d/1ePSq-bL4-4rGUdbzkxtMmNftXPYwv5IH47edacloU4E/edit?usp=sharing)                          | [BOM](https://docs.google.com/spreadsheets/d/1Eib0IkmRiP-zVM2p6gZ9PJ2bsDDvSKWbGtUybuFWfcs/edit?usp=sharing)               | [BOM](https://docs.google.com/spreadsheets/d/1L8mOABLsbfHb1PVPEnT-TpgfRpO25UduGNxD8GNMPSs/edit?usp=sharing)                |
+| Assembly Guide    | [Guide](https://docs.google.com/document/d/1wBlwMw_H73dxT0H4OD7fWI7y6bFSvh7_BoBPMTmdTZs/edit?usp=sharing)                    | [Guide](https://docs.google.com/document/d/1OoXfw7aXMz0NzAxkdwuChC0FpunLRyKI02_1vJF52hk/edit?usp=sharing)         | [Guide](https://docs.google.com/document/d/1hC_S6MeUwHMQ6U9vivJ6D1Olx1hfcOVcvL2W0NaXD28/edit?usp=sharing)                        | [Guide](https://docs.google.com/document/d/19FuTYfwqgOkGO8SUScnSuhS_Gx8mJMmXLiPgBfGeJ-s/edit?usp=sharing) [Kit wiring](https://docs.google.com/document/d/1aIc6x7Vzb-bH8-pILNBV1cXyp3JWsIa50Y6eSjMmCgM/edit?usp=sharing)  |   [Guide](https://docs.google.com/document/d/19FuTYfwqgOkGO8SUScnSuhS_Gx8mJMmXLiPgBfGeJ-s/edit?usp=sharing) [Kit wiring](https://docs.google.com/document/d/1aIc6x7Vzb-bH8-pILNBV1cXyp3JWsIa50Y6eSjMmCgM/edit?usp=sharing) 
 
 ### Guides
 
-  * [Offical ZL/ZLT Assembly Guide](https://docs.google.com/document/d/19FuTYfwqgOkGO8SUScnSuhS_Gx8mJMmXLiPgBfGeJ-s/edit?usp=sharing)
+  * [Offical RailcoreII 300ZL/ZLT Assembly Guide](https://docs.google.com/document/d/19FuTYfwqgOkGO8SUScnSuhS_Gx8mJMmXLiPgBfGeJ-s/edit?usp=sharing)
   * [Kit wiring guide](https://docs.google.com/document/d/1aIc6x7Vzb-bH8-pILNBV1cXyp3JWsIa50Y6eSjMmCgM/edit?usp=sharing)
+  * [[Hardware components guide]]
   * [Aligning the X carriages and Y rail](https://railcore.org/doku.php?id=en:aligning_the_x_carriages_y_rail)
 
-### Aluminum Components
+### RailCore products
 
-  * [Mandala Rose Works - Railcore Parts](http://www.mandalaroseworks.com/product/railcore)
-  * [713 Maker - Railcore Parts](https://713maker.com/railcore)
-
+* [Railcore Kits](https://www.projectr3d.com/) from Project R3D.
+* [Aluminium parts](http://www.mandalaroseworks.com/product/railcore) from Mandala Rose Works
+* [Aluminium parts](https://713maker.com/railcore) from 713 Maker
+* [Railcore Branded Merchandise](http://kninedhp.merchminion.com/) by Merch Minion
