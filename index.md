@@ -37,7 +37,6 @@ The Fusion360 models and BOM should be considered the master copies, and are mai
  * RailcoreII 300ZLT Bill Of Materials - [https://railcore.page.link/zltbom](https://railcore.page.link/zltbom)
  * RailcoreII 300ZLT Fusion360 Model - [https://railcore.page.link/zltmodel](https://railcore.page.link/zltmodel)
  * RailcoreII 300ZL/ZLT Thingiverse (all printable parts) - [https://www.thingiverse.com/thing:2407174](https://www.thingiverse.com/thing:2407174)
- * Website - [https://railcore.org/](https://railcore.org/)
 
 # Official RailCore Versions
 
