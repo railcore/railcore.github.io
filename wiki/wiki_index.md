@@ -59,7 +59,7 @@ these include:
 
 ## How To's 
 A list of how-to's on various aspects of the Railcore build:
-  * [Aligning the X Carriages/Y Rail](aligning_the_x_carriages_y_rail.pdf)
+  * [Aligning the X Carriages/Y Rail](aligning_the_x_carriages_y_rail.pdf) temp PDF version
 
 ## Community Modifications
 
