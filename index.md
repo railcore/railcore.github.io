@@ -55,6 +55,7 @@ The Fusion360 models and BOM should be considered the master copies, and are mai
   * [Kit wiring guide](https://docs.google.com/document/d/1aIc6x7Vzb-bH8-pILNBV1cXyp3JWsIa50Y6eSjMmCgM/edit?usp=sharing)
   * [Wiki - Github (currently migrating information to this new location)](/wiki/wiki_index.md)
   * [Wiki - Dokuwiki (deprecated - migrating away)](https://railcore.org/doku.php) - Has security errors, use a browser (or flags) that allow you do ignore these.
+  * [FAQ](/faq.md)
 
 ### RailCore products
 
