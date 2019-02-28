@@ -54,8 +54,8 @@ The Fusion360 models and BOM should be considered the master copies, and are mai
 
   * [Offical RailcoreII 300ZL/ZLT Assembly Guide](https://docs.google.com/document/d/19FuTYfwqgOkGO8SUScnSuhS_Gx8mJMmXLiPgBfGeJ-s/edit?usp=sharing)
   * [Kit wiring guide](https://docs.google.com/document/d/1aIc6x7Vzb-bH8-pILNBV1cXyp3JWsIa50Y6eSjMmCgM/edit?usp=sharing)
-  * [[Hardware components guide]]
-  * [Aligning the X carriages and Y rail](https://railcore.org/doku.php?id=en:aligning_the_x_carriages_y_rail)
+  * [Wiki - Github (currently migrating information to this new location)](/wiki/wiki_index.md)
+  * [Wiki - Dokuwiki (deprecated - migrating away)](https://railcore.org/doku.php) - Has security errors, use a browser (or flags) that allow you do ignore these.
 
 ### RailCore products
 
