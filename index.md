@@ -6,7 +6,7 @@ title: RailCore II 3D Printer
 Documentation for the RailCore II 3d printer and its components
 
 ## About the RailCore II
-RailcoreII is a Core-XY based Reprap 3D printer designed by J. Steve White & Tony Akens under the CC-Attribution Only license. The initial idea to collaborate on a printer started in the #RepRap IRC channel, and centered on some common goals we both had in mind for a new printer design.
+RailCore II is a Core-XY based Reprap 3D printer designed by J. Steve White & Tony Akens under the CC-Attribution Only license. The initial idea to collaborate on a printer started in the #RepRap IRC channel, and centered on some common goals we both had in mind for a new printer design.
 
 These were:-
  * Core-XY motion.
@@ -32,16 +32,16 @@ Semi-Direct drive or full bowden is supported.
 
 The Fusion360 models and BOM should be considered the master copies, and are maintained by Tony Akens.
 
- * RailcoreII 300ZL / 300ZLT Assembly Guide - [https://railcore.page.link/guide](https://railcore.page.link/guide)
- * RailcoreII 300ZL Bill Of Materials - [https://railcore.page.link/zlbom](https://railcore.page.link/zlbom)
- * RailcoreII 300ZL Fusion360 Model - [https://railcore.page.link/zlmodel](https://railcore.page.link/zlmodel)
- * RailcoreII 300ZLT Bill Of Materials - [https://railcore.page.link/zltbom](https://railcore.page.link/zltbom)
- * RailcoreII 300ZLT Fusion360 Model - [https://railcore.page.link/zltmodel](https://railcore.page.link/zltmodel)
- * RailcoreII 300ZL/ZLT Thingiverse (all printable parts) - [https://www.thingiverse.com/thing:2407174](https://www.thingiverse.com/thing:2407174)
+ * RailCore II 300ZL / 300ZLT Assembly Guide - [https://railcore.page.link/guide](https://railcore.page.link/guide)
+ * RailCore II 300ZL Bill Of Materials - [https://railcore.page.link/zlbom](https://railcore.page.link/zlbom)
+ * RailCore II 300ZL Fusion360 Model - [https://railcore.page.link/zlmodel](https://railcore.page.link/zlmodel)
+ * RailCore II 300ZLT Bill Of Materials - [https://railcore.page.link/zltbom](https://railcore.page.link/zltbom)
+ * RailCore II 300ZLT Fusion360 Model - [https://railcore.page.link/zltmodel](https://railcore.page.link/zltmodel)
+ * RailCore II 300ZL/ZLT Thingiverse (all printable parts) - [https://www.thingiverse.com/thing:2407174](https://www.thingiverse.com/thing:2407174)
 
 ### Further Information
 
- * [Github Wiki](/wiki/index.md)
+ * [RailCore II Wiki](/wiki/index.md)
  * [FAQ](/faq.md)
 
 ### Other Guides
@@ -50,7 +50,7 @@ The Fusion360 models and BOM should be considered the master copies, and are mai
   * [Wiki - Dokuwiki (deprecated)](https://railcore.org/doku.php) - Has security errors, please use a browser (or flags) that allow you do ignore these.
 
 
-# Official RailCore Versions
+# Official RailCore II Versions
 
 |                   | RailCore II (Deprecated) | RailCore IIZL | RailCore II 300 (Deprecated) | RailCore II 300ZL | RailCore II 300ZLT |
 |-------------------|--------------------------|---------------|------------------------------|-------------------|--------------------|
