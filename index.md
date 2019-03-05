@@ -43,6 +43,8 @@ The Fusion360 models and BOM should be considered the master copies, and are mai
 
  * [RailCore II Wiki](/wiki/index.md)
  * [FAQ](/faq.md)
+ * [Discord Channel](https://discord.gg/Sy569Hq)
+ * [#RailCore IRC Channel on freenode](irc://chat.freenode.net/RailCore)
 
 ### Other Guides
 
