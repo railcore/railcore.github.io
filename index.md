@@ -1,5 +1,5 @@
 ---
-title: RailCoreII 3D Printer
+title: RailCore II 3D Printer
 ---
 
 # Documentation
