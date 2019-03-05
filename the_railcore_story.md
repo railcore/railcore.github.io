@@ -41,7 +41,7 @@ Since then we've continued to iterate parts and improve things based on feedback
 
 I wanted to share this story as a brief "Here's where we came from". And to thank each of you who've built a RailCore, or just been a part of the community. It's crazy to Steve and I that this printer we designed for the two of us would ever be built by so many others.
 
-Addenum/Reply by J. Steve White 
+[Addenum/Reply by J. Steve White](https://www.facebook.com/groups/RailCore/permalink/2236847056601041/?comment_id=2237137373238676)
 
 I was fascinated by 3d printers for a long time, and in 2015 decided I wanted one. None I could see looked like the kind of printer I wanted, so instead, I bought the cheapest printer I could find - a $369 unbadged flash forge rip-off of the makerbot dual - to make parts for the printer I wanted. The seller touted it as a “no-name CTC” (LOL) but the electronics board is marked flash forge. 
 
