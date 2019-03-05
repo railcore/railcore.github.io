@@ -6,7 +6,7 @@
     * Idlers
     * [Leadscrews](./leadscrews.md)
     * [Leadscrew Couplers]()
-    * [Belts](/belts.md)
+    * [Belts](./belts.md)
     * [Extruders]()
   * Electronics
     * [Power Supplies](./power_supplies.md)
