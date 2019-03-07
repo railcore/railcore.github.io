@@ -3,7 +3,9 @@ title: RailCore II 3D Printer
 ---
 
 # Documentation
-Documentation for the RailCore II 3d printer and its components
+ * [RailCore II Wiki](/wiki/index.md)
+ * [FAQ](/faq.md)
+ * [Old wiki at railcore.org (deprecated)](https://railcore.org/doku.php)
 
 ## About the RailCore II
 RailCore II is a Core-XY based Reprap 3D printer designed by J. Steve White & Tony Akens under the CC-Attribution Only license. The initial idea to collaborate on a printer started in the #RepRap IRC channel, and centered on some common goals we both had in mind for a new printer design.
@@ -39,10 +41,8 @@ The Fusion360 models and BOM should be considered the master copies, and are mai
  * RailCore II 300ZLT Fusion360 Model - [https://railcore.page.link/zltmodel](https://railcore.page.link/zltmodel)
  * RailCore II 300ZL/ZLT Thingiverse (all printable parts) - [https://www.thingiverse.com/thing:2407174](https://www.thingiverse.com/thing:2407174)
 
-### Further Information
+### Chat
 
- * [RailCore II Wiki](/wiki/index.md)
- * [FAQ](/faq.md)
  * [Discord Channel](https://discord.gg/Sy569Hq)
  * [#RailCore IRC Channel on freenode](https://tinyurl.com/yxl725zs)
 
@@ -66,9 +66,7 @@ The Fusion360 models and BOM should be considered the master copies, and are mai
 
   * [Offical RailcoreII 300ZL/ZLT Assembly Guide](https://docs.google.com/document/d/19FuTYfwqgOkGO8SUScnSuhS_Gx8mJMmXLiPgBfGeJ-s/edit?usp=sharing)
   * [Kit wiring guide](https://docs.google.com/document/d/1aIc6x7Vzb-bH8-pILNBV1cXyp3JWsIa50Y6eSjMmCgM/edit?usp=sharing)
-  * [Wiki - Github (currently migrating information to this new location)](/wiki/wiki_index.md)
-  * [Wiki - Dokuwiki (deprecated - migrating away)](https://railcore.org/doku.php) - Has security errors, use a browser (or flags) that allow you do ignore these.
-  * [FAQ](/faq.md)
+  * [A more detailed version of the story of the RailCore II](/the_railcore_story.md)
 
 ### RailCore II kits and products
 

@@ -1,3 +1,5 @@
+![RailCore II Wiki][/wiki/logo.png]
+
 ## Hardware Components
 
   * [Things to Consider Before Ordering Parts](./things_to_consider_before_ordering_parts.md)
