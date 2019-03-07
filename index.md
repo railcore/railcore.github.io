@@ -51,7 +51,6 @@ The Fusion360 models and BOM should be considered the master copies, and are mai
   * [Kit wiring guide by 713 Maker](https://docs.google.com/document/d/1aIc6x7Vzb-bH8-pILNBV1cXyp3JWsIa50Y6eSjMmCgM/edit?usp=sharing)
   * [Wiki - Dokuwiki (deprecated)](https://railcore.org/doku.php) - Has security errors, please use a browser (or flags) that allow you do ignore these.
 
-
 # Official RailCore II Versions
 
 |                   | RailCore II (Deprecated) | RailCore IIZL | RailCore II 300 (Deprecated) | RailCore II 300ZL | RailCore II 300ZLT |
@@ -63,9 +62,19 @@ The Fusion360 models and BOM should be considered the master copies, and are mai
 | Bill of Materials | [BOM](https://docs.google.com/spreadsheets/d/1KvlSNYHE20HYjQlURdH50Pn_V7t8TfuNNLnhcvI4Nos/edit?usp=sharing)                      | [BOM](https://docs.google.com/spreadsheets/d/1QZgV6a6Gk4xR9WxrK2C4QYaPQTXA8t7dFDyHO74-oSY/edit?usp=sharing)           | [BOM](https://docs.google.com/spreadsheets/d/1ePSq-bL4-4rGUdbzkxtMmNftXPYwv5IH47edacloU4E/edit?usp=sharing)                          | [BOM](https://docs.google.com/spreadsheets/d/1Eib0IkmRiP-zVM2p6gZ9PJ2bsDDvSKWbGtUybuFWfcs/edit?usp=sharing)               | [BOM](https://docs.google.com/spreadsheets/d/1L8mOABLsbfHb1PVPEnT-TpgfRpO25UduGNxD8GNMPSs/edit?usp=sharing)                |
 | Assembly Guide    | [Guide](https://docs.google.com/document/d/1wBlwMw_H73dxT0H4OD7fWI7y6bFSvh7_BoBPMTmdTZs/edit?usp=sharing)                    | [Guide](https://docs.google.com/document/d/1OoXfw7aXMz0NzAxkdwuChC0FpunLRyKI02_1vJF52hk/edit?usp=sharing)         | [Guide](https://docs.google.com/document/d/1hC_S6MeUwHMQ6U9vivJ6D1Olx1hfcOVcvL2W0NaXD28/edit?usp=sharing)                        | [Guide](https://docs.google.com/document/d/19FuTYfwqgOkGO8SUScnSuhS_Gx8mJMmXLiPgBfGeJ-s/edit?usp=sharing) [Kit wiring](https://docs.google.com/document/d/1aIc6x7Vzb-bH8-pILNBV1cXyp3JWsIa50Y6eSjMmCgM/edit?usp=sharing)  |   [Guide](https://docs.google.com/document/d/19FuTYfwqgOkGO8SUScnSuhS_Gx8mJMmXLiPgBfGeJ-s/edit?usp=sharing) [Kit wiring](https://docs.google.com/document/d/1aIc6x7Vzb-bH8-pILNBV1cXyp3JWsIa50Y6eSjMmCgM/edit?usp=sharing) 
 
-### Buy a RailCore, or parts for your RailCore
+### Guides
+
+  * [Offical RailcoreII 300ZL/ZLT Assembly Guide](https://docs.google.com/document/d/19FuTYfwqgOkGO8SUScnSuhS_Gx8mJMmXLiPgBfGeJ-s/edit?usp=sharing)
+  * [Kit wiring guide](https://docs.google.com/document/d/1aIc6x7Vzb-bH8-pILNBV1cXyp3JWsIa50Y6eSjMmCgM/edit?usp=sharing)
+  * [Wiki - Github (currently migrating information to this new location)](/wiki/wiki_index.md)
+  * [Wiki - Dokuwiki (deprecated - migrating away)](https://railcore.org/doku.php) - Has security errors, use a browser (or flags) that allow you do ignore these.
+  * [FAQ](/faq.md)
+
+### RailCore II kits and products
 
 * [RailCore II Kits](https://www.projectr3d.com/) from Project R3D.
 * [Aluminium parts](http://www.mandalaroseworks.com/product/railcore) by Mandala Rose Works
 * [Aluminium parts](https://713maker.com/railcore) by 713 Maker
 * [Railcore Branded Merchandise](http://kninedhp.merchminion.com/) by Merch Minion
+
+[Be a patron / donate to the project](https://www.kraegar.com/railcoreii)
