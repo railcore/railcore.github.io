@@ -1,4 +1,4 @@
-![RailCore II Wiki][/wiki/logo.png]
+![RailCore II Wiki][/wiki/images/logo.png]
 
 ## Hardware Components
 
