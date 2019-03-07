@@ -31,14 +31,14 @@ Semi-Direct drive or full bowden is supported.
 ### BOM, Model & Thingiverse Project
 The Fusion360 models and BOM should be considered the master copies, and are maintained by Tony Akens.
 
- * RailcoreII 300ZL / 300ZLT Assembly Guide - [https://railcore.page.link/guide](https://railcore.page.link/guide)
- * RailcoreII 300ZL Bill Of Materials - [https://railcore.page.link/zlbom](https://railcore.page.link/zlbom)
- * RailcoreII 300ZL Fusion360 Model - [https://railcore.page.link/zlmodel](https://railcore.page.link/zlmodel)
- * RailcoreII 300ZLT Bill Of Materials - [https://railcore.page.link/zltbom](https://railcore.page.link/zltbom)
- * RailcoreII 300ZLT Fusion360 Model - [https://railcore.page.link/zltmodel](https://railcore.page.link/zltmodel)
- * RailcoreII 300ZL/ZLT Thingiverse (all printable parts) - [https://www.thingiverse.com/thing:2407174](https://www.thingiverse.com/thing:2407174)
+ * Railcore II 300ZL / 300ZLT Assembly Guide - [https://railcore.page.link/guide](https://railcore.page.link/guide)
+ * Railcore II 300ZL Bill Of Materials - [https://railcore.page.link/zlbom](https://railcore.page.link/zlbom)
+ * Railcore II 300ZL Fusion360 Model - [https://railcore.page.link/zlmodel](https://railcore.page.link/zlmodel)
+ * Railcore II 300ZLT Bill Of Materials - [https://railcore.page.link/zltbom](https://railcore.page.link/zltbom)
+ * Railcore II 300ZLT Fusion360 Model - [https://railcore.page.link/zltmodel](https://railcore.page.link/zltmodel)
+ * Railcore II 300ZL/ZLT Thingiverse (all printable parts) - [https://www.thingiverse.com/thing:2407174](https://www.thingiverse.com/thing:2407174)
 
-# Official RailCore Versions
+# Official RailCore II Versions
 
 |                   | RailCore II (Deprecated) | RailCore IIZL | RailCore II 300 (Deprecated) | RailCore II 300ZL | RailCore II 300ZLT |
 |-------------------|--------------------------|---------------|------------------------------|-------------------|--------------------|
@@ -57,9 +57,11 @@ The Fusion360 models and BOM should be considered the master copies, and are mai
   * [Wiki - Dokuwiki (deprecated - migrating away)](https://railcore.org/doku.php) - Has security errors, use a browser (or flags) that allow you do ignore these.
   * [FAQ](/faq.md)
 
-### RailCore products
+### RailCore II products
 
 * [Railcore Kits](https://www.projectr3d.com/) from Project R3D.
 * [Aluminium parts](http://www.mandalaroseworks.com/product/railcore) from Mandala Rose Works
 * [Aluminium parts](https://713maker.com/railcore) from 713 Maker
 * [Railcore Branded Merchandise](http://kninedhp.merchminion.com/) by Merch Minion
+
+[Be a patron / donate to the project](https://www.kraegar.com/railcoreii)
