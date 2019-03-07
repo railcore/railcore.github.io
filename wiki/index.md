@@ -1,15 +1,15 @@
 ## Hardware Components
 
-  * [Things to Consider Before Ordering Parts](/things_to_consider_before_ordering_parts.md)
+  * [Things to Consider Before Ordering Parts](./things_to_consider_before_ordering_parts.md)
   * Mechanics
-    * [Linear Rails]()
-    * [Idlers]()
-    * [Leadscrews]()
+    * [Linear Rails](./linear_rails.md)
+    * Idlers
+    * [Leadscrews](./leadscrews.md)
     * [Leadscrew Couplers]()
-    * [Belts]()
+    * [Belts](./belts.md)
     * [Extruders]()
   * Electronics
-    * [Power Supplies]()
+    * [Power Supplies](./power_supplies.md)
     * [Controller]()
     * [Stepper Motors]()
     * [Stepper Drivers]()
@@ -32,7 +32,7 @@
 ## Commissioning
 
   * Commissioning introduction
-  * [Update your firmware]()
+  * [Update your firmware](./update_firmware.md)
   * [Commissioning – Duet]()
   * [Commissioning - Railcore]()
 
