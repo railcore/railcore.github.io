@@ -49,7 +49,7 @@ The Fusion360 models and BOM should be considered the master copies, and are mai
 ### Other Guides
 
   * [Kit wiring guide by 713 Maker](https://docs.google.com/document/d/1aIc6x7Vzb-bH8-pILNBV1cXyp3JWsIa50Y6eSjMmCgM/edit?usp=sharing)
-  * [Wiki - Dokuwiki (deprecated)](https://railcore.org/doku.php) - Has security errors, please use a browser (or flags) that allow you do ignore these.
+  * [Wiki - Dokuwiki (deprecated)](https://railcore.org/doku.php)
 
 # Official RailCore II Versions
 
