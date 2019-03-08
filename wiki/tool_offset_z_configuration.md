@@ -2,7 +2,9 @@
 
 So right now the way most of us (who don’t use Piezo sensors >:) set up our Z probe is like this: We home Z, and look at the distance between the nozzle and the deck. We attempt to jog down to it, only to discover we can only go to -.2. We then guess it’s 1.2mm, and we put that in our G31 line in config.g.
 
-   G31 X0 Y30 Z1.2 P1
+```
+G31 X0 Y30 Z1.2 P1
+```
 
 Then we home Z again, and jog down to Z=0 or until the nozzle touches the bed. We usually use a piece of paper to test with - we want it to JUST drag the paper noticeably. Usually our guess is wrong, and either our paper is pinned to the deck such that it would tear if we dragged on it any harder, or it’s clearly flapping in the breeze. We update our G31 again, and repeat, until we get to the point where it *just* drags the paper.  This becomes our “Z Offset”. 
 
