@@ -7,8 +7,7 @@ Other materials that have be used.
 * Melamine MDF
 * Hardboard
 * Acrylic (there are concerns it might crack around the bolts for mounting)
-* Pegboard ("Masonite-ish)
-* MDF
+* Masonite Pegboard
 * Aluminum
 
 Other possible solutions
