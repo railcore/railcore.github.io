@@ -7,7 +7,7 @@
     * [Linear Rails](./linear_rails.md)
     * Idlers
     * [Leadscrews](./leadscrews.md)
-    * [Leadscrew Couplers]()
+    * [Leadscrew Couplers](./leadscrew_couplers.md)
     * [Belts](./belts.md)
     * [Extruders]()
   * Electronics
@@ -29,7 +29,12 @@
 
 ## Firmware and Configuration
 
-(github)
+ Example configurations for several firmwares using different controllers with the standard railcore configurations
+
+  * Duet WiFi (stock) - https://github.com/railcore/configs/tree/master/duet
+  * Duet WiFi (Project R3D kit) - https://github.com/railcore/configs/tree/master/Duet_archive/ProjectR3D/300ZL
+  * RAMPS / klipper - https://github.com/railcore/configs/tree/master/Klipper/300ZL_dual_MCU
+  * Slicers - https://github.com/railcore/slicers
 
 ## Commissioning
 
