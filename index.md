@@ -4,6 +4,8 @@ title: RailCore II 3D Printer
 
 ## Official RailCore II Documentation
 
+RailCore II is a [Core-XY based Reprap 3D printer](https://reprap.org/wiki/CoreXY) designed by J. Steve White & Tony Akens under the [CC-Attribution Only license](https://creativecommons.org/licenses/by/3.0/).
+
 ### Assembly Guide, BOM, Model and Printable Parts 
 
 The Fusion360 models, Assembly Guide and BOM are the official, master copies maintained by Tony Akens.
@@ -36,10 +38,10 @@ The Fusion360 models, Assembly Guide and BOM are the official, master copies mai
 
 ### Discussion & Chat
 
- * [RailCore Printers Owners and Builders group on Facebook](https://www.facebook.com/groups/RailCore/)
- * [Railcore Forum at railcore.org](https://forum.railcore.org/)
+ * [Facebook Group](https://www.facebook.com/groups/RailCore/)
+ * [Forum at railcore.org](https://forum.railcore.org/)
  * [Discord Channel](https://discord.gg/Sy569Hq)
- * [#RailCore IRC Channel on freenode](https://tinyurl.com/yxl725zs)
+ * [#RailCore IRC channel on freenode](https://tinyurl.com/yxl725zs)
   
 ### RailCore II kits and products
 
@@ -49,15 +51,16 @@ The Fusion360 models, Assembly Guide and BOM are the official, master copies mai
 * [Railcore Branded Merchandise](http://kninedhp.merchminion.com/) by Merch Minion
 
 ## About the RailCore II
-RailCore II is a Core-XY based Reprap 3D printer designed by J. Steve White & Tony Akens under the CC-Attribution Only license. The initial idea to collaborate on a printer started in the #RepRap IRC channel, and centered on some common goals we both had in mind for a new printer design.
+
+The initial idea to collaborate on a printer started in the #RepRap IRC channel, and centered on some common goals we both had in mind for a new printer design.
 
 These were:-
  * Core-XY motion.
- * All Linear rails for movement
- * Space & cost Efficient, enclosable frame
- * Key components being printable, or able to be milled
- * Flexibility and scalability in the design
- * A professional looking printer
+ * All Linear rails for movement.
+ * Space & cost-efficient, enclosable frame.
+ * Key components being printable, or able to be milled.
+ * Flexibility and scalability in the design.
+ * A professional looking printer.
  * Self sourced and easily customizable.
 
 J. Steve White had previously built the Railcore - the alpha version of this printer.  Lessons were learned and the design on the new printer began.  All design work was done in Fusion360.
