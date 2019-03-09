@@ -2,15 +2,9 @@
 title: RailCore II 3D Printer
 ---
 
-# Documentation & Guides
+### BOM, Model, Thingiverse Project, Documentation & Guides
 
- * [Offical RailcoreII 300ZL/ZLT Assembly Guide](https://docs.google.com/document/d/19FuTYfwqgOkGO8SUScnSuhS_Gx8mJMmXLiPgBfGeJ-s/edit?usp=sharing)
- * [Kit wiring guide](https://docs.google.com/document/d/1aIc6x7Vzb-bH8-pILNBV1cXyp3JWsIa50Y6eSjMmCgM/edit?usp=sharing)
- * [A more detailed version of the story of the RailCore II](/the_railcore_story.md)
- 
- ### BOM, Model & Thingiverse Project
-
-The Fusion360 models and BOM should be considered the master copies, and are maintained by Tony Akens.
+The Fusion360 models and BOM should be considered the official, master copies and are maintained by Tony Akens.
 
  * RailCore II 300ZL / 300ZLT Assembly Guide - [https://railcore.page.link/guide](https://railcore.page.link/guide)
  * RailCore II 300ZL Bill Of Materials - [https://railcore.page.link/zlbom](https://railcore.page.link/zlbom)
@@ -19,6 +13,7 @@ The Fusion360 models and BOM should be considered the master copies, and are mai
  * RailCore II 300ZLT Fusion360 Model - [https://railcore.page.link/zltmodel](https://railcore.page.link/zltmodel)
  * RailCore II 300ZL/ZLT Thingiverse (all printable parts) - [https://www.thingiverse.com/thing:2407174](https://www.thingiverse.com/thing:2407174)
  * [RailCore II Wiki (new)](/wiki/index.md)
+ * [Project R3D Kit wiring guide](https://docs.google.com/document/d/1aIc6x7Vzb-bH8-pILNBV1cXyp3JWsIa50Y6eSjMmCgM/edit?usp=sharing)
  * [Railcore II Wiki (old) - at railcore.org (now deprecated)](https://railcore.org/doku.php)
  * [FAQ](/faq.md)
  
@@ -43,6 +38,7 @@ The frame is designed to be 1515 aluminum extrusion.  This was a space efficient
 Some notable aspects of the design: 3 trapezoidal lead screws Z-axis, stacked idlers and duo-planar belt path.
 The electronics in the design are the Duet (Wifi or Ethernet), Duex2/5,  24v PSU and 0.9 degree steppers.  We used an E3D v6 for the design, as it's the most common hotend at this time.  Support for other hotends such as Bondtech and Mosquito and many others are also available.
 Semi-Direct drive or full bowden is supported.
+[A more detailed version of the story of the RailCore II can be found here](/the_railcore_story.md)
 
 *A special thanks to [Filastruder](https://www.filastruder.com/), [Duet3d](https://www.duet3d.com/), [E3D](https://e3d-online.com/), [SeeMeCNC](https://www.seemecnc.com/), [Mandala Rose Works](http://www.mandalaroseworks.com/product/railcore), [713 Maker](https://713maker.com/railcore) and [Project R3D](https://www.projectr3d.com/) for supporting the project.*
 
@@ -50,10 +46,6 @@ Semi-Direct drive or full bowden is supported.
 
  * [Discord Channel](https://discord.gg/Sy569Hq)
  * [#RailCore IRC Channel on freenode](https://tinyurl.com/yxl725zs)
-
-### Other Guides
-
-  * [Kit wiring guide by 713 Maker](https://docs.google.com/document/d/1aIc6x7Vzb-bH8-pILNBV1cXyp3JWsIa50Y6eSjMmCgM/edit?usp=sharing)
   
 ### RailCore II kits and products
 
