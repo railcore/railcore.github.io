@@ -1,10 +1,9 @@
 ---
 title: RailCore II 3D Printer
 ---
-
-## Official RailCore II Documentation
-
 RailCore II is a [Core-XY based Reprap 3D printer](https://reprap.org/wiki/CoreXY) designed by J. Steve White & Tony Akens under the [CC-Attribution Only license](https://creativecommons.org/licenses/by/3.0/).
+
+## Official RailCore II Resources
 
 ### Assembly Guide, BOM, Model and Printable Parts 
 
@@ -21,7 +20,7 @@ The Fusion360 models, Assembly Guide and BOM are the official, master copies mai
  * [FAQ](/faq.md)
  * [Be a patron or donate to the project](https://www.kraegar.com/railcoreii) - *Donations and subscriptions go towards the development of new improvements for the RailCore II.*
 
-## The RailCore II Community 
+## RailCore II Community Resources
 
 ### Community Maintained Documentation & Guides
    
@@ -31,7 +30,7 @@ The Fusion360 models, Assembly Guide and BOM are the official, master copies mai
        * [Community Duet config](https://github.com/railcore/configs/tree/master/duet)
        * [Project R3D config](https://github.com/railcore/configs/tree/master/Duet_archive/ProjectR3D/300ZL)
      * [Slicer Configs](https://github.com/railcore/slicers)
-     * [STL/DXF files at Github](https://github.com/railcore/railcore.github.io/tree/master/BOM)
+     * [STL/DXF files](https://github.com/railcore/railcore.github.io/tree/master/BOM)
    * [(deprecated) Wiki](https://railcore.org/doku.php)
    * [Kit wiring guide by Project R3D](https://docs.google.com/document/d/1aIc6x7Vzb-bH8-pILNBV1cXyp3JWsIa50Y6eSjMmCgM/edit?usp=sharing)
    * [Thingiverse Collection](https://www.thingiverse.com/railcore/collections/300zl-zlt)
@@ -50,7 +49,7 @@ The Fusion360 models, Assembly Guide and BOM are the official, master copies mai
 * [Aluminium parts](https://713maker.com/railcore) by 713 Maker
 * [Railcore Branded Merchandise](http://kninedhp.merchminion.com/) by Merch Minion
 
-## About the RailCore II
+## More about the RailCore II
 
 The initial idea to collaborate on a printer started in the #RepRap IRC channel, and centered on some common goals we both had in mind for a new printer design.
 
