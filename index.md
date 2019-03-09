@@ -32,10 +32,10 @@ The Fusion360 models and BOM should be considered the official, master copies an
 ## RailCore II Community 
 
 ### Community Maintained Information & Guides
-   * [RailCore II Wiki (new)](/wiki/index.md)
+   * [RailCore II Wiki (new) at railcore.github.io](/wiki/index.md)
+   * [Railcore II Wiki (deprecated) at railcore.org](https://railcore.org/doku.php)
    * [Project R3D Kit wiring guide](https://docs.google.com/document/d/1aIc6x7Vzb-bH8-pILNBV1cXyp3JWsIa50Y6eSjMmCgM/edit?usp=sharing)
-   * [Railcore II Wiki (old) - at railcore.org (now deprecated)](https://railcore.org/doku.php)
-   
+
 ### Chat & Discussion
 
  * [Discord Channel](https://discord.gg/Sy569Hq)
