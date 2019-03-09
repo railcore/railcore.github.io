@@ -4,7 +4,7 @@ title: RailCore II 3D Printer
 
 ## Official Documentation
 
-### BOM, Model, Thingiverse Project and Documentation
+### Assembly Guide, BOM, Model and Printable Parts 
 
 The Fusion360 models and BOM should be considered the official, master copies and are maintained by Tony Akens.
 
