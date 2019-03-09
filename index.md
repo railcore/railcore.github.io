@@ -23,7 +23,7 @@ The Fusion360 models, Assembly Guide and BOM are the official, master copies mai
 
 ### Community Maintained Documentation & Guides
    
-   * [RailCore II Github](https://github.com/railcore) - *(All of the Github section is under active development - March 2019)*
+   * [RailCore II Github](https://github.com/railcore)
      * [RailCore II Wiki (new) at railcore.github.io](/wiki/index.md)
      * [RailCore II configs for Duet and other boards](https://github.com/railcore/configs)
        * [Community Duet config](https://github.com/railcore/configs/tree/master/duet)
