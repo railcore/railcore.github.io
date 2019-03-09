@@ -2,21 +2,53 @@
 title: RailCore II 3D Printer
 ---
 
-### BOM, Model, Thingiverse Project, Documentation & Guides
+## Documentation
+
+### Official BOM, Model, Thingiverse Project and Documentation
 
 The Fusion360 models and BOM should be considered the official, master copies and are maintained by Tony Akens.
 
- * RailCore II 300ZL / 300ZLT Assembly Guide - [https://railcore.page.link/guide](https://railcore.page.link/guide)
- * RailCore II 300ZL Bill Of Materials - [https://railcore.page.link/zlbom](https://railcore.page.link/zlbom)
- * RailCore II 300ZL Fusion360 Model - [https://railcore.page.link/zlmodel](https://railcore.page.link/zlmodel)
- * RailCore II 300ZLT Bill Of Materials - [https://railcore.page.link/zltbom](https://railcore.page.link/zltbom)
- * RailCore II 300ZLT Fusion360 Model - [https://railcore.page.link/zltmodel](https://railcore.page.link/zltmodel)
- * RailCore II 300ZL/ZLT Thingiverse (all printable parts) - [https://www.thingiverse.com/thing:2407174](https://www.thingiverse.com/thing:2407174)
- * [RailCore II Wiki (new)](/wiki/index.md)
- * [Project R3D Kit wiring guide](https://docs.google.com/document/d/1aIc6x7Vzb-bH8-pILNBV1cXyp3JWsIa50Y6eSjMmCgM/edit?usp=sharing)
- * [Railcore II Wiki (old) - at railcore.org (now deprecated)](https://railcore.org/doku.php)
+ * [RailCore II 300ZL / 300ZLT Assembly Guide](https://railcore.page.link/guide)
+ * [RailCore II 300ZL/ZLT Thingiverse (all printable parts)](https://www.thingiverse.com/thing:2407174)
+ * **Bill Of Materials**
+   * [RailCore II 300ZL Bill Of Materials](https://railcore.page.link/zlbom)
+   * [RailCore II 300ZLT Bill Of Materials](https://railcore.page.link/zltbom)
+ * **Fusion 360 Models**
+   * [RailCore II 300ZL Fusion360 Model](https://railcore.page.link/zlmodel)
+   * [RailCore II 300ZLT Fusion360 Model](https://railcore.page.link/zltmodel)
  * [FAQ](/faq.md)
  
+ ## Official RailCore II Versions
+
+|                   | RailCore II (Deprecated) | RailCore IIZL | RailCore II 300 (Deprecated) | RailCore II 300ZL | RailCore II 300ZLT |
+|-------------------|--------------------------|---------------|------------------------------|-------------------|--------------------|
+| X/Y Printable     | 250×250                  | 250×250       | 300×300                      | 300×300           | 300×300            |
+| Z Printable       | 250                      | 280           | 300                          | 330               | 600                |
+| Auto Leveling?    | No                       | Yes           | No                           | Yes               | Yes                |
+| Fusion 360 Model  | [Model](http://a360.co/2z30VXH)                    | [Model](http://a360.co/2DoeHFu)         | [Model](http://a360.co/2BZLzTA)                        | [Model](http://a360.co/2D5OryV)             | [Model](https://a360.co/2w7PjT6)              |
+| Bill of Materials | [BOM](https://docs.google.com/spreadsheets/d/1KvlSNYHE20HYjQlURdH50Pn_V7t8TfuNNLnhcvI4Nos/edit?usp=sharing)                      | [BOM](https://docs.google.com/spreadsheets/d/1QZgV6a6Gk4xR9WxrK2C4QYaPQTXA8t7dFDyHO74-oSY/edit?usp=sharing)           | [BOM](https://docs.google.com/spreadsheets/d/1ePSq-bL4-4rGUdbzkxtMmNftXPYwv5IH47edacloU4E/edit?usp=sharing)                          | [BOM](https://docs.google.com/spreadsheets/d/1Eib0IkmRiP-zVM2p6gZ9PJ2bsDDvSKWbGtUybuFWfcs/edit?usp=sharing)               | [BOM](https://docs.google.com/spreadsheets/d/1L8mOABLsbfHb1PVPEnT-TpgfRpO25UduGNxD8GNMPSs/edit?usp=sharing)                |
+| Assembly Guide    | [Guide](https://docs.google.com/document/d/1wBlwMw_H73dxT0H4OD7fWI7y6bFSvh7_BoBPMTmdTZs/edit?usp=sharing)                    | [Guide](https://docs.google.com/document/d/1OoXfw7aXMz0NzAxkdwuChC0FpunLRyKI02_1vJF52hk/edit?usp=sharing)         | [Guide](https://docs.google.com/document/d/1hC_S6MeUwHMQ6U9vivJ6D1Olx1hfcOVcvL2W0NaXD28/edit?usp=sharing)                        | [Guide](https://docs.google.com/document/d/19FuTYfwqgOkGO8SUScnSuhS_Gx8mJMmXLiPgBfGeJ-s/edit?usp=sharing) [Kit wiring](https://docs.google.com/document/d/1aIc6x7Vzb-bH8-pILNBV1cXyp3JWsIa50Y6eSjMmCgM/edit?usp=sharing)  |   [Guide](https://docs.google.com/document/d/19FuTYfwqgOkGO8SUScnSuhS_Gx8mJMmXLiPgBfGeJ-s/edit?usp=sharing) [Kit wiring](https://docs.google.com/document/d/1aIc6x7Vzb-bH8-pILNBV1cXyp3JWsIa50Y6eSjMmCgM/edit?usp=sharing) 
+
+## RailCore II Community 
+
+### Community Maintained Information & Guides
+   * [RailCore II Wiki (new)](/wiki/index.md)
+   * [Project R3D Kit wiring guide](https://docs.google.com/document/d/1aIc6x7Vzb-bH8-pILNBV1cXyp3JWsIa50Y6eSjMmCgM/edit?usp=sharing)
+   * [Railcore II Wiki (old) - at railcore.org (now deprecated)](https://railcore.org/doku.php)
+   
+### Chat & Discussion
+
+ * [Discord Channel](https://discord.gg/Sy569Hq)
+ * [#RailCore IRC Channel on freenode](https://tinyurl.com/yxl725zs)
+ * [RailCore Printers Owners and Builder on Facebook](https://www.facebook.com/groups/RailCore/)
+ * [Railcore Forum at railcore.org](https://forum.railcore.org/)
+  
+### RailCore II kits and products
+
+* [RailCore II Kits](https://www.projectr3d.com/) from Project R3D.
+* [Aluminium parts](http://www.mandalaroseworks.com/product/railcore) by Mandala Rose Works
+* [Aluminium parts](https://713maker.com/railcore) by 713 Maker
+* [Railcore Branded Merchandise](http://kninedhp.merchminion.com/) by Merch Minion
 
 ## About the RailCore II
 RailCore II is a Core-XY based Reprap 3D printer designed by J. Steve White & Tony Akens under the CC-Attribution Only license. The initial idea to collaborate on a printer started in the #RepRap IRC channel, and centered on some common goals we both had in mind for a new printer design.
@@ -42,27 +74,5 @@ Semi-Direct drive or full bowden is supported.
 
 *A special thanks to [Filastruder](https://www.filastruder.com/), [Duet3d](https://www.duet3d.com/), [E3D](https://e3d-online.com/), [SeeMeCNC](https://www.seemecnc.com/), [Mandala Rose Works](http://www.mandalaroseworks.com/product/railcore), [713 Maker](https://713maker.com/railcore) and [Project R3D](https://www.projectr3d.com/) for supporting the project.*
 
-### Chat
-
- * [Discord Channel](https://discord.gg/Sy569Hq)
- * [#RailCore IRC Channel on freenode](https://tinyurl.com/yxl725zs)
-  
-### RailCore II kits and products
-
-* [RailCore II Kits](https://www.projectr3d.com/) from Project R3D.
-* [Aluminium parts](http://www.mandalaroseworks.com/product/railcore) by Mandala Rose Works
-* [Aluminium parts](https://713maker.com/railcore) by 713 Maker
-* [Railcore Branded Merchandise](http://kninedhp.merchminion.com/) by Merch Minion
-
 [Be a patron / donate to the project](https://www.kraegar.com/railcoreii)  
 
-# Official RailCore II Versions
-
-|                   | RailCore II (Deprecated) | RailCore IIZL | RailCore II 300 (Deprecated) | RailCore II 300ZL | RailCore II 300ZLT |
-|-------------------|--------------------------|---------------|------------------------------|-------------------|--------------------|
-| X/Y Printable     | 250×250                  | 250×250       | 300×300                      | 300×300           | 300×300            |
-| Z Printable       | 250                      | 280           | 300                          | 330               | 600                |
-| Auto Leveling?    | No                       | Yes           | No                           | Yes               | Yes                |
-| Fusion 360 Model  | [Model](http://a360.co/2z30VXH)                    | [Model](http://a360.co/2DoeHFu)         | [Model](http://a360.co/2BZLzTA)                        | [Model](http://a360.co/2D5OryV)             | [Model](https://a360.co/2w7PjT6)              |
-| Bill of Materials | [BOM](https://docs.google.com/spreadsheets/d/1KvlSNYHE20HYjQlURdH50Pn_V7t8TfuNNLnhcvI4Nos/edit?usp=sharing)                      | [BOM](https://docs.google.com/spreadsheets/d/1QZgV6a6Gk4xR9WxrK2C4QYaPQTXA8t7dFDyHO74-oSY/edit?usp=sharing)           | [BOM](https://docs.google.com/spreadsheets/d/1ePSq-bL4-4rGUdbzkxtMmNftXPYwv5IH47edacloU4E/edit?usp=sharing)                          | [BOM](https://docs.google.com/spreadsheets/d/1Eib0IkmRiP-zVM2p6gZ9PJ2bsDDvSKWbGtUybuFWfcs/edit?usp=sharing)               | [BOM](https://docs.google.com/spreadsheets/d/1L8mOABLsbfHb1PVPEnT-TpgfRpO25UduGNxD8GNMPSs/edit?usp=sharing)                |
-| Assembly Guide    | [Guide](https://docs.google.com/document/d/1wBlwMw_H73dxT0H4OD7fWI7y6bFSvh7_BoBPMTmdTZs/edit?usp=sharing)                    | [Guide](https://docs.google.com/document/d/1OoXfw7aXMz0NzAxkdwuChC0FpunLRyKI02_1vJF52hk/edit?usp=sharing)         | [Guide](https://docs.google.com/document/d/1hC_S6MeUwHMQ6U9vivJ6D1Olx1hfcOVcvL2W0NaXD28/edit?usp=sharing)                        | [Guide](https://docs.google.com/document/d/19FuTYfwqgOkGO8SUScnSuhS_Gx8mJMmXLiPgBfGeJ-s/edit?usp=sharing) [Kit wiring](https://docs.google.com/document/d/1aIc6x7Vzb-bH8-pILNBV1cXyp3JWsIa50Y6eSjMmCgM/edit?usp=sharing)  |   [Guide](https://docs.google.com/document/d/19FuTYfwqgOkGO8SUScnSuhS_Gx8mJMmXLiPgBfGeJ-s/edit?usp=sharing) [Kit wiring](https://docs.google.com/document/d/1aIc6x7Vzb-bH8-pILNBV1cXyp3JWsIa50Y6eSjMmCgM/edit?usp=sharing) 
