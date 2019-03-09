@@ -1,14 +1,14 @@
 ### Side Panels
 
-The side panels are usually milled from HDPE with a thickness of 6.35mm (6mm works aswell and might be easier to source)
+The side panels are usually milled from HDPE with a thickness of 6.35mm (6mm works as well and might be easier to source)
 
-Other materials that have be used.
-* 6mm Plywood (birch is good)
+Other materials that have been used by builders.
+
 * Melamine MDF
 * Hardboard
 * Acrylic (there are concerns it might crack around the bolts for mounting)
-* Pegboard ("Masonite-ish)
-* MDF
+* Masonite Pegboard
+* Plywood (hardwood such as birch)
 * Aluminum
 
 Other possible solutions
