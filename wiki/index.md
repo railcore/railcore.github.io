@@ -1,31 +1,33 @@
 ![RailCore II Wiki](https://railcore.github.io/wiki/images/logo.png)
 
+! = not migrated yet or populated yet, refer to old wiki
+
 ## Hardware Components
 
   * [Things to Consider Before Ordering Parts](./things_to_consider_before_ordering_parts.md)
   * Mechanics
     * [Linear Rails](./linear_rails.md)
-    * Idlers
+    * [!Idlers]()
     * [Leadscrews](./leadscrews.md)
     * [Leadscrew Couplers](./leadscrew_couplers.md)
     * [Belts](./belts.md)
-    * [Extruders]()
+    * [Extruders](./extruders.md)
   * Electronics
     * [Power Supplies](./power_supplies.md)
-    * [Controller]()
-    * [Stepper Motors]()
-    * [Stepper Drivers]()
-    * [Bed Heaters]()
-    * [SSR's]()
-    * [Z-Probes]()
-    * [Endstop Switches]()
-    * [Fans]()
+    * [Controller](./controller.md)
+    * [Stepper Motors](./stepper_motors.md)
+    * [!Stepper Drivers]()
+    * [!Bed Heaters]()
+    * [!SSR's]()
+    * [Z-Probes](./z_probe.md)
+    * [!Endstop Switches]()
+    * [Fans](./fans.md)
   * Other
-    * [Bed Surfaces]()
-    * [Hotends]()
-    * [Side Panels]()
-    * [Frame Extrusions]()
-    * [Mag Bed Flex Plates]()
+    * [Build Surfaces](./build_surfaces.md)
+    * [!Hotends]()
+    * [Side Panels](./side_panels.md)
+    * [!Frame Extrusions]()
+    * [!Mag Bed Flex Plates]()
 
 ## Firmware and Configuration
 
@@ -40,8 +42,8 @@
 
   * Commissioning introduction
   * [Update your firmware](./update_firmware.md)
-  * [Commissioning – Duet]()
-  * [Commissioning - Railcore]()
+  * [!Commissioning – Duet]()
+  * [!Commissioning - Railcore]()
 
 ## Sample Builds
 
@@ -50,9 +52,11 @@
 ## Variations & Customizations
 
 ### Configuration Options 
-  * [Duet Switchless X/Y Homing]()
-  * [Tool Offset Z configuration]()
-
+  * [!Duet Switchless X/Y Homing]()
+  * [!Tool Offset Z configuration]()
+  * [New Z alignment procedure for the Z extrusions](./new_Z_alignment_procedure_for_the_Z_extrusions.md)
+  * [](./tool_offset_z_configuration.md)
+  
 ### Improving durability
 There are some milled aluminium replacement parts available 
 
@@ -71,15 +75,7 @@ A list of how-to's on various aspects of the Railcore build:
 ## Community Modifications
 
 A list of contributed modifications by builders:
-  * [Addons]()
-  * [Modifications]()
+  * [!Addons]()
+  * [!Modifications]()
 
-There are some [tips]() here too.
-
-
-
-
-
-
-
-
+There are some [!tips]() here too.
