@@ -1,4 +1,4 @@
-New Z alignment procedure for the Z extrusions.
+#### New Z alignment procedure for the Z extrusions.
 
 Looking for some folks to help test this. If you have what appears to be Z banding, give it a shot. First, print this part:
 https://www.dropbox.com/s/76qkv7ssice8h4l/z_alignment.stl… (I recommend printing a few of them, it's small).
