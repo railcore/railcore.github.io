@@ -6,6 +6,6 @@ Various Linear rails have been tested
  * Genuine Hiwin Rails
  * Zyltech Linear Rails
 
-You can rebuild your Chinese linear rails, [following the guide here](https://forum.railcore.org/app.php/kb/viewarticle?a=2)
+You can rebuild your Chinese linear rails, [following the guide here](http://forum.seemecnc.com/viewtopic.php?t=12429)
 
 For lubrication, an oil or grease with a PTFE additive is recommended.
