@@ -2,9 +2,9 @@
 title: RailCore II 3D Printer
 ---
 
-## Documentation
+## Official Documentation
 
-### Official BOM, Model, Thingiverse Project and Documentation
+### BOM, Model, Thingiverse Project and Documentation
 
 The Fusion360 models and BOM should be considered the official, master copies and are maintained by Tony Akens.
 
@@ -17,10 +17,11 @@ The Fusion360 models and BOM should be considered the official, master copies an
    * [RailCore II 300ZL Fusion360 Model](https://railcore.page.link/zlmodel)
    * [RailCore II 300ZLT Fusion360 Model](https://railcore.page.link/zltmodel)
  * [FAQ](/faq.md)
- 
- ## Official RailCore II Versions
+ * [Be a patron or donate to the project](https://www.kraegar.com/railcoreii) - *Donations and subscriptions go towards the development of new improvements for the RailCore II.*
 
-|                   | RailCore II (Deprecated) | RailCore IIZL | RailCore II 300 (Deprecated) | RailCore II 300ZL | RailCore II 300ZLT |
+## Table of RailCore II Versions
+
+|                   | RailCore II (Deprecated) | RailCore II ZL | RailCore II 300 (Deprecated) | RailCore II 300ZL | RailCore II 300ZLT |
 |-------------------|--------------------------|---------------|------------------------------|-------------------|--------------------|
 | X/Y Printable     | 250×250                  | 250×250       | 300×300                      | 300×300           | 300×300            |
 | Z Printable       | 250                      | 280           | 300                          | 330               | 600                |
@@ -36,12 +37,12 @@ The Fusion360 models and BOM should be considered the official, master copies an
    * [Railcore II Wiki (deprecated) at railcore.org](https://railcore.org/doku.php)
    * [Project R3D Kit wiring guide](https://docs.google.com/document/d/1aIc6x7Vzb-bH8-pILNBV1cXyp3JWsIa50Y6eSjMmCgM/edit?usp=sharing)
 
-### Chat & Discussion
+### Discussion & Chat
 
+ * [RailCore Printers Owners and Builders group on Facebook](https://www.facebook.com/groups/RailCore/)
+ * [Railcore Forum at railcore.org](https://forum.railcore.org/)
  * [Discord Channel](https://discord.gg/Sy569Hq)
  * [#RailCore IRC Channel on freenode](https://tinyurl.com/yxl725zs)
- * [RailCore Printers Owners and Builder on Facebook](https://www.facebook.com/groups/RailCore/)
- * [Railcore Forum at railcore.org](https://forum.railcore.org/)
   
 ### RailCore II kits and products
 
@@ -73,6 +74,4 @@ Semi-Direct drive or full bowden is supported.
 [A more detailed version of the story of the RailCore II can be found here](/the_railcore_story.md)
 
 *A special thanks to [Filastruder](https://www.filastruder.com/), [Duet3d](https://www.duet3d.com/), [E3D](https://e3d-online.com/), [SeeMeCNC](https://www.seemecnc.com/), [Mandala Rose Works](http://www.mandalaroseworks.com/product/railcore), [713 Maker](https://713maker.com/railcore) and [Project R3D](https://www.projectr3d.com/) for supporting the project.*
-
-[Be a patron / donate to the project](https://www.kraegar.com/railcoreii)  
 
