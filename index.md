@@ -32,6 +32,7 @@ The Fusion360 models, Assembly Guide and BOM are the official, master copies mai
      * [RailCore II STL/DXF files at Github](https://github.com/railcore/railcore.github.io/tree/master/BOM)
    * [Railcore II Wiki (deprecated) at railcore.org](https://railcore.org/doku.php)
    * [Project R3D Kit wiring guide](https://docs.google.com/document/d/1aIc6x7Vzb-bH8-pILNBV1cXyp3JWsIa50Y6eSjMmCgM/edit?usp=sharing)
+   * [RailCore Thingiverse Collection](https://www.thingiverse.com/railcore/collections/300zl-zlt)
 
 ### Discussion & Chat
 
