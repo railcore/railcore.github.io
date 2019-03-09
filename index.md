@@ -11,7 +11,7 @@ RailCore II is a [Core-XY based Reprap 3D printer](https://reprap.org/wiki/CoreX
 The Fusion360 models, Assembly Guide and BOM are the official, master copies maintained by Tony Akens.
 
  * [RailCore II 300ZL/ZLT Assembly Guide](https://railcore.page.link/guide)
- * [RailCore II 300ZL/ZLT Thingiverse (all printable parts)](https://www.thingiverse.com/thing:2407174)
+ * [RailCore II 300ZL/ZLT Thingiverse Project(all printable parts)](https://www.thingiverse.com/thing:2407174)
  * **Bill Of Materials**
    * [RailCore II 300ZL Bill Of Materials](https://railcore.page.link/zlbom)
    * [RailCore II 300ZLT Bill Of Materials](https://railcore.page.link/zltbom)
@@ -25,21 +25,21 @@ The Fusion360 models, Assembly Guide and BOM are the official, master copies mai
 
 ### Community Maintained Documentation & Guides
    
-   * [RailCore II Github](https://github.com/railcore)
-     * [RailCore II Wiki (new) at railcore.github.io](/wiki/index.md)
-     * [RailCore II configs for Duet and other boards](https://github.com/railcore/configs)
+   * [Github](https://github.com/railcore)
+     * [Wiki](/wiki/index.md)
+     * [configs for Duet and other boards](https://github.com/railcore/configs)
        * [Community Duet config](https://github.com/railcore/configs/tree/master/duet)
        * [Project R3D config](https://github.com/railcore/configs/tree/master/Duet_archive/ProjectR3D/300ZL)
-     * [RailCore II Slicer Configs](https://github.com/railcore/slicers)
-     * [RailCore II STL/DXF files at Github](https://github.com/railcore/railcore.github.io/tree/master/BOM)
-   * [Railcore II Wiki (deprecated) at railcore.org](https://railcore.org/doku.php)
-   * [Project R3D Kit wiring guide](https://docs.google.com/document/d/1aIc6x7Vzb-bH8-pILNBV1cXyp3JWsIa50Y6eSjMmCgM/edit?usp=sharing)
-   * [RailCore Thingiverse Collection](https://www.thingiverse.com/railcore/collections/300zl-zlt)
+     * [Slicer Configs](https://github.com/railcore/slicers)
+     * [STL/DXF files at Github](https://github.com/railcore/railcore.github.io/tree/master/BOM)
+   * [(deprecated) Wiki](https://railcore.org/doku.php)
+   * [Kit wiring guide by Project R3D](https://docs.google.com/document/d/1aIc6x7Vzb-bH8-pILNBV1cXyp3JWsIa50Y6eSjMmCgM/edit?usp=sharing)
+   * [Thingiverse Collection](https://www.thingiverse.com/railcore/collections/300zl-zlt)
 
 ### Discussion & Chat
 
  * [Facebook Group](https://www.facebook.com/groups/RailCore/)
- * [Forum at railcore.org](https://forum.railcore.org/)
+ * [Forum](https://forum.railcore.org/)
  * [Discord Channel](https://discord.gg/Sy569Hq)
  * [#RailCore IRC channel on freenode](https://tinyurl.com/yxl725zs)
   
