@@ -8,7 +8,7 @@ title: RailCore II 3D Printer
 
 The Fusion360 models and BOM should be considered the official, master copies and are maintained by Tony Akens.
 
- * [RailCore II 300ZL / 300ZLT Assembly Guide](https://railcore.page.link/guide)
+ * [RailCore II 300ZL/ZLT Assembly Guide](https://railcore.page.link/guide)
  * [RailCore II 300ZL/ZLT Thingiverse (all printable parts)](https://www.thingiverse.com/thing:2407174)
  * **Bill Of Materials**
    * [RailCore II 300ZL Bill Of Materials](https://railcore.page.link/zlbom)
