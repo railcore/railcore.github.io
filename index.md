@@ -33,7 +33,14 @@ The Fusion360 models and BOM should be considered the official, master copies an
 ## RailCore II Community 
 
 ### Community Maintained Information & Guides
-   * [RailCore II Wiki (new) at railcore.github.io](/wiki/index.md)
+   
+   * [RailCore II Github](https://github.com/railcore) - *(All of the Github section is under active development - March 2019)*
+     * [RailCore II Wiki (new) at railcore.github.io](/wiki/index.md)
+     * [RailCore II configs for Duet and other boards](https://github.com/railcore/configs)
+       * [Community Duet config](https://github.com/railcore/configs/tree/master/duet)
+       * [Project R3D config](https://github.com/railcore/configs/tree/master/Duet_archive/ProjectR3D/300ZL)
+     * [RailCore II Slicer Configs](https://github.com/railcore/slicers)
+     * [RailCore II stls/dxfs at github](https://github.com/railcore/railcore.github.io/tree/master/BOM)
    * [Railcore II Wiki (deprecated) at railcore.org](https://railcore.org/doku.php)
    * [Project R3D Kit wiring guide](https://docs.google.com/document/d/1aIc6x7Vzb-bH8-pILNBV1cXyp3JWsIa50Y6eSjMmCgM/edit?usp=sharing)
 
