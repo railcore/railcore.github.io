@@ -1,8 +1,6 @@
 ---
 title: RailCore II Wiki
 --- 
-This section is currently being migrated.
-"!" means "not migrated yet or populated yet", please [refer to old wiki](https://railcore.org/doku.php)
 
 ## Hardware Components
 
