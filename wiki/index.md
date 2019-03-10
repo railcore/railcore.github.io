@@ -1,6 +1,6 @@
-![RailCore II Wiki](https://railcore.github.io/wiki/images/logo.png)
+#RailCore II Wiki
 
-! = not migrated yet or populated yet, refer to old wiki
+! = not migrated yet or populated yet, please [refer to old wiki](https://railcore.org/doku.php)
 
 ## Hardware Components
 
@@ -55,7 +55,7 @@
   * [!Duet Switchless X/Y Homing]()
   * [!Tool Offset Z configuration]()
   * [New Z alignment procedure for the Z extrusions](./new_Z_alignment_procedure_for_the_Z_extrusions.md)
-  * [](./tool_offset_z_configuration.md)
+  * [Tool Offset Z configuration](./tool_offset_z_configuration.md)
   
 ### Improving durability
 There are some milled aluminium replacement parts available 
