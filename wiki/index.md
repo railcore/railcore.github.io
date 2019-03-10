@@ -51,7 +51,7 @@ title: RailCore II Wiki
   * [Duet Switchless X/Y Homing](./duet_switchless_homing.md)
   * [Tool Offset Z configuration](./tool_offset_z_configuration.md)
   * [New Z alignment procedure for the Z extrusions](./new_Z_alignment_procedure_for_the_Z_extrusions.md)
-  * [Aligning the X Carriages/Y Rail](aligning_the_x_carriages_y_rail.pdf) *temporary PDF version*
+  * [Aligning the X Carriages/Y Rail](./aligning_the_x_carriages_y_rail.md)
   * [How to configure the offsets for Z-Leveling(video)](https://www.youtube.com/watch?v=qeFGLb8Gf6U)
   
 ### Improving with machined/milled parts for durability, strength and to reduce mass.
