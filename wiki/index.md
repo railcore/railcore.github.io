@@ -1,6 +1,7 @@
-#RailCore II Wiki
+# RailCore II Wiki
 
-! = not migrated yet or populated yet, please [refer to old wiki](https://railcore.org/doku.php)
+Currently being migrated.
+"!" means "not migrated yet or populated yet", please [refer to old wiki](https://railcore.org/doku.php)
 
 ## Hardware Components
 
