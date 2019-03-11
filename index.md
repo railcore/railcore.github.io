@@ -36,7 +36,7 @@ The Fusion360 models, Assembly Guide and BOM are the official, master copies mai
        * [Project R3D Duet config](https://github.com/railcore/configs/tree/master/Duet_archive/ProjectR3D/300ZL)
        * [Config Repository for all boards](https://github.com/railcore/configs)
      * [Slicer Configs](https://github.com/railcore/slicers)
-     * [STL/DXF files](https://github.com/railcore/railcore.github.io/tree/master/parts)  *currently moved out*
+     * ~~[STL/DXF files](https://github.com/railcore/railcore.github.io/tree/master/parts)~~
      * [Wiki source](https://github.com/railcore/railcore.github.io/tree/master/wiki)
      * [RailCore Project](https://github.com/railcore)
    * [Kit wiring guide by Project R3D](https://docs.google.com/document/d/1aIc6x7Vzb-bH8-pILNBV1cXyp3JWsIa50Y6eSjMmCgM/edit?usp=sharing)
