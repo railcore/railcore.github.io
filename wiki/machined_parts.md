@@ -1,12 +1,12 @@
 ---
-title: Side panels and improving with machined/milled parts
+title: Machined Parts (Aluminium upgrades and panels)
 --- 
 
 Machined and milled parts are available which can increase durability, strength and rigidity. They can also reduce mass or just simply look amazing!
 
 ## Panels and covers
  
-  * [Kraegar.com/Tony Akens](https://www.kraegar.com/shop) USA/Canada only
+  * [Kraegar.com/Tony Akens](https://www.kraegar.com/shop) *USA/Canada only*
      * RailCore Printed Parts
      * Side Panels
    * [Mandala Rose Works](http://www.mandalaroseworks.com/product/railcore_parts)
