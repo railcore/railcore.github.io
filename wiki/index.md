@@ -53,8 +53,8 @@ title: RailCore II Wiki
   * [New Z alignment procedure for the Z extrusions](./new_Z_alignment_procedure_for_the_Z_extrusions.md)
   * [Aligning the X Carriages/Y Rail](./aligning_the_x_carriages_y_rail.md)
   * [How to configure the offsets for Z-Leveling(video)](https://www.youtube.com/watch?v=qeFGLb8Gf6U)
-  * [Improving with machined/milled parts for durability, strength and to reduce mass](machined_parts.md)
-  * [Recommended community printed parts]()
+  * [Side panels and improving with machined/milled parts](./machined_parts.md) - machined parts can improve durability, strength and reduce mass
+  * [Recommended community printed parts](./recommended_community_parts.md)
 
 
 ## Community Modifications and Parts
