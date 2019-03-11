@@ -49,7 +49,7 @@ The Fusion360 models, Assembly Guide and BOM are the official, master copies mai
 * [RailCore II Kits](https://www.projectr3d.com/) from Project R3D.
 * [Aluminium parts](http://www.mandalaroseworks.com/product/railcore) by Mandala Rose Works
 * [Aluminium parts](https://713maker.com/railcore) by 713 Maker
-* [Side Panels and RailCore Printed Parts](https://www.kraegar.com/shop) *USA/Canada only*
+* [Side Panels and RailCore Printed Parts](https://www.kraegar.com/shop) by kraegar.com/Tony Akens *(USA/Canada only)*
 * [Railcore Branded Merchandise](http://kninedhp.merchminion.com/) by Merch Minion
 
 ## More about the RailCore II
