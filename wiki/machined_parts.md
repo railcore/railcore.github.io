@@ -6,11 +6,8 @@ Machined and milled parts are available which can increase durability, strength 
 
 ## Panels and covers
  
-  * [Kraegar.com/Tony Akens](https://www.kraegar.com/shop) *USA/Canada only*
-     * RailCore Printed Parts
-     * Side Panels
-   * [Mandala Rose Works](http://www.mandalaroseworks.com/product/railcore_parts)
-     * Clear & Smokey Grey Acrylic Electronics Covers
+  * [Mandala Rose Works](http://www.mandalaroseworks.com/product/railcore_parts)
+    * Clear & Smokey Grey Acrylic Electronics Covers
 
 ## Machined Aluminium replacement parts
 
