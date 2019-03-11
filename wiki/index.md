@@ -53,28 +53,9 @@ title: RailCore II Wiki
   * [New Z alignment procedure for the Z extrusions](./new_Z_alignment_procedure_for_the_Z_extrusions.md)
   * [Aligning the X Carriages/Y Rail](./aligning_the_x_carriages_y_rail.md)
   * [How to configure the offsets for Z-Leveling(video)](https://www.youtube.com/watch?v=qeFGLb8Gf6U)
-  
-### Improving with machined/milled parts for durability, strength and to reduce mass.
-There are some milled aluminium replacement parts available from
+  * [Improving with machined/milled parts for durability, strength and to reduce mass](machined_parts.md)
+  * [Recommended community printed parts]()
 
-  * [713 Maker](https://713maker.com/railcore-ii-300zl)
-    * Halo *(A large structural element that helps align and make rigid the idler pulley mounts, motor mounts, and printer frame.)*
-    * Standard Heated Bed
-    * Magnetic Heated Bed
-    * Idler pulley mount set.
-    * Bondtech BMG ultralight extruder mount plates
-    * E3D V6 ultralight hot end mount
-    * J12 ultralight hot end mount
-    * Titan ultralight extruder mount plate
-  * [Mandala Rose Works](http://www.mandalaroseworks.com/product/railcore_parts)
-    * X Carriages
-    * Z Yokes
-    * "L Brackets"
-    * E3Dv6 mount
-    * Mosquito Mount
-    * J-Head™ 12 HiFlow™ Mount
-    * Machined "Magnum" Pulleys
-    * Clear & Smokey Grey Acrylic Electronics Covers
 
 ## Community Modifications and Parts
 
