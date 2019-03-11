@@ -25,7 +25,6 @@ The Fusion360 models, Assembly Guide and BOM are the official, master copies mai
 ### Community Maintained Documentation & Guides
    
    * Github
-     * [Wiki](https://railcore.github.io)
      * [Main repository](https://github.com/railcore)
      * Duet Configs (and other boards)
        * [Community Duet config](https://github.com/railcore/configs/tree/master/duet)
@@ -33,7 +32,7 @@ The Fusion360 models, Assembly Guide and BOM are the official, master copies mai
        * [Config Repository](https://github.com/railcore/configs)
      * [Slicer Configs](https://github.com/railcore/slicers)
      * [STL/DXF files](https://github.com/railcore/railcore.github.io/tree/master/parts)
-   * [(deprecated) Wiki](https://railcore.org/doku.php)
+     * [Wiki source](https://github.com/railcore/railcore.github.io/tree/master/wiki)
    * [Kit wiring guide by Project R3D](https://docs.google.com/document/d/1aIc6x7Vzb-bH8-pILNBV1cXyp3JWsIa50Y6eSjMmCgM/edit?usp=sharing)
    * [Community Modifications and Parts (Thingiverse Collection)](https://www.thingiverse.com/railcore/collections/300zl-zlt)
 
@@ -46,11 +45,11 @@ The Fusion360 models, Assembly Guide and BOM are the official, master copies mai
   
 ### RailCore II kits and products
 
-* [RailCore II Kits](https://www.projectr3d.com/) from Project R3D.
-* [Aluminium parts](http://www.mandalaroseworks.com/product/railcore) by Mandala Rose Works
-* [Aluminium parts](https://713maker.com/railcore) by 713 Maker
-* [Side Panels and RailCore Printed Parts](https://www.kraegar.com/shop) by kraegar.com/Tony Akens *(USA/Canada only)*
-* [Railcore Branded Merchandise](http://kninedhp.merchminion.com/) by Merch Minion
+* [Project R3D RailCore II Kits](https://www.projectr3d.com/).
+* [Mandala Rose Works Aluminium parts](http://www.mandalaroseworks.com/product/railcore)
+* [713 Maker Aluminium parts](https://713maker.com/railcore)
+* [Kraegar's Side Panels and RailCore Printed Parts](https://www.kraegar.com/shop) *(USA/Canada only)*
+* [Merch Minion Railcore Branded Merchandise](http://kninedhp.merchminion.com/)
 
 ## More about the RailCore II
 
