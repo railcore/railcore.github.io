@@ -38,10 +38,10 @@ title: RailCore II Wiki
   * Mounting linear rails
   * [New Z alignment procedure for the Z extrusions](./new_Z_alignment_procedure_for_the_Z_extrusions.md)
   * Priority of Aluminium Parts
-    * 1) X Carriage, Idler Mounts & Stepper mounts (highly recommended!)
+    * 1) X Carriages, Idler pulley mount set & Stepper mounts (highly recommended!)
     * 2) Hotend mount (if a ZLT, this moves down below Z brackets)
-    * 3) Z yokes
-    * 4) Z brackets ("L brackets" at Mandala Rose Works)
+    * 3) Z Yokes
+    * 4) Z Brackets
   * Recommended Additional 3D Printed Parts
     * [Cooling Shroud by James Tongue](https://www.thingiverse.com/thing:3367622) - [Remix oriented for easier printing setup](https://www.thingiverse.com/thing:3461781)
     * [Cable Clip](https://www.thingiverse.com/thing:2812010)
