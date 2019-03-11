@@ -43,12 +43,16 @@ The Fusion360 models, Assembly Guide and BOM are the official, master copies mai
    * [RailCore II 300ZL Build Gallery](https://imgur.com/a/edVEg4K) (from JohnOCFII)
    * [Community Modifications and Parts (Thingiverse Collection)](https://www.thingiverse.com/railcore/collections/300zl-zlt)
 
-### Discussion & Chat
+### Community Discussion & Chat
 
- * [Facebook Group](https://www.facebook.com/groups/RailCore/)
- * [Discord Channel](https://discord.gg/Sy569Hq)
- * [#RailCore IRC channel on freenode](https://tinyurl.com/yxl725zs) - *you must be authenticated with Freenode to enter the channel*
- * [Forum](https://forum.railcore.org/)
+ * Discussion
+   * [Facebook Group](https://www.facebook.com/groups/RailCore/)
+   * [Reddit sub](https://www.reddit.com/r/railcore/) *new*
+   * [Forum](https://forum.railcore.org/)
+ * Chat
+   * [Discord Channel](https://discord.gg/Sy569Hq)
+   * [#RailCore IRC channel on freenode](https://tinyurl.com/yxl725zs) - *you must be authenticated with Freenode to enter the channel*
+ 
   
 ### RailCore II kits and products
 
