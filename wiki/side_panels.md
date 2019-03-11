@@ -1,17 +1,19 @@
-### Side Panels
+---
+title: RailCore II 3D Printer
+---
 
-The side panels are usually milled from HDPE with a thickness of 6.35mm (6mm works as well and might be easier to source)
+The side panels are usually milled from HDPE with a thickness of 6.35mm (6mm works as well and might be easier to source in some countries)
 
-Other materials that have been used by builders.
+Other materials have been used:-
 
 * Melamine MDF
 * Hardboard
 * Acrylic (there are concerns it might crack around the bolts for mounting)
 * Masonite Pegboard
-* Plywood (hardwood such as birch)
+* Plywood (hardwood such as birch is preferable)
 * Aluminum
 
-Other possible solutions
+Other possible solutions:-
 
 * Delrin
 * Dibond
