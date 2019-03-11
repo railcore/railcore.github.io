@@ -1,3 +1,7 @@
+---
+title: RailcoreII 300ZL/ZLT Assembly Guide
+---
+
 Introduction
 ============
 
@@ -10,17 +14,11 @@ channel, and centered on some common goals for a new printer design.
 These were:-
 
 -   Core-XY motion.
-
 -   All Linear rails for movement
-
 -   Space & cost Efficient, enclosable frame
-
 -   Key components being printable, or able to be milled
-
 -   Flexibility and scalability in the design
-
 -   A professional looking printer
-
 -   Self sourced and easily customizable.
 
 J. Steve White had previously built the Railcore - the alpha version of
