@@ -30,12 +30,20 @@ title: RailCore II Wiki
     * [Mag Bed Flex Plates](./mag_bed_flex_plates.md)
     
 ## The Build
+  
+  * [Recommended community printed parts](./recommended_community_parts.md)
   * Sourcing
   * [Tapping](./tapping.md)
   * Squaring the extrusions
   * Lubrication
   * Mounting linear rails
-
+  * Additional printed parts from the RailCore team
+    * [Cable Clip](https://www.thingiverse.com/thing:2812010)
+    * [RailCore 2 Door Hinges](https://www.thingiverse.com/thing:3412430)
+    * [Railcore 2 Coupler Cover](https://www.thingiverse.com/thing:3423674)
+  * Recommended Community Parts
+   * [Cooling Shroud by James Tongue](https://www.thingiverse.com/thing:3367622) - [emix oriented for easier printing setup](https://www.thingiverse.com/thing:3461781)
+  
 ## Firmware and Configuration
 
  Example configurations for several firmwares using different controllers with the standard railcore configurations
@@ -54,9 +62,4 @@ title: RailCore II Wiki
   * [Aligning the X Carriages/Y Rail](./aligning_the_x_carriages_y_rail.md)
   * [How to configure the offsets for Z-Leveling(video)](https://www.youtube.com/watch?v=qeFGLb8Gf6U)
   * [Side panels and improving with machined/milled parts](./machined_parts.md) - machined parts can improve durability, strength and reduce mass
-  * [Recommended community printed parts](./recommended_community_parts.md)
-
-
-## Community Modifications and Parts
-
-[A list of contributed modifications by builders](https://www.thingiverse.com/railcore/collections/300zl-zlt)
+  * [Community Modifications and Parts](https://www.thingiverse.com/railcore/collections/300zl-zlt)
