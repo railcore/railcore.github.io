@@ -30,15 +30,15 @@ The Fusion360 models, Assembly Guide and BOM are the official, master copies mai
 ### Community Maintained Documentation & Guides
    
    * Github
-     * [Wiki](https://railcore.github.io/)
-     * [Main repository](https://github.com/railcore)
-     * Duet Configs (and other boards)
+     * [Wiki](https://railcore.github.io/wiki)
+     * Configurations for 3D printer control boards. (Duet is the primary control board chosen for this project)
        * [Community Duet config](https://github.com/railcore/configs/tree/master/duet)
-       * [Project R3D config](https://github.com/railcore/configs/tree/master/Duet_archive/ProjectR3D/300ZL)
-       * [Config Repository](https://github.com/railcore/configs)
+       * [Project R3D Duet config](https://github.com/railcore/configs/tree/master/Duet_archive/ProjectR3D/300ZL)
+       * [Config Repository for all boards](https://github.com/railcore/configs)
      * [Slicer Configs](https://github.com/railcore/slicers)
-     * [STL/DXF files](https://github.com/railcore/railcore.github.io/tree/master/parts)
+     * [STL/DXF files](https://github.com/railcore/railcore.github.io/tree/master/parts)  *currently moved out*
      * [Wiki source](https://github.com/railcore/railcore.github.io/tree/master/wiki)
+     * [RailCore Project](https://github.com/railcore)
    * [Kit wiring guide by Project R3D](https://docs.google.com/document/d/1aIc6x7Vzb-bH8-pILNBV1cXyp3JWsIa50Y6eSjMmCgM/edit?usp=sharing)
    * [RailCore II 300ZL Build Gallery](https://imgur.com/a/edVEg4K) (from JohnOCFII)
    * [Community Modifications and Parts (Thingiverse Collection)](https://www.thingiverse.com/railcore/collections/300zl-zlt)
@@ -55,7 +55,6 @@ The Fusion360 models, Assembly Guide and BOM are the official, master copies mai
 * [Project R3D RailCore II Kits](https://www.projectr3d.com/).
 * [Mandala Rose Works Aluminium parts](http://www.mandalaroseworks.com/product/railcore)
 * [713 Maker Aluminium parts](https://713maker.com/railcore)
-* [Kraegar's Side Panels and RailCore Printed Parts](https://www.kraegar.com/shop) *(USA/Canada only)*
 * [Merch Minion Railcore Branded Merchandise](http://kninedhp.merchminion.com/)
 
 ## More about the RailCore II
