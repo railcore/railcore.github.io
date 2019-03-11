@@ -30,6 +30,4 @@ Machined and milled parts are available which can increase durability, strength 
     * E3Dv6 mount
     * Mosquito Mount
     * J-Head™ 12 HiFlow™ Mount
-    * Machined "Magnum" Pulleys
-    * Clear & Smokey Grey Acrylic Electronics Covers
-    
+    * Machined "Magnum" Pulleys    
