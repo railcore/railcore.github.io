@@ -37,12 +37,17 @@ title: RailCore II Wiki
   * Lubrication
   * Mounting linear rails
   * [New Z alignment procedure for the Z extrusions](./new_Z_alignment_procedure_for_the_Z_extrusions.md)
+  * Priority of Aluminium Parts
+    * 1) X Carriage, Idler Mounts & Stepper mounts (highly recommended!)
+    * 2) Hotend mount (if a ZLT, this moves down below Z brackets)
+    * 3) Z yokes
+    * 4) Z brackets ("L brackets" at Mandala Rose Works)
   * Recommended Additional 3D Printed Parts
     * [Cooling Shroud by James Tongue](https://www.thingiverse.com/thing:3367622) - [Remix oriented for easier printing setup](https://www.thingiverse.com/thing:3461781)
     * [Cable Clip](https://www.thingiverse.com/thing:2812010)
     * [RailCore 2 Door Hinges](https://www.thingiverse.com/thing:3412430)
     * [Railcore 2 Coupler Cover](https://www.thingiverse.com/thing:3423674)
-      
+    
 ## Firmware and Configuration
 
  Example configurations for several firmwares using different controllers with the standard railcore configurations
