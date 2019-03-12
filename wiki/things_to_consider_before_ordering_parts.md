@@ -1,4 +1,6 @@
-## Things to Consider Before Ordering Parts
+---
+title: Things to Consider Before Ordering Parts
+--- 
 
   * Decide on a quality of [Linear Rails](./linear_rails.md)
   * The aluminum parts are highly recommended
