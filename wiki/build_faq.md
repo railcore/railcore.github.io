@@ -16,7 +16,11 @@ A. Currently recommended is the [Cooling Shroud by James Tongue](https://www.thi
 
 ### Q. which printed parts should I replace with aluminum parts first?
 
-A.See [Recommented priority of Aluminium Parts](./recommended_priority_of_aluminium_parts.md)
+A.See [Recommended priority of Aluminium Parts](./recommended_priority_of_aluminium_parts.md)
+
+### Q. How do I align the X Carriages & Y Rail?
+
+A. See [./aligning_the_x_carriages_y_rail.md]
 
 ### Q. How do I square the frame?
 
@@ -28,7 +32,7 @@ A.
 
 ### Q. How do I best find the Z-offset?
 
-A. 
+A. [Standard way (Duet3D wiki)](https://duet3d.dozuki.com/Wiki/Test_and_calibrate_the_Z_probe) or [newer way](./tool_offset_z_configuration.md)
 
 ### Q. Where can I find models for the aluminium parts?
 
