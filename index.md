@@ -31,7 +31,9 @@ The Fusion360 models, Assembly Guide and BOM are the official, master copies mai
    * [Facebook Group](https://www.facebook.com/groups/RailCore/)
    * [Reddit sub](https://www.reddit.com/r/railcore/) *new*
    * [Forum](https://forum.railcore.org/)
+   
 ### Chat
+
    * [Discord Channel](https://discord.gg/Sy569Hq)
    * [#RailCore IRC channel on freenode](https://tinyurl.com/yxl725zs) - *you must be authenticated with Freenode to enter the channel*
 
