@@ -1,4 +1,4 @@
-# Welcome to the RailCore II FAQ
+RailCore II General FAQ
 
 
 ### Q: Is 1515 strong enough?
