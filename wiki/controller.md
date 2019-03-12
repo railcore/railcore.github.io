@@ -1,5 +1,6 @@
-### Controllers
-
+---
+title: Controllers 
+---
 #### Duet
 The Duet 2 (Wifi or Ethernet)- are control boards for 3D printers and other similar robots. These control boards are based on a 32-bit ARM processor, running RepRapFirmware. The Duet family can all be controlled through a web interface, but they also support a touchscreen called the PanelDue. They all have a connector for an expansion board containing additional stepper drivers and I/O circuitry - the Duex 2 and Duex 5 for the Duet 2 (WiFi and Ethernet)
 

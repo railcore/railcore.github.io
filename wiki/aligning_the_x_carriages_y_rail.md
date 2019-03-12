@@ -1,7 +1,7 @@
+---
+title: Aligning the X Carriages & Y Rail 
+---  
 FIRST DRAFT - mandalarose
-
-
-### Aligning the X Carriages & Y Rail 
 
 My method relies on 123 blocks (cheaply purchased off amazon).  However, some other item that is metal and a consistent thickness, can be used.
 

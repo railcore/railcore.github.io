@@ -1,4 +1,7 @@
-## Update your firmware
+---
+title: Update your firmware
+---
+
 Your Duet will have been supplied with firmware flashed in its microcontroller. Now you have established communication with the Duet, it’s a good idea check you have the latest version, and to update the firmware on the Duet if not. Dave Crocker regularly adds features and fix bugs, to improve the usability of your printer, so check every month or so.
 
 Updates have improved network connectivity, improved USB communication, improved accuracy of thermistors, improved the SD card reading, fixed homing problems, fixed printer stopping problems, and many others. So please, to save yourself potential frustration, update your firmware. All the following instructions assume you have up-to-date firmware.

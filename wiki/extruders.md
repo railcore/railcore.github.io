@@ -1,3 +1,7 @@
+---
+title: Extruders
+---  
+
 The RailCore will work with nearly any common 3d printer Extruder design.
 
 The "default" extruder is the E3D titan - readily available,

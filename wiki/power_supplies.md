@@ -1,4 +1,6 @@
-## Power Supplies
+---
+title: Power Supplies
+---
 
 24v PSU 350w PSU (needs to be 200w or greater with AC bed) 
 

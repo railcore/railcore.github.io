@@ -1,5 +1,6 @@
-# Switchless Homing using the Duet (Trinamic 2660 drivers)
-
+---
+title: Switchless Homing using the Duet (Trinamic 2660 drivers)
+--- 
 ## Background
 The Trinamic 2660 drivers have stall detection that can identify dropped steps through back-emf from the stepper motor itself. This is referred to as StallGuard. RRF on the Duet Wifi offers us several options as to what action to take when a motor stall is detected. You can read about those [[https://duet3d.dozuki.com/Wiki/Gcode#Section_M915_Configure_motor_stall_detection|here]]. 
 
