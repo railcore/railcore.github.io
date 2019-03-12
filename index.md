@@ -7,11 +7,9 @@ RailCore II is a [Core-XY based Reprap 3D printer](https://reprap.org/wiki/CoreX
 |---|---|---|
 | [![RailCore II photo](/wiki/images/railcore_front_preview.jpg)](/wiki/images/railcore_front_full.jpg) | [![RailCore II photo](/wiki/images/railcore_diag_preview.jpg)](/wiki/images/railcore_diag_full.jpg) | [![RailCore II photo](/wiki/images/parts_preview.jpg)](/wiki/images/parts_full.jpg) |
 
-## Official RailCore II Resources
+## Official Assembly Guide, BOM, Model and Printable Parts 
 
-### Assembly Guide, BOM, Model and Printable Parts 
-
-The Fusion360 models, Assembly Guide and BOM are the official, master copies maintained by Tony Akens.
+The Fusion360 models, Assembly Guide and BOM are the official, master copies maintained by Tony Akens. Thingiverse project is also maintained by Tony Akens.
 
  * [RailCore II 300ZL/ZLT Assembly Guide](https://railcore.page.link/guide)
  * [RailCore II 300ZL/ZLT Thingiverse Project(all printable parts)](https://www.thingiverse.com/thing:2407174)
@@ -25,38 +23,17 @@ The Fusion360 models, Assembly Guide and BOM are the official, master copies mai
 
 ## RailCore II Community Resources
 
-### Community Maintained Documentation & Guides
-   
-   * Github
-     * [Wiki](/wiki/index.md))
-	 * [Build FAQ](./build_faq.md)
-     * Configurations for 3D printer control boards. (Duet is the primary control board chosen for this project)
-       * [Community Duet config](https://github.com/railcore/configs/tree/master/duet)
-       * [Project R3D Duet config](https://github.com/railcore/configs/tree/master/Duet_archive/ProjectR3D/300ZL)
-       * [Config Repository for all boards](https://github.com/railcore/configs)
-     * [Slicer Configs](https://github.com/railcore/slicers)
-     * [STL/DXF files](https://github.com/railcore/parts)
-     * [RailCore Project at Github](https://github.com/railcore)
-   * [Kit wiring guide by Project R3D](https://docs.google.com/document/d/1aIc6x7Vzb-bH8-pILNBV1cXyp3JWsIa50Y6eSjMmCgM/edit?usp=sharing)
-   * [RailCore II 300ZL Build Gallery](https://imgur.com/a/edVEg4K) (from JohnOCFII)
-   * [Community Modifications and Parts (Thingiverse Collection)](https://www.thingiverse.com/railcore/collections/300zl-zlt)
+### Wiki
 
-### Community Discussion & Chat
+[RailCore II Wiki - Community Maintained Documentation & Guides](/wiki/index.md) - Please do read the wiki carefully to answer many common questions.
 
- * Discussion
+### Discussion
    * [Facebook Group](https://www.facebook.com/groups/RailCore/)
    * [Reddit sub](https://www.reddit.com/r/railcore/) *new*
    * [Forum](https://forum.railcore.org/)
- * Chat
+### Chat
    * [Discord Channel](https://discord.gg/Sy569Hq)
    * [#RailCore IRC channel on freenode](https://tinyurl.com/yxl725zs) - *you must be authenticated with Freenode to enter the channel*
-  
-### RailCore II kits and products
-
-* [Project R3D RailCore II Kits](https://www.projectr3d.com/).
-* [Mandala Rose Works Aluminium parts](http://www.mandalaroseworks.com/product/railcore)
-* [713 Maker Aluminium parts](https://713maker.com/railcore)
-* [Merch Minion Railcore Branded Merchandise](http://kninedhp.merchminion.com/)
 
 ## More about the RailCore II
 
