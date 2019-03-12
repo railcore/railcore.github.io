@@ -18,3 +18,6 @@ title: Tapping tips
   * Deburr with a countersink after tapping
   * Use a sharp knife to deburr the top at the end.
   * Clean off all tapping fluid at the end. Some of them are sulphur based and oily and you don't want this hanging around.
+  * **Just go slow and take your time.** Breaking a tap or ruining an extrusion is not the aim here.
+  * You can use the Z extrusions as practice, as these do not need tapping. (So you've got 6 free practice runs)
+
