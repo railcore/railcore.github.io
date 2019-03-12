@@ -1,4 +1,6 @@
-#### Railcore Tool Offset Configuration
+---
+title: Railcore Tool Offset Configuration
+--- 
 
 So right now the way most of us (who don’t use Piezo sensors >:) set up our Z probe is like this: We home Z, and look at the distance between the nozzle and the deck. We attempt to jog down to it, only to discover we can only go to -.2. We then guess it’s 1.2mm, and we put that in our G31 line in config.g.
 
