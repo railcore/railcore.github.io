@@ -1,4 +1,6 @@
-## Belts
+---
+title: Belts
+--- 
 
 **NOTE**: when planning to change from printed to aluminium idler and motor mounts add several cm extra length to your belts as the idler mounts will move the idlers further outside then the printed ones.
  
