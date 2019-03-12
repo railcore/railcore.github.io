@@ -1,6 +1,6 @@
-RailCore II General FAQ
-
-
+---
+title: RailCore II General FAQ
+---
 ### Q: Is 1515 strong enough?
 
 A: The Railcore is designed around panels that provide rigidity and strength. The extrusion (1515) is mainly to give something to bolt the sides and parts to. Open frames can be made very strong, but boxing them in increases their rigidity by *at least* an order of magnitude. 
