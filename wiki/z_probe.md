@@ -1,5 +1,6 @@
-### Z-probes
-
+---
+title: Z-probes
+--- 
 Choice of Z-probe on the RailCore is one with no single right answer, as with any 3d printer. There are always tradeoffs.  The most important factor is repeatability, you want to choose a probe that will give you consistent results at a given location.
 
 #### IR Probe
