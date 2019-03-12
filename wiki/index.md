@@ -36,18 +36,10 @@ title: RailCore II Wiki
   * Squaring the extrusions
   * Lubrication
   * Mounting linear rails
-  * [New Z alignment procedure for the Z extrusions](./new_Z_alignment_procedure_for_the_Z_extrusions.md)
-  * Priority of Aluminium Parts
-    * 1) X Carriages, Idler pulley mount set & Stepper mounts (highly recommended!)
-    * 2) Hotend mount (if a ZLT, this moves down below Z brackets)
-    * 3) Z Yokes
-    * 4) Z Brackets
-  * Recommended Additional 3D Printed Parts
-    * [Cooling Shroud by James Tongue](https://www.thingiverse.com/thing:3367622) - [Remix oriented for easier printing setup](https://www.thingiverse.com/thing:3461781)
-    * [Cable Clip](https://www.thingiverse.com/thing:2812010)
-    * [RailCore 2 Door Hinges](https://www.thingiverse.com/thing:3412430)
-    * [Railcore 2 Coupler Cover](https://www.thingiverse.com/thing:3423674)
-    
+
+  * [Recommended priority of Aluminium Parts](./recommended_priority_of_aluminium_parts.md)
+  * Recommended Additional 3D Printed Parts - [Cooling Shroud by James Tongue](https://www.thingiverse.com/thing:3367622) - [Remix oriented for easier printing setup](https://www.thingiverse.com/thing:3461781)
+
 ## Firmware and Configuration
 
  Example configurations for several firmwares using different controllers with the standard railcore configurations
@@ -60,6 +52,7 @@ title: RailCore II Wiki
 ## Variations & Customizations
 
   * [Duet Switchless X/Y Homing](./duet_switchless_homing.md)
+  * [New Z alignment procedure for the Z extrusions](./new_Z_alignment_procedure_for_the_Z_extrusions.md)
   * [Tool Offset Z configuration](./tool_offset_z_configuration.md)
   * [Aligning the X Carriages/Y Rail](./aligning_the_x_carriages_y_rail.md)
   * [How to configure the offsets for Z-Leveling(video)](https://www.youtube.com/watch?v=qeFGLb8Gf6U)
