@@ -2,9 +2,9 @@
 title: RailCore II Wiki
 --- 
 
-## Community Maintained Documentation & Guides
+# Community Maintained Documentation & Guides
 
-### Hardware Components
+## Hardware Components
 
   * [Things to Consider Before Ordering Parts](./things_to_consider_before_ordering_parts.md)
   * Mechanics
@@ -30,8 +30,17 @@ title: RailCore II Wiki
     * [Side Panels](./side_panels.md)
     * Frame Extrusions
     * [Mag Bed Flex Plates](./mag_bed_flex_plates.md)
+
+## RailCore II kits and products
+
+While RailCore II is an open-source project, there are companies that deal with RailCore II kits and parts.
+
+* [Project R3D RailCore II Kits](https://www.projectr3d.com/).
+* [Mandala Rose Works Aluminium parts](http://www.mandalaroseworks.com/product/railcore)
+* [713 Maker Aluminium parts](https://713maker.com/railcore)
+* [Merch Minion Railcore Branded Merchandise](http://kninedhp.merchminion.com/)
     
-### The Build
+## The Build
   
   * [Build FAQ](./build_faq.md)
   * Sourcing
@@ -45,7 +54,7 @@ title: RailCore II Wiki
   * [RailCore II 300ZL Build Gallery](https://imgur.com/a/edVEg4K) (from JohnOCFII)
   * [Kit wiring guide by Project R3D](https://docs.google.com/document/d/1aIc6x7Vzb-bH8-pILNBV1cXyp3JWsIa50Y6eSjMmCgM/edit?usp=sharing)
   
-### Firmware and Configuration  
+## Firmware and Configuration  
 
 Configurations for 3D printer control boards with the standard railcore configurations (Duet is the primary control board chosen for this project)
   * [Community Duet config](https://github.com/railcore/configs/tree/master/duet)
@@ -53,7 +62,7 @@ Configurations for 3D printer control boards with the standard railcore configur
     * [Config Repository for all boards](https://github.com/railcore/configs)
   * [Slicer Configs](https://github.com/railcore/slicers)
 
-### Variations & Customizations
+## Variations & Customizations
 
   * [Duet Switchless X/Y Homing](./duet_switchless_homing.md)
   * [New Z alignment procedure for the Z extrusions](./new_Z_alignment_procedure_for_the_Z_extrusions.md)
