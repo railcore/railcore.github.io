@@ -2,6 +2,8 @@
 title: RailCore II Wiki
 --- 
 
+# Community Maintained Documentation & Guides
+
 ## Hardware Components
 
   * [Things to Consider Before Ordering Parts](./things_to_consider_before_ordering_parts.md)
@@ -28,26 +30,37 @@ title: RailCore II Wiki
     * [Side Panels](./side_panels.md)
     * Frame Extrusions
     * [Mag Bed Flex Plates](./mag_bed_flex_plates.md)
+
+## RailCore II kits and products
+
+While RailCore II is an open-source project, there are companies that deal with RailCore II kits and parts.
+
+* [Project R3D RailCore II Kits](https://www.projectr3d.com/).
+* [Mandala Rose Works Aluminium parts](http://www.mandalaroseworks.com/product/railcore)
+* [713 Maker Aluminium parts](https://713maker.com/railcore)
+* [Merch Minion Railcore Branded Merchandise](http://kninedhp.merchminion.com/)
     
 ## The Build
   
+  * [Build FAQ](./build_faq.md)
   * Sourcing
   * [Tapping](./tapping.md)
   * Squaring the extrusions
   * Lubrication
   * Mounting linear rails
-
   * [Recommended priority of Aluminium Parts](./recommended_priority_of_aluminium_parts.md)
   * Recommended Additional 3D Printed Parts - [Cooling Shroud by James Tongue](https://www.thingiverse.com/thing:3367622) - [Remix oriented for easier printing setup](https://www.thingiverse.com/thing:3461781)
+  * [STL/DXF files](https://github.com/railcore/parts)
+  * [RailCore II 300ZL Build Gallery](https://imgur.com/a/edVEg4K) (from JohnOCFII)
+  * [Kit wiring guide by Project R3D](https://docs.google.com/document/d/1aIc6x7Vzb-bH8-pILNBV1cXyp3JWsIa50Y6eSjMmCgM/edit?usp=sharing)
+  
+## Firmware and Configuration  
 
-## Firmware and Configuration
-
- Example configurations for several firmwares using different controllers with the standard railcore configurations
-
-  * [Duet WiFi (self-build)](https://github.com/railcore/configs/tree/master/duet)
-  * [Duet WiFi (Project R3D kit)](https://github.com/railcore/configs/tree/master/Duet_archive/ProjectR3D/300ZL)
-  * [RAMPS / klipper](https://github.com/railcore/configs/tree/master/Klipper/300ZL_dual_MCU)
-  * [Slicers](https://github.com/railcore/slicers)
+Configurations for 3D printer control boards with the standard railcore configurations (Duet is the primary control board chosen for this project)
+  * [Community Duet config](https://github.com/railcore/configs/tree/master/duet)
+    * [Project R3D Duet config](https://github.com/railcore/configs/tree/master/Duet_archive/ProjectR3D/300ZL)
+    * [Config Repository for all boards](https://github.com/railcore/configs)
+  * [Slicer Configs](https://github.com/railcore/slicers)
 
 ## Variations & Customizations
 
@@ -57,5 +70,5 @@ title: RailCore II Wiki
   * [Aligning the X Carriages/Y Rail](./aligning_the_x_carriages_y_rail.md)
   * [How to configure the offsets for Z-Leveling(video)](https://www.youtube.com/watch?v=qeFGLb8Gf6U)
   * [Side panels and improving with machined/milled parts](./machined_parts.md) - machined parts can improve durability, strength and reduce mass
-  * [Community Modifications and Parts](https://www.thingiverse.com/railcore/collections/300zl-zlt)
-
+  * [RailCore Project at Github](https://github.com/railcore)
+  * [Community Modifications and Parts (Thingiverse Collection)](https://www.thingiverse.com/railcore/collections/300zl-zlt)

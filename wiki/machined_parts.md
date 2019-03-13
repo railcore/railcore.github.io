@@ -23,8 +23,9 @@ Machined and milled parts are available which can increase durability, strength 
   * [Mandala Rose Works](http://www.mandalaroseworks.com/product/railcore_parts)
     * X Carriages
     * Z Yokes
-    * "L Brackets"
+    * Z Brackets
     * E3Dv6 mount
     * Mosquito Mount
     * J-Head™ 12 HiFlow™ Mount
-    * Machined "Magnum" Pulleys    
+    * Machined "Magnum" Pulleys
+    
