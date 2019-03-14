@@ -36,11 +36,12 @@ A. There are many discussion and chat options, including a Facebook group - see 
 
 ### Q. Problems with ringing, where should I look?
 
+Check your jerk/acceleration settings. Are they high?
 A. Did you lubricate your leadscrews? Do you notice any wobbling significantly? Did you PID tune your hotend as well (with the fan running). Watch your bed & hotend temps during a print, and verify they're stable within 0.2C +/-.
 Loosen your belts a little and spin each x and y stepper by hand and see if there is a weird grinding resistance, if so you may have a bad stepper motor.
 Check inside belt is lined up and parallet to the extrusion.
 Try to slow it down to 60 mm/s (or 50 or 40 if you really want) to help try to isolate the issue.
-Check belt tension.
+Check belt tension. make sure all your bolts for holding the frame together is tight.
 Check to see if the bottom panel is slightly convex (or concave) with a dip in the middle.
 
 ### Q. My prints are out of square. What would cause this?
