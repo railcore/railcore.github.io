@@ -41,6 +41,15 @@ Loosen your belts a little and spin each x and y stepper by hand and see if ther
 Check inside belt is lined up and parallet to the extrusion.
 Try to slow it down to 60 mm/s (or 50 or 40 if you really want) to help try to isolate the issue.
 Check belt tension.
+Check to see if the bottom panel is slightly convex (or concave) with a dip in the middle.
+
+### Q. My prints are out of square. What would cause this?
+
+A. Run M556 and see what it says. Should be all zeros. Then check to make sure your Y rail is still perpendicular to the x rails. If you tightened one side more than the other, it might be out of alignment. Run your rail to X=0 and Y=150 (just in the middle, and measure from the frame extrusion on the left to the Y rail. If they measure differently, that's your issue.
+
+### Q, My Duet uploads are really slow.
+
+The Duet Wifi hardware can repsond badly to distance (small aerial) and MIMO technology. Check to see if it improves by using an old router/access point nearby (or cellphone hotspot)
 
 ### Q. My mesh level is terrible! What do I need to do?
 
