@@ -3,11 +3,9 @@ title: RailCore II 3D Printer
 ---
 RailCore II is a [Core-XY based Reprap 3D printer](https://reprap.org/wiki/CoreXY) designed by J. Steve White & Tony Akens under the [CC-Attribution Only license](https://creativecommons.org/licenses/by/3.0/).
 
-| Front  | Side | Parts   |
-|---|---|---|
-| [![RailCore II photo](/wiki/images/railcore_front_preview.jpg)](/wiki/images/railcore_front_full.jpg) | [![RailCore II photo](/wiki/images/railcore_diag_preview.jpg)](/wiki/images/railcore_diag_full.jpg) | [![RailCore II photo](/wiki/images/parts_preview.jpg)](/wiki/images/parts_full.jpg) |
-
-[Example prints](https://imgur.com/a/QNLli)
+| Front                                                                                                 | Side                                                                                                | Parts                                                                               | Prints                                                                   |
+|-------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------|--------------------------------------------------------------------------|
+| [![RailCore II photo](/wiki/images/railcore_front_preview.jpg)](/wiki/images/railcore_front_full.jpg) | [![RailCore II photo](/wiki/images/railcore_diag_preview.jpg)](/wiki/images/railcore_diag_full.jpg) | [![RailCore II photo](/wiki/images/parts_preview.jpg)](/wiki/images/parts_full.jpg) | [![Prints](/wiki/images/railcore_prints.jpg)](https://imgur.com/a/QNLli) |
 
 ## Official Assembly Guide, BOM, Model and Printable Parts 
 
