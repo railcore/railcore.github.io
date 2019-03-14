@@ -95,7 +95,7 @@ Therefore we cannot answer questions regarding the contents of the kit,
 returns, postage or delivery. Please do contact Project R3D concerning
 these matters.
 
-![](media/image50.png){width="5.0625in" height="1.7395833333333333in"}
+![](media/image50.png) 
 
 Recommended tools, notes to the build
 =====================================
@@ -151,8 +151,7 @@ light machine oil on the tap. The only ones that do not have to be
 tapped are the 445mm extrusions for the Z axis. After tapping your
 extrusion ends it’s a good idea to deburr them with a countersink.
 
-![](media/image108.png){width="5.585937226596675in"
-height="3.7239588801399823in"}
+![](media/image108.png)
 
 #### &lt;Recommended&gt; Check your rails for any missing ball bearings, and replace them. 
 
@@ -180,11 +179,11 @@ Here’s a good article about using the inserts:
 
 The Y Carriage gets 18 x 3mm brass inserts.
 
-![](media/image111.png){width="4.226562773403325in"
-height="2.8177088801399823in"}
+![](media/image111.png)
 
-![](media/image37.png){width="4.2440354330708665in"
-height="3.401042213473316in"}
+
+![](media/image37.png)
+
 
 The X carriages get 1 x 5mm brass insert and 1 x 3mm brass inserts
 each. (If you have a kit, the X carriages are aluminum, and you can
@@ -192,8 +191,8 @@ skip these) Both are inserted into the bottom of the Carriage. Be as
 precise as possible with the 5mm insert, as you want your idler bolt
 as straight up and down as possible.
 
-![](media/image27.png){width="3.15625in"
-height="2.2083333333333335in"}
+![](media/image27.png)
+
 
 Each Electronics Box Corner gets one brass insert. One end is thicker,
 to make putting the insert in easier.
@@ -204,8 +203,8 @@ foot. **(TPU foot pads and brass inserts for the feet are not included
 with the kit, and are optional - if you put the brass inserts into the
 feet in the kit, you’ll run short)**
 
-![](media/image5.png){width="4.213542213473316in"
-height="3.8444061679790025in"}
+![](media/image5.png)
+
 
 4\. Lubricate Your Linear Rails
 
@@ -244,7 +243,7 @@ fit)
 
 Lay out your extrusion as shown in this picture.
 
-![](media/image14.png){width="6.5in" height="4.75in"}
+![](media/image14.png) 
 
 The 460mm extrusions go in the front and back, and the 425mm extrusion
 goes on each side. Place a corner cube at each corner. Be sure to note
@@ -258,7 +257,7 @@ Start with the 425mm Left Extrusion. Attach back left corner cube to
 left extrusion using an 8mm button head bolt. Just make sure the
 corner cube is snug for now.
 
-![](media/image49.png){width="6.5in" height="3.2222222222222223in"}
+![](media/image49.png) 
 
 Holding the left extrusion as it will be oriented on the printer,
 slide the following parts into the extrusion. (if you marked it, I
@@ -274,17 +273,17 @@ components you may add later)
 
 \(6) M3 x 16mm hex head bolts in the bottom channel.
 
-![](media/image102.png){width="6.5in" height="3.236111111111111in"}
+![](media/image102.png) 
 
 Attach front left corner cube to left extrusion using (1) 3mm x 8mm
 button head bolt.
 
-![](media/image56.png){width="5.854166666666667in" height="3.0in"}
+![](media/image56.png) 
 
 Attach front & rear extrusions (460mm) to left extrusion using (2) 3mm
 x 8mm button head bolts.
 
-![](media/image54.png){width="6.5in" height="3.888888888888889in"}
+![](media/image54.png) 
 
 You should now have a C shaped part made of 3 extrusions, and two
 corner cubes.
@@ -304,7 +303,7 @@ Now the same for the back extrusion.
 \(5) M3 x 10mm hex head bolts go in the outside channel (facing away from
 you) of the back extrusion. These will hold the back panel on later.
 
-![](media/image82.png){width="6.5in" height="4.069444444444445in"}
+![](media/image82.png) 
 
 Now we’re going to attach the linear rails to the front and back
 extrusions.
@@ -325,7 +324,7 @@ one to know which you need before you do them all).
 Now loosely thread a nut onto the bolt, leave a gap between the back
 of the rail and the nut.
 
-![](media/image71.png){width="6.5in" height="3.8055555555555554in"}
+![](media/image71.png) 
 
 Now carefully line up the rail, and slide it onto the inside face of
 the back extrusion. Once it’s fully on, use a allen wrench to snug up
@@ -338,12 +337,12 @@ Now repeat the above steps with another 400mm linear rail, and attach
 it to the inside face of the front extrusion. Remember, it only needs
 to be snug, don’t crank it down.
 
-![](media/image13.png){width="6.5in" height="4.0in"}
+![](media/image13.png) 
 
 Now we put together the right Extrusion. First attach the rear corner
 cube using (1) 3mm x 8mm button head bolt (Snug)
 
-![](media/image72.png){width="6.5in" height="3.625in"}
+![](media/image72.png) 
 
 Now we slide in the hardware for this extrusion.
 
@@ -357,17 +356,17 @@ side panel on later)
 
 \(4) M3 nut in the inside channel (for optional add ons)
 
-![](media/image61.png){width="6.5in" height="3.7222222222222223in"}
+![](media/image61.png) 
 
 Once all the hardware is in, attach the front corner cube using (1) 8mm
 button head bolt
 
-![](media/image67.png){width="6.5in" height="3.236111111111111in"}
+![](media/image67.png) 
 
 Now attach the right extrusion to the front and back rails using (2) 8mm
 button head bolts.
 
-![](media/image101.png){width="6.5in" height="3.3472222222222223in"}
+![](media/image101.png) 
 
 The top assembly should now be done! Set it aside for now.
 
@@ -394,13 +393,13 @@ cubes on each corner, this time with a small hole pointing up. Put a
 460mm extrusion for the front and back, and two 425mm extrusions for
 the sides.
 
-![](media/image57.png){width="6.5in" height="4.75in"}
+![](media/image57.png) 
 
 We’re going to start with the bottom left extrusion. Place the rear
 corner cube on using (1) 3mm x 8mm button head bolt. Be sure the small
 hole is facing “up”.
 
-![](media/image105.png){width="6.5in" height="3.361111111111111in"}
+![](media/image105.png) 
 
 Now we’re going to slide in some hardware.
 
@@ -416,12 +415,12 @@ On the bottom slide in (1) M3 x 16mm hex head bolt, then (3) M3 x 10mm
 hex head bolts, then (1) M3 x 16mm hex head bolts. The longer two
 should be on the outside, and will be used to hold on the feet.
 
-![](media/image86.png){width="6.5in" height="3.0555555555555554in"}
+![](media/image86.png) 
 
 Add the Front corner cube to the bottom left extrusion using (1) M3 x
 8mm Button head bolt.
 
-![](media/image22.png){width="6.5in" height="3.138888888888889in"}
+![](media/image22.png) 
 
 Attach the bottom back extrusion to bottom left using (1) M3 x 8mm
 button head bolt.
@@ -432,7 +431,7 @@ head bolt.
 You should now have a C shaped set of extrusions, and we can slide in
 some hardware.
 
-![](media/image47.png){width="6.5in" height="3.361111111111111in"}
+![](media/image47.png) 
 
 Place (5) M3 x 10mm hex head bolts in outside channel of the bottom back
 extrusion.
@@ -452,13 +451,13 @@ hex head bolt.
 
 You can place extra M3 nuts in the top or inside channel if desired.
 
-![](media/image92.png){width="6.5in" height="3.6944444444444446in"}
+![](media/image92.png) 
 
 You can set this assembly aside, so we can build the bottom right
 extrusion. Place the rear corner cube on using (1) 3mm x 8mm button
 head bolt.
 
-![](media/image77.png){width="6.5in" height="3.0833333333333335in"}
+![](media/image77.png) 
 
 Now we’re going to slide in some hardware.
 
@@ -474,17 +473,17 @@ On the bottom slide in (1) M3 x 16mm hex head bolt, then (3) M3 x 10mm
 hex head bolts, then (1) M3 x 16mm hex head bolts. The longer two
 should be on the outside, and will be used to hold on the feet.
 
-![](media/image39.png){width="6.5in" height="3.0833333333333335in"}
+![](media/image39.png) 
 
 You can now put on the front corner cube using (1) 3mm x 8mm button
 head bolt.
 
-![](media/image52.png){width="6.5in" height="3.2083333333333335in"}
+![](media/image52.png) 
 
 Attach the bottom right extrusion to the bottom front & bottom rear
 extrusions using (2) M3 x 8mm button head bolts.
 
-![](media/image97.png){width="6.5in" height="3.0833333333333335in"}
+![](media/image97.png) 
 
 You’ve now completed the assembly of the bottom extrusions. Be sure to
 keep track of which is the front channel, it may help to mark it with
@@ -511,7 +510,7 @@ Bottom Frame Assembly (from Step 2)
 Bolt all four of the upright 415mm extrusions to your bottom assembly
 using (4) M3 x 8mm button head bolts. (One for each corner cube)
 
-![](media/image81.png){width="6.5in" height="4.583333333333333in"}
+![](media/image81.png) 
 
 Now we’re just going to drop some hardware down each of the channels.
 Again, be sure to keep track of which extrusion is which.
@@ -543,7 +542,7 @@ head bolts.
 In the rear channel of the rear right extrusion place (5) M3 x 10mm hex
 head bolts.
 
-![](media/image94.png){width="6.5in" height="4.125in"}
+![](media/image94.png) 
 
 **(Optional)** If you want to be able to add things later such as
 camera mounts, etc, now’s a good time to add M3 nuts. I added (4) M3
@@ -572,7 +571,7 @@ it’s hard to correct them later. You can optionally remove each corner
 cube bolt one at a time, and use a drop of blue loctite on them. **(If
 you want to use loctite on the corner cubes, now would be the time)**
 
-![](media/image4.png){width="6.5in" height="4.041666666666667in"}
+![](media/image4.png) 
 
 \
 -
@@ -610,7 +609,7 @@ On the bottom left extrusion, starting from the front, attach a
 Z\_Bracket\_Top (with the “arm” pointing to the back) and a
 Z\_Bracket\_Bottom (with the arm pointing to the front).
 
-![](media/image107.png){width="6.5in" height="5.625in"}
+![](media/image107.png) 
 
 Next, attach the Linear rails for the Z axis to the extrusion. It’s
 easier to bolt the linear rail to your extrusion before attaching it.
@@ -619,7 +618,7 @@ bolts in it. (If building the ZLT, use (8) per rail, evenly spaced)
 Loosely place (4) M3 nuts on, one per bolt, evenly spaced along the
 rail.
 
-![](media/image8.png){width="4.802083333333333in" height="4.46875in"}
+![](media/image8.png) 
 
 (Number of holes between bolts can vary from this picture, evenly
 space them, with one at each end)
@@ -629,32 +628,32 @@ extrusions, and use an allen wrench to tighten it down. Don’t make it
 too tight yet - we’ll adjust it later. Use some masking tape to keep
 the carriage from falling off.
 
-![](media/image88.png){width="2.375in" height="5.458333333333333in"}
+![](media/image88.png) 
 
 Now take your 445mm extrusion and place (8) M3 x 16mm hex head bolts
 into one of the channels at a 90 degree angle to the linear rail you
 attached.
 
-![](media/image44.png){width="3.7604166666666665in"
-height="4.239583333333333in"}
+![](media/image44.png)
+
 
 You then slide these M3 bolts through the rear two Z brackets you
 installed (it fits between the Z bracket ant the bearing block), and
 attach them with (8) M3 nuts.
 
-![](media/image66.png){width="6.5in" height="5.819444444444445in"}
+![](media/image66.png) 
 
 Repeat the above steps for the linear rail, attaching another to the
 Front set of Z brackets you installed. (The hex bolts will go in the
 rear slot of the extrusion)
 
-![](media/image85.png){width="4.083333333333333in"
-height="4.052083333333333in"}
+![](media/image85.png)
+
 
 Now we’ll bolt this extrusion to the front two Z brackets, just like
 we did the other one. Attach it using (8) M3 Nuts.
 
-![](media/image45.png){width="6.5in" height="5.694444444444445in"}
+![](media/image45.png) 
 
 Repeat the above process for the right side. Begin by attaching
 Z\_Bracket\_Top to the top right extrusion using (3) M3 nuts. Note
@@ -665,27 +664,27 @@ Z\_Bracket\_Bottom to the bottom right extrusion using (3) M3 nuts,
 again using the bolts closest to the back of the printer. The arm for
 this bracket should also point to the back of the printer.
 
-![](media/image48.png){width="6.5in" height="5.861111111111111in"}
+![](media/image48.png) 
 
 Use the other 445mm extrusion, attaching a 400mm linear rail using (4)
 M3 x 8mm button head bolts and (4) M3 nuts.
 
-![](media/image8.png){width="4.802083333333333in" height="4.46875in"}
+![](media/image8.png) 
 
 Loosely tighten the linear rail to the extrusion.
 
-![](media/image11.png){width="2.2083333333333335in"
-height="5.447916666666667in"}
+![](media/image11.png)
+
 
 Insert (8) M3 x 16mm hex head bolts into the rear channel on the
 extrusion.
 
-![](media/image59.png){width="3.7708333333333335in" height="5.375in"}
+![](media/image59.png) 
 
 Attach the extrusion to the Z brackets using (8) M3 nuts. Don’t forget
 some masking tape to hold the carriage and keep it from sliding off.
 
-![](media/image41.png){width="6.5in" height="5.805555555555555in"}
+![](media/image41.png) 
 
 \
 -
@@ -725,8 +724,8 @@ kit, use nylock nuts, or you’ll run out of regular m3 nuts - this goes
 for all of the panels)** Tighten them all down using your nut driver,
 making sure the panel is centered.
 
-![](media/image30.png){width="5.208333333333333in"
-height="4.802083333333333in"}
+![](media/image30.png)
+
 
 Next Turn your panel so the “back” is down, and place the front panel
 on. This is the one with the large cut out. It also has extra bolts,
@@ -734,14 +733,14 @@ to make up for the lower surface area. Place it over the bolts, and
 once it’s centered, place 20 nylon lock nuts, or 20 M3 nuts on, and
 tighten them down.
 
-![](media/image95.png){width="5.104166666666667in"
-height="5.333333333333333in"}
+![](media/image95.png)
+
 
 Now lay the printer with the right side down, and bolt on the left
 side the same way using either 20 M3 Nylon lock nuts, or 20 M3 nuts.
 The textured side should face out.
 
-![](media/image33.png){width="4.895833333333333in" height="5.34375in"}
+![](media/image33.png) 
 
 Now rotate the printer so the left side (the one you just put on) is
 facing down, and install the right panel using 20 M3 nylon lock nuts,
@@ -753,14 +752,14 @@ front of your printer, with the hole for the wiring at the top. The
 two small holes in the corners should be to the top, and the textured
 side should face out.
 
-![](media/image15.png){width="4.895833333333333in"
-height="5.395833333333333in"}
+![](media/image15.png)
+
 
 The last one is the back panel. Place the printer with the front side
 facing down, and install the back panel the same as the others using
 20 nylon lock nuts, or 20 M3 nuts.
 
-![](media/image63.png){width="5.28125in" height="5.447916666666667in"}
+![](media/image63.png) 
 
 Your sides should all now be firmly attached and frame is complete.
 Before moving on, make sure that all of the side panels are flush with
@@ -817,7 +816,7 @@ just far enough it’s fully threaded into the insert.
 **If you’re using printed X carriages, yours will look like this.** If
 you have the shims replace the washers with them.
 
-![](media/image34.png){width="6.5in" height="4.944444444444445in"}
+![](media/image34.png) 
 
 **If you’re using the aluminum parts, your rear X carriage will look
 like this**
@@ -826,14 +825,14 @@ You need to adjust the number of shims above the top idler to
 eliminate any play in the stack. If you only have a single bag of
 shims, use one M5 washer at the top of the stack, then 3 shims.
 
-![](media/image62.png){width="6.5in" height="4.347222222222222in"}
+![](media/image62.png) 
 
 Repeat this process for the front X carriage but on the front one be
 sure the pulley is on top, and the smooth idler is on the bottom.
 
 **If you’re using the printed X carriage, it will look like this.**
 
-![](media/image64.png){width="6.5in" height="4.694444444444445in"}
+![](media/image64.png) 
 
 **If you’re using the aluminum parts, your front X carriage will look
 like this (the engaving faces in towards the center of the printer)**
@@ -842,13 +841,13 @@ You need to adjust the number of shims above the top idler to
 eliminate any play in the stack. If you only have a single bag of
 shims, use one M5 washer at the top of the stack, and 3 shims.
 
-![](media/image53.png){width="5.4320330271216095in"
-height="3.682292213473316in"}
+![](media/image53.png)
+
 
 Here’s a photo to show what the aluminum carriage looks like
 
-![](media/image74.png){width="4.630208880139983in"
-height="3.4675120297462816in"}
+![](media/image74.png)
+
 
 Now take your 400mm MGN 12 Y rail, and place the Back X Carriage and
 Front X Carriage over the ends of the rail. The bolt holes should face
@@ -858,7 +857,7 @@ picture below. Place an M3 Nut into the small slot in each of the
 carriers, and place an M3 x 16mm button head bolt in the side of each
 carrier. Do not tighten these down yet.
 
-![](media/image20.png){width="6.5in" height="3.7916666666666665in"}
+![](media/image20.png) 
 
 Remove any tape you have holding down the MGN12 X carriages, then
 attach the X carriages to the two MGN12 X carriages using (4) M3 x 8mm
@@ -866,7 +865,7 @@ Button head bolts each. The idlers should be towards the right side of
 your printer. Tape these back down so your Y axis doesn’t slide off
 the rails!
 
-![](media/image80.png){width="6.5in" height="6.805555555555555in"}
+![](media/image80.png) 
 
 You may wish to tape the Y carriage in place so it doesn’t rattle
 around.
@@ -906,7 +905,7 @@ Pulley so the grub screw collar is down, and the threads are on top.
 Don’t crank the stepper or the pulley down tight yet, as they’ll be
 adjusted later.
 
-![](media/image65.png){width="6.5in" height="2.9722222222222223in"}
+![](media/image65.png) 
 
 Attach the front motor mount the same as you did the rear, using (2)
 M3 x 10mm button head bolts to attach it to the extrusion, and then
@@ -916,7 +915,7 @@ bolts snug, but don’t crank them down as you’ll need to adjust the
 spacing later. Attach a 16 T pulley to the front stepper, this time
 with the grub collar towards the top and the teeth down.
 
-![](media/image43.png){width="6.5in" height="4.333333333333333in"}
+![](media/image43.png) 
 
 Note the front pulley has its teeth to the bottom and the rear pulley
 has its teeth to the top. This is critical.
@@ -929,8 +928,8 @@ attach to the frame using (4) M3 x 10mm Button head bolts, attach the
 steppers as indicated for the plastic mounts above, using (4) M3 x 8mm
 button head bolts per stepper.
 
-:![](media/image109.png){width="4.425780839895013in"
-height="5.901042213473316in"}
+:![](media/image109.png)
+
 
 \
 -
@@ -974,7 +973,7 @@ followed by an m5 washer. Put this through the 5mm hole on the inside
 of the carrier, and lock it on using an m5 washer and nylon lock nut.
 Again, make it tight, but so that the idler still spins freely.
 
-![](media/image83.png){width="6.5in" height="3.486111111111111in"}
+![](media/image83.png) 
 
 **If you’re using the aluminum idler carriers, they should look like
 this**
@@ -988,9 +987,9 @@ any play in the stack. You may need to use one washer in place of some
 of the shims so you have enough. These are attached using (4) M3 x 8mm
 Button head bolts.
 
-![](media/image18.png){width="4.46875in" height="3.90625in"}
+![](media/image18.png) 
 
-![](media/image78.png){width="6.5in" height="2.7083333333333335in"}
+![](media/image78.png) 
 
 Place the back idler carrier over the top of the left extrusion, in
 the back corner of the printer. Be sure the tab is on the outside of
@@ -998,7 +997,7 @@ the printer. Use (2) M3 x 10mm bolts to attach it to the two M3 nuts
 closest to the back of the printer. It should be against the back
 rail, we’ll adjust it more later, so it only needs to be snug for now.
 
-![](media/image10.png){width="6.5in" height="3.1527777777777777in"}
+![](media/image10.png) 
 
 ###  Front Stationary Idler Carrier
 
@@ -1016,7 +1015,7 @@ followed by an m5 washer, then an idler spacer. Put this through the
 washer and nylon lock nut. Again, make it tight, but so that the idler
 still spins freely.
 
-![](media/image21.png){width="6.5in" height="4.694444444444445in"}
+![](media/image21.png) 
 
 **If you’re using the aluminum idler carrier, it should look like this**
 
@@ -1028,10 +1027,10 @@ You need to adjust the number of shims below the idlers to eliminate
 any play in the stack. These are attached using (4) M3 x 8mm Button
 head bolts.
 
-![](media/image70.png){width="4.119792213473316in"
-height="4.278244750656168in"}
+![](media/image70.png)
 
-![](media/image90.png){width="6.5in" height="2.9444444444444446in"}
+
+![](media/image90.png) 
 
 Place the front idler carrier over the top of the left extrusion, in the
 front corner of the printer. Be sure the tab is on the outside of the
@@ -1039,7 +1038,7 @@ printer. Use (2) M3 x 10mm bolts to attach it to the two M3 nuts closest
 to the front of the printer. It should be against the front rail. We’ll
 adjust it more later, so it should only be snug for now.
 
-![](media/image96.png){width="6.5in" height="3.4583333333333335in"}
+![](media/image96.png) 
 
 \
 -
@@ -1073,7 +1072,7 @@ Taking your Y carriage, line it up with your Y linear rail carriage
 (remove any tape if you were holding it in place!) and attach it using
 (4) M3 x 8mm Button Head Bolts.
 
-![](media/image29.png){width="6.5in" height="4.083333333333333in"}
+![](media/image29.png) 
 
 ### Probe option: BLTouch
 
@@ -1085,8 +1084,8 @@ the holes in the BLTouch mount, and put on the M3 nuts, as pictured.
 (A short bit of belt between the bltouch and the mount makes a nice
 vibration damper)\
 \
-![](media/image104.png){width="4.130208880139983in"
-height="5.506944444444445in"}
+![](media/image104.png)
+
 
 Next, attach the BLTouch mount to the bottom left two holes on the Y
 carriage using (2) M3 x 8mm Button Head bolts.
@@ -1105,9 +1104,9 @@ x 8mm Button head bolts.
 Attach the titan/BMG mount to the 4 brass inserts on the Y carriage
 using (4) M3 x 8mm button head bolts.
 
-![](media/image69.png){width="5.71875in" height="4.010416666666667in"}
+![](media/image69.png) 
 
-![](media/image68.png){width="6.0625in" height="3.7083333333333335in"}
+![](media/image68.png) 
 
 Attach the mini-IR probe to the IR Probe mount, attach it on the back
 side of the mount, with the wire headers pointed towards the rear of
@@ -1118,19 +1117,19 @@ the mount. It can also be helpful to bend the pins to point up at a 90
 degree angle (or desolder the pins, and solder on a right angle pin).
 Doing this is recommended, but can gain you some Y distance.
 
-![](media/image42.png){width="6.5in" height="4.277777777777778in"}
+![](media/image42.png) 
 
 Before installation of the groove mount, you need to insert (2) M3
 nuts, one into the slot on each side of it.
 
-![](media/image25.png){width="4.739583333333333in"
-height="3.8541666666666665in"}
+![](media/image25.png)
+
 
 Attach the groove mount using (3) M3 x 8mm button head bolts using the
 top hole in the groove mount, and the bottom two holes, match them up
 the the brass inserts in the Y carriage.
 
-![](media/image98.png){width="6.5in" height="4.472222222222222in"}
+![](media/image98.png) 
 
 \
 -
@@ -1159,7 +1158,7 @@ into one of the belt retainer clips Match the teeth of the belt up to
 the teeth in the clips, and loop it around the shorter side. Leave
 about an inch extend past the edge of the clip.
 
-![](media/image28.png){width="6.25in" height="5.229166666666667in"}
+![](media/image28.png) 
 
 Using (1) 45mm cap head bolt, secure that into the Y carriage in the
 bottom hole facing the front of the printer. The teeth on the belt
@@ -1167,7 +1166,7 @@ should be pointing towards the left side of the printer body. You
 should be able to tighten the clip down until it’s flush with the
 front of the Y carriage.
 
-![](media/image60.png){width="6.5in" height="4.75in"}
+![](media/image60.png) 
 
 Now we’re going to thread this belt through. It comes straight out
 from the Y carriage, and around the smooth idler on the front X
@@ -1187,9 +1186,9 @@ M3 x 45mm cap head bolt to attach the belt retaining clip into the Y
 carriage. Once you’re satisfied with the position of the clip, cut the
 excess belt, leaving about an inch extending out from the clip.
 
-![](media/image12.png){width="5.59375in" height="4.875in"}
+![](media/image12.png) 
 
-![](media/image99.png){width="6.5in" height="5.402777777777778in"}
+![](media/image99.png) 
 
 Front / Lower belt path
 
@@ -1203,7 +1202,7 @@ the belt should be pointing towards the left side of the printer body.
 You should be able to tighten the clip down until it’s flush with the
 front of the Y carriage.
 
-![](media/image32.png){width="6.09375in" height="4.072916666666667in"}
+![](media/image32.png) 
 
 Now we’re going to thread this belt through. It comes straight out
 from the Y carriage, and around the toothed idler on the front X
@@ -1225,12 +1224,12 @@ M3 x 45mm cap head bolt to attach the belt retaining clip into the Y
 carriage. Once you’re satisfied with the position of the clip, cut the
 excess belt, leaving about an inch extending out from the clip.
 
-![](media/image93.png){width="5.052083333333333in"
-height="4.510416666666667in"}
+![](media/image93.png)
+
 
 Rear stepper / Upper Belt path
 
-![](media/image73.png){width="6.5in" height="5.277777777777778in"}
+![](media/image73.png) 
 
 The rear stepper / upper belt path
 
@@ -1259,7 +1258,7 @@ segments should be at 90 degrees, the two red at 90 degrees, etc. In
 the end, the green and red at the back of the printer should be
 parallel to the frame.
 
-![](media/image55.png){width="6.5in" height="5.388888888888889in"}
+![](media/image55.png) 
 
 Once the belts are aligned, you should snug up the M3 bolts on the
 stepper and idler carriers connecting them to the frame - you don’t
@@ -1286,14 +1285,14 @@ straight in through the hole in the tab. Once you’ve drilled the
 holes, use (2) M3 x 16mm button head bolts, and on the inside use an
 M3 washer & nylon lock nut to lock them in place.
 
-![](media/image1.png){width="6.5in" height="3.9583333333333335in"}
+![](media/image1.png) 
 
 Now we do the same with the X/Y stepper mounts. Drill a hole in the
 melamine through the hole in the printed part. Secure these with (2)
 M3 x 16mm button head bolts, (2) M3 washers, and (2) M3 nylon lock
 nuts.
 
-![](media/image51.png){width="6.5in" height="3.5in"}
+![](media/image51.png) 
 
 You can now reinstall the steppers, and then reinstall the X/Y belts.
 
@@ -1343,13 +1342,13 @@ Cooling\_Shroud
 We wire the endstops “Normally Closed” - wire your switches to the
 outside two connectors as pictured below:
 
-![](media/image75.png){width="6.5in" height="5.375in"}
+![](media/image75.png) 
 
 Connect one of these to the Y endstop carrier that you installed
 earlier using (2) M2 x 12mm bolts and (2) M2 nuts.
 
-![](media/image3.png){width="4.546875546806649in"
-height="3.784630358705162in"}
+![](media/image3.png)
+
 
 Attach the second endstop switch to the X endstop mount using (2) M2 x
 12mm bolts and (2) M2 nuts. Then attach your X endstop mount to the
@@ -1357,8 +1356,8 @@ top of the top rear extrusion, all the way against the left end (it
 will be next to the rear idler carrier) using (2) M3 x 8mm button head
 bolts.
 
-![](media/image40.png){width="4.7080489938757655in"
-height="3.119792213473316in"}
+![](media/image40.png)
+
 
 (Note: I’ve taped the wiring inside the bottom of the rear extrusion
 to hide it in this photo, just drape it over the back of the printer,
@@ -1372,7 +1371,7 @@ follow E3D’s instructions here:
 
 Your hotend should now look something like this:
 
-![](media/image58.png){width="6.5in" height="4.388888888888889in"}
+![](media/image58.png) 
 
 There might be a few differences - I like to tidy up my wiring using zip
 ties. I’m using a collet clip from seemecnc to keep the retaining collet
@@ -1411,12 +1410,12 @@ you’ll find you need (3) 3mm washers per each of the three bolts to
 tighten it down due to the spacing of the railcore’s titan mount. (Extra
 washers are not needed for the bondtech BMG)
 
-![](media/image100.png){width="5.552083333333333in" height="4.75in"}
+![](media/image100.png) 
 
 Once your titan is assembled, lock in your E3D v6 using (2) 30mm Button
 head bolts to attach the E3DV6 Retaining Clip to the groovemount.
 
-![](media/image26.png){width="5.09375in" height="3.9479166666666665in"}
+![](media/image26.png) 
 
 ###  Cooling Fan
 
@@ -1429,7 +1428,7 @@ need to add a couple of m3 washers between the fan shroud and Y
 carriage, to lower it until the shroud is pointing just at the tip of
 the v6 nozzle. (I use two washers per bolt on mine).
 
-![](media/image24.png){width="4.75in" height="4.28125in"}
+![](media/image24.png) 
 
 ###  X Endstop and Rail Adjustment
 
@@ -1461,7 +1460,7 @@ to back on the printer between the X carriages, and tighten down the
 horizontal retaining screws you installed in them earlier. Don’t worry
 about squaring it yet, we’ll do that later.
 
-![](media/image46.png){width="6.5in" height="3.9722222222222223in"}
+![](media/image46.png) 
 
 \
 -
@@ -1492,14 +1491,14 @@ yoke and thread into the nut. If the holes are not threaded, you’ll
 need to use M3 x 16mm button head bolts, and M3 nuts. Repeat for all 3
 yokes.
 
-![](media/image31.png){width="3.8854166666666665in"
-height="2.78125in"}
+![](media/image31.png)
+
 
 Thread the leadscrew into the leadscrew nut (install the spring and
 top of the anti-backlash nut). Repeat for all 3 Z yokes.
 
-![](media/image9.png){width="1.9479166666666667in"
-height="7.026042213473316in"}
+![](media/image9.png)
+
 
 Next, attach the 3 Z steppers to the bottom panel using (12) M3 x 10mm
 Button Head bolts. **If you are building a ZLT, the stepper is held on
@@ -1508,23 +1507,23 @@ to the stepper. Place a 608zz bearing into the bearing block. Then
 bolt the stepper to the bottom panel using the bearing block and (4)
 m3 x 50mm bolts. (Scroll down past the 300ZL steps for a picture)**
 
-**300ZL:**![](media/image23.png){width="6.5in"
-height="3.8177088801399823in"}
+**300ZL:**![](media/image23.png)
 
-![](media/image16.png){width="6.5in" height="4.140625546806649in"}
+
+![](media/image16.png) 
 
 Install the leadscrew coupler on all three Z steppers using the
 included grub screws.
 
-![](media/image87.png){width="6.479166666666667in"
-height="5.385416666666667in"}
+![](media/image87.png)
+
 
 (Repeat for the Right side, not pictured)
 
 **300ZLT:**
 
-![](media/image79.png){width="4.447916666666667in"
-height="4.052083333333333in"}
+![](media/image79.png)
+
 
 Place the leadscrews into the Couplers, and attach the yokes to the
 linear rail carriages using (4) M3 x 10mm Button Head Bolts per yoke
@@ -1532,7 +1531,7 @@ linear rail carriages using (4) M3 x 10mm Button Head Bolts per yoke
 left gets the Z\_yoke\_1, the other two get Z\_yoke\_2. (They’ll only
 match up to the carriages in one way.)
 
-![](media/image106.png){width="6.5in" height="5.861111111111111in"}
+![](media/image106.png) 
 
 To align the Z extrusions, move the yoke all the way to the bottom
 (don’t let the carriage run off the rail). Tighten up the bottom of
@@ -1609,7 +1608,7 @@ the yoke install a M3 fender washer & Nylon lock nut. These should be
 snug, but do not Overtighten. It’s important the bed can shift and
 tilt slightly in the yokes, if not, the Z leveling will bind.
 
-![](media/image89.png){width="6.5in" height="2.6527777777777777in"}
+![](media/image89.png) 
 -------------------------------------------------------------------
 
 \
@@ -1673,15 +1672,15 @@ printer (Below the steppers) using (4) M3 x 16mm button head bolts,
 from the side panel. Note these go in the top & bottom most set of
 holes. There is a center set that is not currently used.
 
-![](media/image91.png){width="6.5in" height="5.375in"}
+![](media/image91.png) 
 
 Attach the top and side panels to the Electronics box corners. Each
 Panel gets (4) M3 x 16mm Button head bolt and (4) M3 nuts. You should
 leave the front panel off, so you can get to the USB port on your duet
 to do its initial configuration.
 
-![](media/image7.png){width="6.333333333333333in"
-height="5.291666666666667in"}
+![](media/image7.png)
+
 
 Again, it’s best to leave the front panel off for now. Just install
 the top and rear.
@@ -1689,7 +1688,7 @@ the top and rear.
 Install the power switch in the rear panel using (2) M3 x 10mm button
 head bolts.
 
-![](media/image35.png){width="6.5in" height="4.722222222222222in"}
+![](media/image35.png) 
 
 IF BUILDING THE KIT VERSION, FOLLOW THE INSTRUCTIONS HERE: [*https://docs.google.com/document/d/1aIc6x7Vzb-bH8-pILNBV1cXyp3JWsIa50Y6eSjMmCgM/edit*](https://docs.google.com/document/d/1aIc6x7Vzb-bH8-pILNBV1cXyp3JWsIa50Y6eSjMmCgM/edit) 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -1704,7 +1703,7 @@ pre-drilled. **Check your PSU voltage switch** - if you’re in the US,
 it should be set to 120v - it’s far easier to do it before it’s
 mounted.
 
-![](media/image6.png){width="6.5in" height="6.277777777777778in"}
+![](media/image6.png) 
 
 I attached my Duet Wifi with (4) M3 x 20mm button head bolts, (4) M3
 washers (4) M3 nuts, and used some nylon spacers as standoffs so it
@@ -1716,11 +1715,11 @@ and (4) M3 nuts.
 
 Here are some sample wiring configurations
 
-![](media/image19.png){width="6.5in" height="6.5in"}
+![](media/image19.png) 
 
 (Photo Courtesy of Jesse Williams)
 
-![](media/image17.png){width="6.5in" height="4.333333333333333in"}
+![](media/image17.png) 
 
 (photo courtesy of Nate Stuart)
 
@@ -1737,9 +1736,9 @@ guide to wiring your duet.
 
 **Crimp all your connections**
 
-![](media/image84.png){width="6.5in" height="4.958333333333333in"}
+![](media/image84.png) 
 
-![](media/image103.png){width="6.5in" height="4.930555555555555in"}
+![](media/image103.png) 
 
 Connect your front stepper to the Y stepper connection
 
@@ -1790,15 +1789,15 @@ to the requirements for ground to the duet & duex5:
 [*https://duet3d.dozuki.com/Wiki/Duex2\_and\_Duex5\_Features\#Section\_Wiring*](https://duet3d.dozuki.com/Wiki/Duex2_and_Duex5_Features#Section_Wiring)
 
 For power to the Bed/SSR, see this Diagram (I’ll work on a better
-diagram soon!):![](media/image38.png){width="4.063476596675415in"
-height="7.223958880139983in"}
+diagram soon!):![](media/image38.png)
+
 
 ### Final Touches
 
 The electronics box cover is attached using (4) M3 x 8mm Button head
 bolts.
 
-![](media/image36.png){width="6.5in" height="7.430555555555555in"}
+![](media/image36.png) 
 
 There are some sample prints that can be used for fan vent covers and
 a PSU vent cover - these can be attached to the electronics box cover
@@ -1809,13 +1808,13 @@ Do a power on (smoke test) Before closing up the printer.
 The optional filament guide can be attached onto the top right
 extrusion using (1) M3 x 8mm button head bolt.
 
-![](media/image2.png){width="6.5in" height="3.888888888888889in"}
+![](media/image2.png) 
 
 For my cabling, I ran a PTFE connection from the filament guide to the
 top of the titan, then used wire wrap to wrap the entire bundle of
 wiring to the PTFE. (along with a couple zip ties).
 
-![](media/image110.png){width="6.5in" height="4.875in"}
+![](media/image110.png) 
 
 \
 -
@@ -2063,4 +2062,4 @@ front extrusions. It’s on thingiverse here:
 You’ll need to use dc42’s 5” paneldue case here:
 [*https://www.thingiverse.com/thing:656884*](https://www.thingiverse.com/thing:656884)
 
-![](media/image76.png){width="6.5in" height="5.763888888888889in"}
+![](media/image76.png) 
