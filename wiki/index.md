@@ -46,7 +46,7 @@ While RailCore II is an open-source project, there are companies that deal with 
   * Sourcing
   * [Tapping](./tapping.md)
   * Squaring the extrusions
-  * Lubrication
+  * [Lubrication](./lubrication.md)
   * Mounting linear rails
   * [Recommended priority of Aluminium Parts](./recommended_priority_of_aluminium_parts.md)
   * Recommended Additional 3D Printed Parts - [Cooling Shroud by James Tongue](https://www.thingiverse.com/thing:3367622) - [Remix oriented for easier printing setup](https://www.thingiverse.com/thing:3461781)
