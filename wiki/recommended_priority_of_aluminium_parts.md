@@ -1,11 +1,20 @@
 ---
-title: Recommented priority of Aluminium Parts
+title: Recommended priority of Aluminium Parts
 ---  
 
-The recommended order of priority of replacement of 3D printed parts with Aluminium is:-
+The recommended order replacement of the RailCore II ZL series 3D printed parts with aluminium replacements is:-
     
 1. X Carriages, Idler pulley mount set & Stepper mounts (highly recommended!)
 1. **(ZL only)** Hotend mount 
 1. Z Yokes
 1. Z Brackets
-1. **(ZLT only)** Hotend mount 
+1. **(ZLT only)** Hotend mount
+1. Magbed
+1. Halo - doesn't seem to improve prints, but does pre-align belts
+1. Aluminum Y carriage - lighter than the printed part, and saves you weight
+
+### Longest swap times after assembly
+
+1. Magbed
+1. Z brackets
+1. Halo
