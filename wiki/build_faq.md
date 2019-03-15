@@ -16,7 +16,7 @@ A.See [Recommended priority of Aluminium Parts](./recommended_priority_of_alumin
 
 ### Q. How do I align the X Carriages & Y Rail?
 
-A. See [./aligning_the_x_carriages_y_rail.md]
+A. See [Aligning the X Carriages & Y Rail](./aligning_the_x_carriages_y_rail.md)
 
 ### Q. How do I best find the Z-offset?
 
