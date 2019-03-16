@@ -23,9 +23,14 @@ The Fusion360 models, Assembly Guide and BOM are the official, master copies mai
 
 ## RailCore II Community Resources
 
-### Wiki
+Please read these resources carefully to answer many common questions, and contribute information where you can add!
 
-[RailCore II Wiki - Community Maintained Documentation & Guides](/wiki/index.md) - Please do read the wiki carefully to answer many common questions.
+See our [Contributing page](/CONTRIBUTING.md) for more information on contributing to these guides.
+
+* [Build & Troubleshoot](/wiki/build_and_troubleshoot.md) - how to assemble and get your RailCore II running.
+* [Hardware](/wiki/hardware.md) - all about choosing and sourcing the parts for your RailCore II.
+* [Software](/wiki/software.md) - how to configure the firmware on your RailCore II as well as your slicer.
+* [Customization](/wiki/customization.md) - information of variations and customization of the RailCore II.
 
 ### Discussion
    * [Facebook Group](https://www.facebook.com/groups/RailCore/)
@@ -41,7 +46,7 @@ The Fusion360 models, Assembly Guide and BOM are the official, master copies mai
 
 The initial idea to collaborate on a printer started in the #RepRap IRC channel, and centered on some common goals we both had in mind for a new printer design.
 
-These were:-
+These were:
  * Core-XY motion.
  * All Linear rails for movement.
  * Space & cost-efficient, enclosable frame.
