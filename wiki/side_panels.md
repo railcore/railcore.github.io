@@ -19,4 +19,4 @@ Other possible solutions:-
 * Dibond
 * Almost anything that's ~6mm thick and not stretchy should work.
 
-You can get milled ones from https://www.kraegar.com/shop (Only ships within the USA)
+The Railcore II font seen on some side panels is Windows 10 "Middle Ages"
