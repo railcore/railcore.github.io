@@ -2,7 +2,7 @@
 title: Switchless Homing using the Duet (Trinamic 2660 drivers)
 --- 
 ## Background
-The Trinamic 2660 drivers have stall detection that can identify dropped steps through back-emf from the stepper motor itself. This is referred to as StallGuard. RRF on the Duet Wifi offers us several options as to what action to take when a motor stall is detected. You can read about those [[https://duet3d.dozuki.com/Wiki/Gcode#Section_M915_Configure_motor_stall_detection|here]]. 
+The Trinamic 2660 drivers have stall detection that can identify dropped steps through back-emf from the stepper motor itself. This is referred to as StallGuard. RRF on the Duet Wifi offers us several options as to what action to take when a motor stall is detected. You can read about those [here](https://duet3d.dozuki.com/Wiki/Gcode#Section_M915_Configure_motor_stall_detection.
 
 ## Configuraion
 
@@ -17,7 +17,7 @@ Basically, I:
 
 My configuration does all of this in the homex.g and homey.g. You don't want to try and home Z with stallguard. You'll have a really bad time if you do. So here's my homex.g:
 
-<code>
+```
 M400 ; wait til stuff stops
 M574 X1 Y1 S3 ; use stall guard for endstops
 M913 X30 Y30  ; drop motor currents to 30% 
@@ -33,7 +33,7 @@ M400 ; wait again
 M913 X100 Y100  ; motor currents back to 100%
 M201 X3000 Y3000 ; accel back to original
 M574 X1 Y1 Z0 S0 ; set endstops back 
-</code>
+```
 
 
 I've commented the gcode so I could remember what each step does. You can read it, and know, too. I had to drop my motor currents to 30%. If you've ever commanded your printer to move somewhere it can't you are probably aware that it can be pretty dramatic. With the current at 30%, the two skipped steps stallguard requires just sound like a bump. You'll want to make that 250 a 300 if you're using a 300ZL, of course. 
