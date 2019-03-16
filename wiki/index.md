@@ -36,7 +36,6 @@ title: RailCore II Wiki
   * Squaring the extrusions
   * Lubrication
   * Mounting linear rails
-
   * [Recommended priority of Aluminium Parts](./recommended_priority_of_aluminium_parts.md)
   * Recommended Additional 3D Printed Parts - [Cooling Shroud by James Tongue](https://www.thingiverse.com/thing:3367622) - [Remix oriented for easier printing setup](https://www.thingiverse.com/thing:3461781)
 
