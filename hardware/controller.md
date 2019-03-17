@@ -24,7 +24,7 @@ See https://reprap.org/wiki/Arduino_Mega_Pololu_Shield
 
 #### Radds
 
-![RADDS](./images/radds_3.jpg)
+![RADDS](images/radds_3.jpg)
 
 A nice, sadly not 100% Open, controller board with optional extension board that can controll 6 (with extension board up to 9) independent stepper motors.
 Usually running ontop of a Arduino Due 32bit Board, so it has plenty of performance to controll all Railcore Aspects.
