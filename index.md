@@ -27,10 +27,10 @@ Please read these resources carefully to answer many common questions, and contr
 
 See our [Contributing page](/CONTRIBUTING.md) for more information on contributing to these guides.
 
-* [Build & Troubleshoot](/wiki/build_and_troubleshoot.md) - how to assemble and get your RailCore II running.
-* [Hardware](/wiki/hardware.md) - all about choosing and sourcing the parts for your RailCore II.
-* [Software](/wiki/software.md) - how to configure the firmware on your RailCore II as well as your slicer.
-* [Customization](/wiki/customization.md) - information of variations and customization of the RailCore II.
+* [Build & Troubleshoot](/build_and_troubleshoot) - how to assemble and get your RailCore II running.
+* [Hardware](/hardware) - all about choosing and sourcing the parts for your RailCore II.
+* [Software](/software) - how to configure the firmware on your RailCore II as well as your slicer.
+* [Customization](/customization) - information of variations and customization of the RailCore II.
 
 ### Discussion
    * [Facebook Group](https://www.facebook.com/groups/RailCore/)
