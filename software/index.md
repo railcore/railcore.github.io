@@ -1,6 +1,7 @@
 ---
 title: Software
 layout: category
+sidebar_sort_order: 3
 ---
 
 

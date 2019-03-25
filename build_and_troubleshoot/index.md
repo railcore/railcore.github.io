@@ -1,6 +1,7 @@
 ---
 title: Build & Troubleshoot
 layout: category
+sidebar_sort_order: 2
 ---
 
 ## The Build
