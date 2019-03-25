@@ -1,6 +1,7 @@
 ---
 title: Hardware
 layout: category
+sidebar_sort_order: 1
 ---
 
 ## Official Assembly Guide, BOM, Model and Printable Parts 

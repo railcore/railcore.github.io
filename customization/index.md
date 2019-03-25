@@ -1,6 +1,7 @@
 ---
 title: Customization
 layout: category
+sidebar_sort_order: 4
 ---
 
 ## Variations & Customizations
