@@ -12,11 +12,11 @@ A. Currently recommended is the [Cooling Shroud by James Tongue](https://www.thi
 
 ### Q. which printed parts should I replace with aluminum parts first?
 
-A.See [Recommended priority of Aluminium Parts](/build_and_troubleshoot/recommended_priority_of_aluminium_parts.md)
+A.See [Recommended priority of Aluminium Parts](./recommended_priority_of_aluminium_parts.md)
 
 ### Q. How do I align the X Carriages & Y Rail?
 
-A. See [Aligning the X Carriages & Y Rail](/customization/aligning_the_x_carriages_y_rail.md)
+A. See [Aligning the X Carriages & Y Rail](../customization/aligning_the_x_carriages_y_rail.md)
 
 ### Q. How do I best find the Z-offset?
 
@@ -32,7 +32,7 @@ A. The simplest method is to go to the particular repository(section) you want f
 
 ### Q. I need more help! Where do I go next?
 
-A. There are many discussion and chat options, including a Facebook group - see [/index.md#discussion]. Please do not message people directly on Facebook (unless invited first).
+A. There are many discussion and chat options, including a Facebook group - see [../index.md#discussion]. Please do not message people directly on Facebook (unless invited first).
 
 ### Q. Problems with ringing, where should I look?
 
