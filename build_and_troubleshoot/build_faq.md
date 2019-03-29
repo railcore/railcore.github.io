@@ -20,7 +20,7 @@ A. See [Aligning the X Carriages & Y Rail](../customization/aligning_the_x_carri
 
 ### Q. How do I best find the Z-offset?
 
-A. [Standard way (Duet3D wiki)](https://duet3d.dozuki.com/Wiki/Test_and_calibrate_the_Z_probe) or [newer way](./tool_offset_z_configuration.md)
+A. [Standard way (Duet3D wiki)](https://duet3d.dozuki.com/Wiki/Test_and_calibrate_the_Z_probe) or [newer way](../customization/tool_offset_z_configuration.md)
 
 ### Q. Where can I find models for the aluminium parts?
 
@@ -32,7 +32,7 @@ A. The simplest method is to go to the particular repository(section) you want f
 
 ### Q. I need more help! Where do I go next?
 
-A. There are many discussion and chat options, including a Facebook group - see [../index.md#discussion]. Please do not message people directly on Facebook (unless invited first).
+A. There are [discussion and chat options](../index.md#discussion) for help. Please DO NOT message people directly about issues on Facebook  messenger, e-mail, hangouts or twitter, without being specifically invited first.
 
 ### Q. Problems with ringing, where should I look?
 
