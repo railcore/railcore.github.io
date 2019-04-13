@@ -28,7 +28,7 @@ sidebar_sort_order: 2
 ## Software Configuration and Verification
 * Installing the config and customizing for your machine
 * [Perform a Motion Test](motion_test.md) to ensure that your machine is wired correctly and configured like you hope it is.
-* Perform a Heater Test
+* [Perform a Heater Test (Duet wiki)](https://duet3d.dozuki.com/Wiki/Tuning_the_heater_temperature_control)
 
 ## Hardware Information
 * [STL/DXF files](https://github.com/railcore/parts)
