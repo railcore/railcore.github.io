@@ -7,3 +7,5 @@ I removed and re-attached a keenovo. Seemed to work, then shorted out internally
 
 
 
+there are lots of variables out there (cooling fan settings, nozzle type, etc.)
+the config is only a jumping off point
