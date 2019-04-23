@@ -53,7 +53,8 @@ The Duet Wifi hardware can repsond badly to distance (small aerial) and MIMO tec
 
 ### Q. My mesh level is terrible! What do I need to do?
 
-A. If using a BL-touch with a magnetic bed, you can see a very bumpy mesh, as terh BL-touch is magnetic. You have to probe between the magnets. With the bed levelling you must also probe at these points.
+A. If using a BL-touch with a magnetic bed, you can see a very bumpy mesh, as the BL-touch is magnetic. You have to probe between the magnets. With the bed levelling you must also probe at these points.
+See "bltouch-magbed-bed.g" in the sys folder.
 
 ### Q. Will there be a toolchanger for Railcore?
 
