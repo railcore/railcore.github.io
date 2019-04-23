@@ -53,11 +53,11 @@ The Duet Wifi hardware can repsond badly to distance (small aerial) and MIMO tec
 
 ### Q. My mesh level is terrible! What do I need to do?
 
-A.
+A. If using a BL-touch with a magnetic bed, you can see a very bumpy mesh, as terh BL-touch is magnetic. You have to probe between the magnets. With the bed levelling you must also probe at these points.
 
 ### Q. Will there be a toolchanger for Railcore?
 
-A.
+A. The toolchanger is currently in development.
 
 ### Q. How do I align my lead screws with the steppers?
 
@@ -65,8 +65,8 @@ A.
 
 ### Q. How do I square the frame?
 
-A.
+A. 
 
 ### Q. How do I align the upper z-brackets?
 
-A.
+A. See the [new Z alignment procedure](new_Z_alignment_procedure_for_the_Z_extrusions.md) and Tony's [RailCore II ZL Z axis Alignment Live Stream](https://www.youtube.com/watch?v=CNWzMLc5-Cg)
