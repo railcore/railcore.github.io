@@ -2,6 +2,7 @@
 title: Software
 layout: category
 sidebar_sort_order: 3
+TODO: Expand into sections for initial Duet setup, customizing Duet config, and slicer config.
 ---
 
 
