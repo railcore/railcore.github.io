@@ -7,7 +7,7 @@ sidebar_sort_order: 2
 
 This site is primarily community built and supported. If you notice something is missing, a community member (just like you!) doing the work is the only way things improve. Please pitch in wherever you can, no contribution is too small.
 
-The source for this website is managed in a public [GitHug Repo.](https://github.com/railcore/railcore.github.io)  It's built using [Jekyll](https://jekyllrb.com) and hosted on [GitHub Pages](https://pages.github.com). While that sounds complicated, it just means most of the code is written in simple [Markdown](https://www.markdownguide.org/cheat-sheet/) and managed in public using free tools.
+The source for this website is managed in a public [GitHub Repo.](https://github.com/railcore/railcore.github.io)  It's built using [Jekyll](https://jekyllrb.com) and hosted on [GitHub Pages](https://pages.github.com). While that sounds complicated, it just means most of the code is written in simple [Markdown](https://www.markdownguide.org/cheat-sheet/) and managed in public using free tools.
 
 Contributions are welcome throughout the site. If you need help finding a place to start, see our [TODO page.](/contributing/todo.html)
 
