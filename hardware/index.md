@@ -22,7 +22,7 @@ The Fusion360 models, Assembly Guide and BOM are the official, master copies mai
 While RailCore II is an open-source project, there are companies that deal with RailCore II kits and parts.
 
 * [Project R3D RailCore II Kits](https://www.projectr3d.com/).
-* [Mandala Rose Works Aluminium parts](http://www.mandalaroseworks.com/product/railcore)
+* [Mandala Rose Works parts](http://www.mandalaroseworks.com/)
 * [713 Maker Aluminium parts](https://713maker.com/railcore)
 * [Merch Minion Railcore Branded Merchandise](http://kninedhp.merchminion.com/)
     
