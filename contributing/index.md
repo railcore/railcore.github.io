@@ -9,6 +9,8 @@ This site is primarily community built and supported. If you notice something is
 
 The source for this website is managed in a public [GitHug Repo.](https://github.com/railcore/railcore.github.io)  It's built using [Jekyll](https://jekyllrb.com) and hosted on [GitHub Pages](https://pages.github.com). While that sounds complicated, it just means most of the code is written in simple [Markdown](https://www.markdownguide.org/cheat-sheet/) and managed in public using free tools.
 
+Contributions are welcome throughout the site. If you need help finding a place to start, see our [TODO page.](/contributing/todo.html)
+
 ## Power Users
 
 If you're already familiar with GitHub, feel free to fork the project and submit a PR.  If that last sentence made no sense, the rest of this page is for you.
