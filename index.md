@@ -13,7 +13,7 @@ RailCore II is a [Core-XY based Reprap 3D printer](https://reprap.org/wiki/CoreX
 
 Please read these resources carefully to answer many common questions, and contribute information where you can add!
 
-See our [Contributing page](/CONTRIBUTING.md) for more information on contributing to these guides.
+See our [Contributing page](/contributing/) for more information on contributing to these guides.
 
 * [Hardware](/hardware) - all about choosing and sourcing the parts for your RailCore II.
 * [Build & Troubleshoot](/build_and_troubleshoot) - how to assemble and get your RailCore II running.
