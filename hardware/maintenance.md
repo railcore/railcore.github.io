@@ -7,6 +7,7 @@ Your Railcore will benefit from regular maintenance, which will keep it in good 
  * Depending on use, clean the bed surface with a suitable cleaner for your print surface.
  * Extruder check?
  * Do a visual check of the printer, looking particularly for anything loose. Check your axes are moving freely.
+ * Check belt tension as per the belts page
 
 ## Monthly schedule
 
@@ -16,3 +17,5 @@ Your Railcore will benefit from regular maintenance, which will keep it in good 
  
 ## If you move your printer
 
+ * Perform a visual check before switching on. Especially the electronics (moreso if your wires are not attached to the panels)
+ * Run the functiontest macro to check nothing has come loose during transit.
