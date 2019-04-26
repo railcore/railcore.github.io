@@ -13,3 +13,6 @@ Your Railcore will benefit from regular maintenance, which will keep it in good 
  * Check and put lubricant on the Z lead screws and rails and move the Z axis through its range.
  * Check and put lubricant on X & Y rails and move these axes through their range.
  * Check for the latest full [release of Duet firmware](https://github.com/dc42/RepRapFirmware/releases) and upgrade if necessary.
+ 
+## If you move your printer
+
