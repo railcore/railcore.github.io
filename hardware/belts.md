@@ -11,6 +11,6 @@ title: Belts
  * "Gates Bicycle Belt Tension Meter" app
  * [Gates Carbon Drive app](https://play.google.com/store/apps/details?id=com.gates.carbondrivecalculator)
  
-Belts have been measured to usually be around 60hz on the long return. The belt returns on the left, between the two idlers, should be around 40-45Hz or so, according to Gates' design software.
+Belts have been measured to usually be around 60hz on the long return. The belt returns on the left, between the two idlers, should be around 41Hz (40-45Hz should be fine) on the 300ZL series, according to Gates' design software. (50Hz on the 250ZL series)
 
 5m of belt is enough to do both belts on either printer. The 300ZL is roughly 2.2m of belt per side.
