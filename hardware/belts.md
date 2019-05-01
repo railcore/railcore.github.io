@@ -15,3 +15,4 @@ title: Belts
  
 Belts have been measured to usually be around 60hz on the long return. The belt returns on the left, between the two idlers where the belts crossover, should be around 41Hz (40-45Hz should be fine) on the 300ZL series and 50Hz on the 250ZL series, according to Gates's DesignIQ software.
 
+_Caveat: The Gates software almost certainly optimizes for belt life and power transmission. It's entirely possible that a higher tension might shorten the life of the belts but result in better prints in some fashion, so YMMV. These numbers are just what Gates DesignIQ says._
