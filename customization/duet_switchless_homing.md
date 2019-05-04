@@ -45,7 +45,7 @@ My homey.g isn't much different:
 ```
 M400 ; wait til stuff stops
 M574 X1 Y1 S3 ; use stall guard for endstops
-M913 X30 Y30  ; drop motor currents to 40%
+M913 X30 Y30  ; drop motor currents to 30%
 M201 X1000 Y1000 ; reduce acceleration on X/Y to stop false triggers
 M915 P0:1 S3 R0 F0 H400; both motors because corexy; Sensitivity 4, don’t take action, don’t filter, 400steps/sec
 G91 ; set relative
