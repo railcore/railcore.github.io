@@ -48,7 +48,7 @@ Then home Z:
 G28 Z
 ```
 
-Now, put your piece of paper on the deck. Jog down until the nozzle JUST touches it and drags it a bit. Check Z - it should say something like 1.2.Now, you want to enter that as the “offset” for tool 0. 
+Now, put your piece of paper on the deck. Jog down until the nozzle JUST touches it and drags it a bit. Check Z - it should say something like -1.2. Now, you want to enter that (as a positive value) as the “offset” for tool 0. 
 
 ```
 G10 L1 P0 Z1.2 ; set tool offset for tool 0
