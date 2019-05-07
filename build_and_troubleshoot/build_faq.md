@@ -4,7 +4,7 @@ title: RailCore II Build FAQ
 
 ### Q.  How tight should the belts be?
 
-A. See [Belts](belts.md)
+A. See [Belts](./belts.md)
 
 ### Q. What is the best fan shroud?
 
