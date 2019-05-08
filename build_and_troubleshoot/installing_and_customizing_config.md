@@ -67,4 +67,4 @@ It is a reasonable approach to get the Duet up and running before connecting the
 
 With luck, you should be able to connect via the web interface via http://railcore.local on your local network. This very much depends on the machines you are using and your local network topology.
 
-** If this does not work, then the next step is to interact with your Duet via USB and find its IP address. Full instructions can be found on the [Duet documentation - Getting connected to your Duet](https://duet3d.dozuki.com/Guide/1.%29+Getting+Connected+to+your+Duet/7) **
+**If this does not work, then the next step is to interact with your Duet via USB and find its IP address. Full instructions can be found on the [Duet documentation - Getting connected to your Duet(https://duet3d.dozuki.com/Guide/1.%29+Getting+Connected+to+your+Duet/7)**
