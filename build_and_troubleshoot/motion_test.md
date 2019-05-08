@@ -2,7 +2,7 @@
 title: Performing a Motion Test
 ---
 
-The Duet configuration from our [GitHub repo](https://github.com/railcore/configs/) contains a macro `MotionTest.`  This macro will *slowly* test the motion components, end stops, and probes of your printer so that you can ensure that your build is functioning correctly at lower speeds to minimize the chance of damage from a crash.
+The Duet configuration from our [GitHub repo](https://github.com/railcore/configs/) contains a macro in the Commissioning folder called `Motion_Test.g.`  This macro will *slowly* test the motion components, end stops, and probes of your printer so that you can ensure that your build is functioning correctly at lower speeds to minimize the chance of damage from a crash.
 
 At each step, the macro will provide a prompt telling you what it's going to do on your PanelDue and/or DWC.  Pay close attention to the prompt, then watch the printer closely to make sure it's doing what it told you it would do, and moves the direction it tells you.
 
