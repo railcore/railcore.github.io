@@ -1,7 +1,6 @@
-# Installing and customising the Duet Config for your RailCore II
-
-**WARNING: The RailCore is a DIY project. Build safe, build smart and BE RESPONSIBLE.**
-**When in doubt, double check things. USE COMMON SENSE AND USE THESE CONFIG FILES AT YOUR OWN RISK.**
+---
+title: Installing and customising the Duet Config for your RailCore II
+---
 
 ## Copying the RailCore Duet Bundle to your SD-card
 
@@ -54,6 +53,9 @@ So do be sure to read the Duet G-code documentation on any G or M code line you 
 ## After the SD card is populated with your configuration
 
 It is a reasonable approach to get the Duet up and running before connecting the PSU, stepper motors, thermistors and any other parts. The Duet can run from USB power, assuming it can supply a steady 5V.
+
+**WARNING: The RailCore is a DIY project. Build safe, build smart and BE RESPONSIBLE.**
+**When in doubt, double check things. USE COMMON SENSE AND USE THESE CONFIG FILES AT YOUR OWN RISK.**
 
 ### Important: Note about USB 5V power
 
