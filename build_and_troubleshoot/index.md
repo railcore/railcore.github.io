@@ -26,8 +26,8 @@ sidebar_sort_order: 2
 * [Wiring Diagram](./RailCore_wiring_diagram_with_12v_enablement-v2.pdf) for Duet v1.00-1.03 & Duex5 v0.8 *(by StevenL)*
 
 ## Software Configuration and Verification
-* Installing the config and customizing for your machine
-* [Perform a Motion Test](motion_test.md) to ensure that your machine is wired correctly and configured like you hope it is.
+* [Installing the config and customizing for your machine](./build_and_troubleshoot/installing_and_customizing_config.md)
+* [Perform a Motion Test](./motion_test.md) to ensure that your machine is wired correctly and configured like you hope it is.
 * [Perform a Heater Test (Duet wiki)](https://duet3d.dozuki.com/Wiki/Tuning_the_heater_temperature_control)
 
 ## Hardware Information
