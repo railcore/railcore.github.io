@@ -12,9 +12,9 @@
 
 Your choice, and down to how you want to approach your build.
 
- * [Kraegars config](https://github.com/railcore/configs/tree/master/unmaintained/Kraegars/300ZL) - The original config aimed at self-sourcers. Can be a useful starting point for those that want to engineer everything themselves and keep all settings in a single file.
+ * [Kraegars config](https://github.com/railcore/configs/tree/master/unmaintained/Kraegars/300ZL) - The original basic config aimed at self-sourcers. Can be a useful starting point for those that want to engineer everything themselves and keep all settings in a single file.
  * [Project R3D config](https://github.com/railcore/configs/tree/master/unmaintained/ProjectR3D/300ZL) - A slightly modified version of Kraegars config, for people that have purchased a Project R3D kit.
- * [RailCore Community Config](https://github.com/railcore/configs/) - Originally based on Kraegars config, this config has been (and is) under active development by community members. This version has additional settings, macros and features so self-sourcers and kit builders do not have to keep re-inventing the wheel. Sensorless homing, different probes, and a 2 file config setup (so upgrades are possible without losing your settings that make your RailCore II different to others)
+ * [RailCore Community Config](https://github.com/railcore/configs/) - Originally based on Kraegars config, this config has been (and is) under active development by community members. This version has well documented additional settings, macros and features so self-sourcers and kit builders do not have to keep re-inventing the wheel. In addition there are safety features (very conservative settings build settings that are easily overriden once fully commissioned, macros to test individual parts of your build, a 2 file config setup, so future upgrades are possible without losing your settings that make your RailCore II different to others, and various extra (and tested) features such as sensorless homing and non-standard probes. 
 
 ## Community based configuration
 
