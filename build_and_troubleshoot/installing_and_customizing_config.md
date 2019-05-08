@@ -4,18 +4,18 @@ title: Installing and customising the Duet Config for your RailCore II
 
 ## Copying the RailCore Duet Bundle to your SD-card
 
-1. Populate a www folder with DWC from https://github.com/T3P3/Duet/tree/master/Duet2/SD%20Card%20Contents/www
-1. Populate sys, macros, filaments folders from https://github.com/railcore/configs
+1. Populate a www folder with [the latest release from DWC](https://github.com/chrishamm/DuetWebControl/releases)
+1. Populate sys, macros, filaments folders from the [Railcore Github Config Repository](https://github.com/railcore/configs)
 
-## Wait a minute, there are several configs! Which config should I choose?
+## Wait a minute, there are several configs! Which config should I be using?
 
-Your choice, and down to how you want to approach your build.
+The RailCore project is all about flexibility and making your build your own. So, that is your choice, and down to how you want to approach your build.
 
- * [Kraegars config](https://github.com/railcore/configs/tree/master/unmaintained/Kraegars/300ZL) - The original basic config aimed at self-sourcers. Can be a useful starting point for those that want to engineer everything themselves and keep all settings in a single file.
+ * [Kraegars config](https://github.com/railcore/configs/tree/master/unmaintained/Kraegars/300ZL) - The original basic config aimed at self-sourcers. Can be a useful starting point for those that want to engineer everything themselves and keep all their Duet settings in a single file.
  * [Project R3D config](https://github.com/railcore/configs/tree/master/unmaintained/ProjectR3D/300ZL) - A slightly modified version of Kraegars config, for people that have purchased a Project R3D kit.
- * [RailCore Community Config](https://github.com/railcore/configs/) - Originally based on Kraegars config, this config has been (and is) under active development by community members. This version has well documented additional settings, macros and features so self-sourcers and kit builders do not have to keep re-inventing the wheel. In addition there are safety features (very conservative settings build settings that are easily overriden once fully commissioned, macros to test individual parts of your build, a 2 file config setup, so future upgrades are possible without losing your settings that make your RailCore II different to others, and various extra (and tested) features such as sensorless homing and non-standard probes. 
+ * [RailCore Community Config](https://github.com/railcore/configs/) - Originally based on Kraegars Duet config, this config has been (and is) under active development by community members. The goal of this configuration is to be well documented, with additional settings, macros and features so self-sourcers and kit builders do not have to keep re-inventing the wheel.
 
-## Community based configuration
+## Community based configuration information
 
 The "duet" folder contains a Duet configuration bundle for RepRapFirmware Duet (Ethernet/Wifi) for the RailCore II 300ZL and 300ZLT.
 
@@ -50,12 +50,13 @@ So do be sure to read the Duet G-code documentation on any G or M code line you 
  
  The only file you will want to change at this point is the wifi.g file in /sys if you have a DuetWifi.
  
-## After the SD card is populated with your configuration
-
-It is a reasonable approach to get the Duet up and running before connecting the PSU, stepper motors, thermistors and any other parts. The Duet can run from USB power, assuming it can supply a steady 5V.
+## After the SD card is populated with your chosen configuration
 
 **WARNING: The RailCore is a DIY project. Build safe, build smart and BE RESPONSIBLE.**
 **When in doubt, double check things. USE COMMON SENSE AND USE THESE CONFIG FILES AT YOUR OWN RISK.**
+
+It is a reasonable approach to get the Duet up and running before connecting the PSU, stepper motors, thermistors and any other parts. 
+The Duet can run from USB power (assuming it can supply a steady 5V)
 
 ### Important: Note about USB 5V power
 
