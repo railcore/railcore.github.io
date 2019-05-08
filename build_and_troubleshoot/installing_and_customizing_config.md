@@ -41,10 +41,9 @@ Place this file in /sys to replace the existing one, which is there as a placeho
 Examples and standard files for kits and self-builders are available, and there are also bundles for items where extra files are required (such as the BL-touch or sensorless homing) 
 Each config-user file is enabled to allow the RailCore to be operational, and initally many conservative values
 will be inherited from the stock config.g
-To override these and unleash your Railcores' speeds, size and/or features after building, you must during commissioing test, measure then uncomment and modify the various lines (preferably individually) to suit **your** RailCore build.
+To override these and unleash your Railcores' speeds, size and/or features after building, you must during commissioning, test, measure and uncomment or modify various lines (in an organised and controlled fashion) to suit **your** RailCore build.
 
-While we have done our best to comment the files, we cannot put the full documentation for every command into these configuration files.
-So do be sure to read the Duet G-code documentation on any G or M code line you are unsure of.
+While we have done our best to comment the files as much as possible, we cannot put the full documentation for every command into these configuration files for obvious reasons. Do be sure to read the Duet G-code documentation on any G or M code line you are unsure of.
 
  **The included config-user.g in the /sys directory is not intended for use, and if run will stop your RailCore with a warning.**
  
