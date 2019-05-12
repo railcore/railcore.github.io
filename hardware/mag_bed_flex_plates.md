@@ -21,6 +21,6 @@ You can also, less elegantly, purchase a flex plate the size of your printable a
   * [EZFlex Plate](https://www.th3dstudio.com/product/ezflex-plate-bundle/)
   * [Funssor Creality CR-10 Plate](https://www.aliexpress.com/item/Funssor-Creality-CR-10-heated-bed-Ultem-1000-PEI-powder-coated-spring-steel-305mm-Double-sided/33003834729.html?spm=a2g0s.9042311.0.0.75d74c4ddCEd4j)
   * [Geckotek](https://www.geckotek.co/collections/build-plates/products/custom-ez-stik-build-plate?variant=14029925777523)
-  * [Subtle Design](https://subtle.design/)
+  * [Subtle Design Everflex](https://subtle.design/collections/3d-printing/products/everflex)
   * [Printed Solid](https://www.printedsolid.com/products/blank-plate-for-railcore-300zl-and-300zlt)
   * [WhamBam](https://whambam3d.com/collections/accessories/products/copy-of-add-on-flexi-plate)
