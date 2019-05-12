@@ -1,3 +1,4 @@
+## Magnetic Bed Solutions and Build Plates
 This section covers Magnetic Beds and Build Plates that will work with the RailCore.
 
 The build plate size is significantly larger than the printable area. On the 250ZL, for instance, the bed is 275x281, but 250x250 is about the max printable area. You can approach this problem in different fashions. 
