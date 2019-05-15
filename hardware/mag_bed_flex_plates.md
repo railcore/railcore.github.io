@@ -1,6 +1,5 @@
 ---
 title: Magnetic Bed Solutions and Build Plates
-layout: category
 ---
 
 This section covers Magnetic Beds and Build Plates that will work with the RailCore.
