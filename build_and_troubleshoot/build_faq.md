@@ -16,7 +16,7 @@ A.See [Recommended priority of Aluminium Parts](./recommended_priority_of_alumin
 
 ### Q. How do I align the X Carriages & Y Rail?
 
-A. See [Aligning the X Carriages & Y Rail](../customization/aligning_the_x_carriages_y_rail.md)
+A. See [Aligning the X Carriages & Y Rail](../build_and_troubleshoot/aligning_the_x_carriages_y_rail.md)
 
 ### Q. How do I best find the Z-offset?
 
@@ -25,7 +25,7 @@ A. [Standard way (Duet3D wiki)](https://duet3d.dozuki.com/Wiki/Test_and_calibrat
 ### Q. Where can I find models for the aluminium parts?
 
 A. No aluminium parts models have been released, as they have not been designed by the RailCore team. Please do design your own and release them though!
- 
+
 ### Q. How do I download the files I want from Github?
 
 A. The simplest method is to go to the particular repository(section) you want from https://github.com/railcore and  click the green "Clone or download" and then "download zip". You will then get all the files in that section as a zip file.

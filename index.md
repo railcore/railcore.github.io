@@ -27,7 +27,7 @@ See our [Contributing page](/contributing/) for more information on contributing
 ### Chat
 
    * [Discord Channel](https://discord.gg/Sy569Hq)
-   * [#RailCore IRC channel on freenode](https://tinyurl.com/yxl725zs) - *you must be authenticated with Freenode to enter the channel*
+   * [#RailCore IRC channel on freenode](irc://chat.freenode.net/RailCore) - *you must be authenticated with Freenode to enter the channel*
 
 Read all about the [design history](design_history.md) of the RailCore II and how it came to be.
 More questions? Have a look at the [General FAQ](/faq.md)
