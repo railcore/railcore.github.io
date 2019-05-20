@@ -11,7 +11,7 @@ Need data.
 
 A Bltouch can be using using the BLTouch in the main Thingiverse page.  You'll need to space the height out to match your particular hotend.  For a V6 having a pair of the brass threaded inserts between the mount and BLTouch is near perfect.  See the picture.  I also used a bit of belt to dampen vibrations since mine was somewhat noisy.
 
-<a href="https://i.imgur.com/0miqDUb.png"><img src="https://i.imgur.com/0miqDUb.png" width="400"/></a>
+<a href="https://i.imgur.com/0miqDUb.png"><img src="https://i.imgur.com/0miqDUb.png" alt="BLTouch on mount" width="400"/></a>
 
 To connect to the duet you need to use 2 wires off the Z-Probe port, and 3 off of the duex5's PWM1 port.
 
