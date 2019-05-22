@@ -6,7 +6,7 @@ sidebar_sort_order: 4
 
 ## Duet optimisation
 
-  * Large clusters on your Duet microsd for performance - For best performance, the card should be formatted with the cluster size as large as possible. On smaller capacity cards this is achieved using FAT16 format, but that is not an option on larger capacity cards." "For 4Gb and under cards, use FAT16 format. FAT16 provides an additional performance boost over FAT32." [dc42](https://forum.duet3d.com/topic/3569/completely-replace-sd-card-duet-ethernet/9)
+  * Large clusters on MicroSD - For best performance, the card should be formatted with the cluster size as large as possible. On smaller capacity cards this is achieved using FAT16 format, but that is not an option on larger capacity cards." "For 4Gb and under cards, use FAT16 format. FAT16 provides an additional performance boost over FAT32." [dc42](https://forum.duet3d.com/topic/3569/completely-replace-sd-card-duet-ethernet/9)
   * [Optimised homing](./optimised_homing.md)
 
 ## Software Customizations
