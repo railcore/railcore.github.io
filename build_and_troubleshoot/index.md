@@ -9,7 +9,10 @@ sidebar_sort_order: 2
 [Read the Build FAQ](build_faq.md)
 ### Sourcing
 * [Recommended priority of Aluminium Parts](./recommended_priority_of_aluminium_parts.md)
-* Recommended Additional 3D Printed Parts - [Cooling Shroud by James Tongue](https://www.thingiverse.com/thing:3367622) - [Remix oriented for easier printing setup](https://www.thingiverse.com/thing:3461781)
+* Recommended Additional 3D Printed Parts
+  * [Cooling Shroud by James Tongue](https://www.thingiverse.com/thing:3367622)
+    * [Remix with supports already included](https://github.com/railcore/parts/blob/master/Other%20Printed%20Parts/Cooling%20Shroud/Duct_Printed_Carriage_Supports.stl) - this version prints very well as-is with no additional supports
+    * [Remix oriented for easier printing setup](https://www.thingiverse.com/thing:3461781) - will need sliced with additional supports on most printers
 
 ## Frame Assembly
 * [Tapping](./tapping.md)
