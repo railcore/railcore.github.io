@@ -34,7 +34,7 @@ A. The simplest method is to go to the particular repository(section) you want f
 
 A. There are [discussion and chat options](../index.md#discussion) for help. Please DO NOT message people directly about issues on Facebook  messenger, e-mail, hangouts or twitter, without being specifically invited first.
 
-### Q. Problems with ringing, where should I look?
+### Q. Problems with ringing or banding, where should I look?
 
 A. Post to the Facebook group. But here are the typical questions.
 Check your jerk/acceleration settings. Are they high? Did you lubricate your leadscrews?  Do you notice any wobbling significantly? Did you PID tune your hotend as well (with the fan running). Watch your bed & hotend temps during a print, and verify they're stable within 0.2C +/-.
