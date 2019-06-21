@@ -26,7 +26,7 @@ sidebar_sort_order: 2
 
 ## Electrical
 * [Kit wiring guide](https://docs.google.com/document/d/1aIc6x7Vzb-bH8-pILNBV1cXyp3JWsIa50Y6eSjMmCgM/edit?usp=sharing) *(by Project R3D)*
-* [Wiring Diagram](./RailCore_wiring_diagram_with_12v_enablement-v2.pdf) for Duet v1.00-1.03 & Duex5 v0.8 *(by StevenL)*
+* [Wiring Diagram](./RailCore_wiring_diagram_with_12v_enablement-v2.1.pdf) for Duet v1.00-1.03 & Duex5 v0.8 *(by StevenL)*
 * [Installation of a Keenovo heater pad by Keenovo](https://keenovo.store/blogs/how-to/how-to-achieve-a-perfect-installation-of-a-keenovo-heater-pad-to-your-3d-printers-build-plate) 
   * (Extra Info: [How to remove from a 3M adhesive backing installation](https://keenovo.store/blogs/how-to/how-to-remove-from-a-3m-adhesive-backing-installation))
 
