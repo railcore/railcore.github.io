@@ -15,7 +15,8 @@
 
 *  Decide whether you want to switch on extra network services such as FTP and telnet
 * Test your required X Y currents are suitable.
-* Test your Z current - Run some tests last night on Z stepper current. How far can you take the curren down without stalling with a 2-3Kg of filament on it?
+* Test your Z current - Run some tests last night on Z stepper current. How far can you take the current down without stalling with a 2-3Kg of filament on it?
+* Test your idle current, use 2-3 kg of filament and see how far you can (using M913 Znn)
 * Run an axis compensation stl.
   * Is it the right size? You can use M579 to scale
   * Is it square? You can use M556 to software correct squareness.
