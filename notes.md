@@ -5,7 +5,15 @@ You can re-apply 3M 77 or 90 spray adhesive and re-attach.
 Wade got his off and re-attached using fishing line.
 I removed and re-attached a keenovo. Seemed to work, then shorted out internally and made a burning smell. looks like half of the internal circuitry died, so the front half was getting twice as hot as needed....
 
-
+#### config
 
 there are lots of variables out there (cooling fan settings, nozzle type, etc.)
 the config is only a jumping off point
+
+#### ghosting / resonance
+
+Anyone looking to improve their ghosting / resonance in the front-facing direction? Try this: take out your X carriage aluminium spacers and look closely (with smartphone on max magnification) to see if there are not little raised areas in the middle. File flat. Check again. Seems that the Y rail can rotate around this pimple.
+
+In my limited lathe experience very difficult to cut off a part without having something like this. So perhaps appropriate to include a filing step in the build process.
+
+![](https://cdn.discordapp.com/attachments/546187906033909792/595236820741259264/IMG_0309.jpg)
