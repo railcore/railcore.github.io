@@ -22,7 +22,6 @@ See our [Contributing page](/contributing/) for more information on contributing
 
 ### Discussion
    * [Facebook Group](https://www.facebook.com/groups/RailCore/)
-   * [Reddit sub](https://www.reddit.com/r/railcore/) *new*
 
 ### Chat
 
