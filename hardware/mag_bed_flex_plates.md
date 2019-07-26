@@ -27,4 +27,4 @@ You can also, less elegantly, purchase a flex plate the size of your printable a
   * [Geckotek](https://www.geckotek.co/collections/build-plates/products/custom-ez-stik-build-plate?variant=14029925777523)
   * [Subtle Design Everflex](https://subtle.design/collections/3d-printing/products/everflex)
   * [Printed Solid](https://www.printedsolid.com/products/blank-plate-for-railcore-300zl-and-300zlt)
-  * [WhamBam](https://whambam3d.com/collections/accessories/products/copy-of-add-on-flexi-plate)
+  * [WhamBam](https://whambam3d.com/collections/flexible-build-system/products/flexible-build-system-340-x-325)
