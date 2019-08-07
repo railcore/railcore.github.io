@@ -53,7 +53,7 @@ Now, put your piece of paper on the deck. Jog down until the nozzle JUST touches
 ```
 G10 L1 P0 Z1.2 ; set tool offset for tool 0
 ```
-
+Note: You want to save this to your config-override.g file first before doing M500
 Then save with:
 
 ```
