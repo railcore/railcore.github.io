@@ -41,9 +41,8 @@ While RailCore II is an open-source project, there are companies that deal with 
   * [Power Supplies](./power_supplies.md)
   * [Controller](./controller.md)
   * [Stepper Motors](./stepper_motors.md)
-  * Stepper Drivers
   * Bed Heaters
-  * SSR's
+  * [SSR](./ssr.md)'s
   * [Z-Probes](./z_probe.md)
   * Endstop Switches
   * [Fans](./fans.md)
