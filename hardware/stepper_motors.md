@@ -17,7 +17,7 @@ LDO steppers:
 
 Folks have asked me why I use 225 os/in NEMA23s on my 250ZL RailCore. “Steve, surely it doesn’t take that much torque to toss that carriage around, right?”. Well, that’s correct. I can move it just fine with NEMA17s - up to 400mm/s, in fact. That said…
 
-Steppers are open loop. The controller doesn’t know where the motor *actually* is. It only knows where it *told* it to be. Now, you may have seen charts of “torque at microstepping” (https://www.machinedesign.com/archive/microstepping-myths). This intuitively seems to mean that if I command a 1/256th move, it only has 0.06% of the torque of the motor. This is a misunderstanding. It’s about *holding* torque. What it means is that it takes 0.06% of the motor’s holding torque to deflect the shaft 1/256th of 0.9º (assuming it’s a 0.9º motor, and the motors on RC2 are in fact 0.9º by design). 
+Steppers are open loop. The controller doesn’t know where the motor *actually* is. It only knows where it *told* it to be. Now, you may have seen [charts](https://www.machinedesign.com/archive/microstepping-myths) of “torque at microstepping”. This intuitively seems to mean that if I command a 1/256th move, it only has 0.06% of the torque of the motor. This is a misunderstanding. It’s about *holding* torque. What it means is that it takes 0.06% of the motor’s holding torque to deflect the shaft 1/256th of 0.9º (assuming it’s a 0.9º motor, and the motors on RC2 are in fact 0.9º by design). 
 
 Stepper motors have internal friction and cogging that can result in situations where commanding a 1/256th move results in no shaft movement at all. 
 
