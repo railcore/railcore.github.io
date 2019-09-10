@@ -6,12 +6,12 @@ The following will create a nice filename timestamped zip, backing up everything
 
 ### Windows
 
-Create a folder and download the following
-1. from  https://www.7-zip.org/download.html - the "7-Zip Extra: standalone console version" and unzip 7za.exe,7za.dll and 7zxa.dll
-1. https://github.com/wilriker/rfm/releases - rfm-windows_amd64.zip and unzip into the folder.
+Create a the folder and download the following
+1. from  [7-zip download page](https://www.7-zip.org/download.html) - get "7-Zip Extra: standalone console version" and unzip 7za.exe,7za.dll and 7zxa.dll
+1. [rfm (Reprap File Managment) release page](https://github.com/wilriker/rfm/releases)  - get "rfm-windows_amd64.zip" and unzip into the folder.
 1. paste the following code into a file called something like "duetbackup.cmd" in this folder, and modify the third line.
 
-If you are the trusting sort, you can get all of this from here http://www.crimsoncurve.com/upload/duetbackup.zip in one hit.
+You can also get all of this from [here](http://www.crimsoncurve.com/upload/duetbackup.zip) in one go.
 
 ```
 @echo off
