@@ -5,14 +5,12 @@ title: Oneshot Duet Backup
 The following will give you a file that you can run, which will back up everything on your Duet (bar G-codes for speed) , and create a nice compressed file with the date in the name (ISO 8601).
 
 ### Windows
-
 Create a the folder and download the following
 1. from  [7-zip download page](https://www.7-zip.org/download.html) - get "7-Zip Extra: standalone console version" and unzip 7za.exe,7za.dll and 7zxa.dll
 1. [rfm (Reprap File Managment) release page](https://github.com/wilriker/rfm/releases)  - get "rfm-windows_amd64.zip" and unzip into the folder.
 1. paste the following code into a file called something like "duetbackup.cmd" in this folder, and modify the third line.
 
 You can also get all of this from [here](http://www.crimsoncurve.com/upload/duetbackup.zip) in one go.
-
 ```
 @echo off
 REM CHANGE THE VALUE OF THIS TO SUIT YOUR RAILCORE - You can use IP address also
@@ -38,12 +36,9 @@ RD /S /Q %dtt%
 
 
 ### Linux
-
-Download rfm from https://github.com/wilriker/rfm/releases for your architecture.
+Download [rfm (Reprap File Managment)](https://github.com/wilriker/rfm/releases) for your architecture.
 Place in a folder with this bash script. Change the DUET value to suit your Duet.
-Cron it daily, for bonus points
-
-
+Cron it daily for bonus points.
 ```
 DUET=192.168.0.100
 FILE=railcore_backup             
