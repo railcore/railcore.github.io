@@ -40,9 +40,12 @@ RD /S /Q %dtt%
 ### Linux
 
 Download rfm from https://github.com/wilriker/rfm/releases for your architecture.
+Place in a folder with this bash script. Change the DUET value to suit your Duet.
+Cron it daily, for bonus points
+
 
 ```
-DUET=192.168.0.26
+DUET=192.168.0.100
 FILE=railcore_backup             
 NAME=${FILE%.*}
 DATE=`date +%y-%m-%d`         
@@ -52,6 +55,3 @@ mkdir $NEWFILE
 tar -zcvf $NEWFILE.tar.gz $NEWFILE
 rm -rf $NEWFILE
 ```
-
-modify it to your wishes. cron it daily for bonus points
-
