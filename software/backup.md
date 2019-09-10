@@ -43,7 +43,7 @@ Download rfm from https://github.com/wilriker/rfm/releases for your architecture
 
 ```
 DUET=192.168.0.26
-FILE=railcore_$DUET_backup             
+FILE=railcore_backup             
 NAME=${FILE%.*}
 DATE=`date +%y-%m-%d`         
 NEWFILE=${NAME}_${DATE}
