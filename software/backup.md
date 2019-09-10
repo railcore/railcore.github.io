@@ -2,7 +2,7 @@
 title: Oneshot Duet Backup
 ---
 
-The following will create a nice filename timestamped zip, backing up everything on your Duet bar G-codes (for speed) 
+The following will give you a file that you can run, which will back up everything on your Duet (bar G-codes for speed) , and create a nice compressed file with the date in the name (ISO 8601).
 
 ### Windows
 
