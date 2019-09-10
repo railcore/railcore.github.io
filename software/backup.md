@@ -37,3 +37,17 @@ RD /S /Q %dtt%
 
 Download rfm from https://github.com/wilriker/rfm/releases for your architecture.
 
+```
+DUET=192.168.0.26
+FILE=railcore_$DUET_backup             
+NAME=${FILE%.*}
+DATE=`date +%y-%m-%d`         
+NEWFILE=${NAME}_${DATE}
+mkdir $NEWFILE
+./rfm backup -domain $DUET -exclude 0:/gcodes ./$NEWFILE 0:/
+tar -zcvf $NEWFILE.tar.gz $NEWFILE
+rm -rf $NEWFILE
+```
+
+modify it to your wishes. cron it daily for bonus points
+
