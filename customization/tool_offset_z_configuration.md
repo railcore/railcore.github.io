@@ -53,8 +53,17 @@ Now, put your piece of paper on the deck. Jog down until the nozzle JUST touches
 ```
 G10 L1 P0 Z1.2 ; set tool offset for tool 0
 ```
-Note: You want to save this to your config-override.g file first before doing M500
-Then save with:
+
+You need to insert this manually in your config-override file the first time, save that file, then reboot. Like this:
+
+```
+; Probed tool offsets
+G10 P0 Z6.28
+G10 L2 P1 X0.00 Y0.00 Z0.00
+G10 L2 P2 X0.00 Y0.00 Z0.00
+```
+
+The reason is that RRF will only save the tool offset if 1) it's set by probing (which we aren't doing) or 2) it was originally read from the config-override.g file. So we have to put it in there manually and restart the duet. THEN we can make subsequent change permanent with:
 
 ```
 M500
