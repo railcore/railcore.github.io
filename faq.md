@@ -19,7 +19,7 @@ A: The Railcore is open source, so you can take anything useful you want and re-
 
 ### Q: Is that rail strong enough to hold the print carriage?
 
-We've experimented with several means of additional support, with no change in print quality. Keep in mind that the rail is 1) hardened steel, and 2) 9x12mm bar of hardened steel. This is roughly equivalent to the standard 2x8mm smooth rods used in typical 3d printers from a while back. 
+We did a LOT of testing and experimented with several means of additional support, with no change in print quality. Keep in mind that the rail is 9x12mm bar of hardened steel. This is roughly as rigid (perhaps more so) to the standard 2x8mm smooth rods used in typical 3d printers from a while back. 
 
 ### Q: Why didn't you make it Bowden? Doesn't that defeat the entire purpose of CoreXY?
 
