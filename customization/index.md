@@ -13,6 +13,7 @@ sidebar_sort_order: 4
 
   * [Switchless X/Y Homing with Duet](./duet_switchless_homing.md)
   * [Tool Offset Z configuration](./tool_offset_z_configuration.md)
+  * [Telegram bot for controlling and receiving notifications from a Duet electronics board](https://github.com/martinj/duet-telegram)
 
 ## Hardware Customizations
   * [Machined/milled parts](./machined_parts.md) - machined parts can improve durability, strength and reduce mass
