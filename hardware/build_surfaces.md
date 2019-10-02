@@ -4,6 +4,8 @@ title: Build Surfaces
 
 There is plenty of good information out there on bed surfaces and their adhesion. This is just a summary of any surfaces when used with the Railcore.
 
+**Powder Coated PEI** Double-sided and textured PEI flex plates offered by Subtle Design. Compatible with all forms of sensors and probes. Printed parts self release when cooled down. https://www.subtle.design/everflex
+
 **Lokbuild** is the build surface on the BOM. Compatible with dc42's mini-differential IR sensor and BLtouch.
 
 **PrintBite+** - printed parts “self release” as the heat bed cools down with this surface. However be aware that it seems that it may be translucent to IR and so not a good surface when combined with dc42's mini-differential IR sensor (which is the standard on the BOM)
