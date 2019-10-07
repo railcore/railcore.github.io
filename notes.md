@@ -30,3 +30,8 @@ Then I test it by doing the same print with 2 walls
 and make sure it's 1.0
 Atomic PLA has a 0.94 multiplier, every time I measure it.  Atomic PETG has a 0.96.  Snolabs PLA is 0.96.  Snolabs PC is 0.93.
 That gets me extremely consistent walls.  And means the joints in prints work awesome, multi-part prints fit together, and supports break free.
+
+
+
+best way to make a dxf of a panel is to create a new sketch on the side of it, hit project, select the face.  save the sketch.  export that as a dxf
+
