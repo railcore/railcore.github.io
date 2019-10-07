@@ -3,8 +3,8 @@ title: new Z Alignment Procedure
 ---
 
 * [Video of Z alignment procedure](https://www.youtube.com/watch?v=CNWzMLc5-Cg)
-* ZL alignment jig - (https://www.dropbox.com/s/9hhznanwvzliqq6/alignment_jig.stl?dl=0)
-* ZLT alignment jig - (https://www.thingiverse.com/thing:3708947)
+* [ZL alignment jig](https://www.dropbox.com/s/9hhznanwvzliqq6/alignment_jig.stl?dl=0)
+* [ZLT alignment jig](https://www.thingiverse.com/thing:3708947)
 
 #### New Z alignment procedure for the Z extrusions.
 
