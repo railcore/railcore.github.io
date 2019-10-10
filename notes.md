@@ -40,3 +40,6 @@ best way to make a dxf of a panel is to create a new sketch on the side of it, h
 MandalaRoseToday at 16:33
 @dr august  Magnum Idler pulleys are 44.5mm OD, and 42mm dia on the shallower section where the belt rides.
 
+jstevewhiteToday at 17:17
+But note that the Magnums do not carry a critical alignment belt path; the smaller pulley is the one that alignment matters on.
+Diversion from alignment in Y is bad. The inner belt track that goes from pulley to carriage and motor to carriage is the critical path that must be parallel.
