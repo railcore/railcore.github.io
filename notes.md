@@ -35,3 +35,8 @@ That gets me extremely consistent walls.  And means the joints in prints work aw
 
 best way to make a dxf of a panel is to create a new sketch on the side of it, hit project, select the face.  save the sketch.  export that as a dxf
 
+
+
+MandalaRoseToday at 16:33
+@dr august  Magnum Idler pulleys are 44.5mm OD, and 42mm dia on the shallower section where the belt rides.
+
