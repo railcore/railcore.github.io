@@ -14,3 +14,4 @@ Configurations for 3D printer control boards with the standard railcore configur
     * [Config Repository for all boards](https://github.com/railcore/configs)
   * [Slicer Configs](https://github.com/railcore/slicers)
   * [Duet FTP notes](ftp.md)
+  * [Backup](backup.md) - how to backup your Duet config
