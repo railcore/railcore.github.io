@@ -17,9 +17,23 @@ The rigidity of the construct is the **in plane** rigidity of the panel material
 
 A: The Railcore is open source, so you can take anything useful you want and re-use it. That said, this is not a simple undertaking; many parts have 7.5mm specifications for the 1515 extrusion. If we had known originally that 1515 was so hard to source overseas, we might have started with 2020, but we had no idea. Sorry. 
 
+Update: Several community members have done this. Check the Discord and ask around!
+
 ### Q: Is that rail strong enough to hold the print carriage?
 
 We did a LOT of testing and experimented with several means of additional support, with no change in print quality. Keep in mind that the rail is 9x12mm bar of hardened steel. This is roughly as rigid (perhaps more so) to the standard 2x8mm smooth rods used in typical 3d printers from a while back. 
+
+The vertical orientation of the carriage was to place the stiffest axis of the rail in line with the highest load. Since our accel is typically less than 1g, the lateral load will never reach the static vertical load, so it's the best way to provide appropriate stiffness. 
+
+### Q: Why is that bit of PTFE there between the Extruder and the hot end?
+
+1) compact carriage footprint in X/Y. This way the rail can go through the 'middle' of the carriage structure. 
+
+2) Steve is constitutionally allergic to disassembling entire extruder and hot end structures for any filament jams that may happen along the way. 
+
+### Q: Why are the rails vertical rather than horizontal?
+
+Primarily space efficiency. We had noted that many CNC machines use the rails in the vertical orientation and we wanted to make the RailCore as space efficient as possible. The standalone Y rail is vertical to make the Y carriage more compact and to align the stiffest portion of the rail with the highest load. 
 
 ### Q: Why didn't you make it Bowden? Doesn't that defeat the entire purpose of CoreXY?
 
@@ -31,6 +45,6 @@ That said, if you prefer a Bowden configuration, we made it simple to switch - i
 
 Short A: yes, it's open, download files and go crazy!
 
-Long A: Probably not. To maintain the same performance and precision as you scale up becomes progressively more expensive **per cc of build volume**. FEA in F360 suggests to me that building a 500^3 printer will be a significant engineering challenge, and much more expensive. CoreXY has long belts already - scaling up means either much wider belts - with the much higher tensions that entails - or abandoning the corexy mechanism.
+Long A: Probably not. To maintain the same performance and precision as you scale up becomes progressively more expensive **per cc of build volume** (if you maintain the same speed and precision). FEA in F360 suggests to me that building a 500^3 printer will be a significant engineering challenge, and much more expensive. CoreXY has long belts already - scaling up means either much wider belts - with the much higher tensions that entails - or abandoning the corexy mechanism.
 
 You can do it with the same parts, but you'll sacrifice speed and precision and fundamental robustness. Also, remember, all other things constant, build time goes up as the cube of the linear expansion :D 
