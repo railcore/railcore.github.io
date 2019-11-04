@@ -35,6 +35,12 @@ That gets me extremely consistent walls.  And means the joints in prints work aw
 
 best way to make a dxf of a panel is to create a new sketch on the side of it, hit project, select the face.  save the sketch.  export that as a dxf
 
+## ZL or ZLT?
+
+Do think about your use cases for the ZLT. Apart from the obvious
+want/need >330mm Z regularly enough to warrant the minor pain of sticking a couple of parts together. (Or you're a fan of vase mode) - it's also useful if you want/need a floor standing printer to save desk space.
+If neither of these apply however, you may find you are better suited going with a ZL. Smaller and more compact (and I would imagine easier to align) and cheaper, especially on the rail cost if getting quality rails such as Misumi.
+
 
 
 MandalaRoseToday at 16:33
