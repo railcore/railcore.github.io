@@ -9,6 +9,8 @@ The following will give you a file that you can run, which will back up everythi
 Change $railCoreHostOrIp
 Puts everything in a directory that does not require admin access and is tied to the user who is logged in to the OS
 
+[Download this script](https://cdn.discordapp.com/attachments/546190822228492290/657045033089761290/Railcore_backup.ps1)
+
 ```
 #region user defined
 $railCoreHostOrIp = 'railcore'
