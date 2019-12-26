@@ -49,3 +49,7 @@ MandalaRoseToday at 16:33
 jstevewhiteToday at 17:17
 But note that the Magnums do not carry a critical alignment belt path; the smaller pulley is the one that alignment matters on.
 Diversion from alignment in Y is bad. The inner belt track that goes from pulley to carriage and motor to carriage is the critical path that must be parallel.
+
+
+If anyone is interested in an accurate measurement for the belt length, needed for X/Y with magnum pulleys and mounts is around 390cm total, so 195cm each (including enough slack for later adjustment, about 15cm each)
+teddy & aiger
