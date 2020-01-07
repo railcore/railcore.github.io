@@ -1,17 +1,17 @@
 ---
 title: Bed Mount using Leveling Washers.
 ---
-## A "poor man's kinematic mount"
 
 * 25mm-30mm screw/bolt
 * M3 washer
 * Rubber washer (small)
 * Bed
-* M6 or 1/4" [levelling washers](https://www.mcmaster.com/94007a030) (also known as [spherical](https://www.accu.co.uk/en/spherical-washers/410975-HSSPW-M6-A2) & [spherical seat washers](https://www.accu.co.uk/en/spherical-seat-washers/409767-HCSW-M6-A2) - they are two pieces)
+* M6 or 1/4" [levelling washers](https://www.mcmaster.com/#91131A030) (also known as [spherical](https://www.accu.co.uk/en/spherical-washers/410975-HSSPW-M6-A2) & [spherical seat washers](https://www.accu.co.uk/en/spherical-seat-washers/409767-HCSW-M6-A2) - they are two pieces) - Use a bit of superlube (or graphite powder which can easily make a big mess) between the two washers.
 * Z-yoke
 * Rubber washer(small)
 * M3 washer
 * Nyloc nut
+
 
 ![](https://raw.githubusercontent.com/railcore/railcore.github.io/master/customization/Screenshot%20from%202020-01-07%2015-50-59.png)
 
@@ -25,5 +25,3 @@ As you increase the angle of the bed, the distance between the bolt head and nut
 you don't want to overtighten those.  Just snug.  so the washers can be a spring - if you use the rubber washers and crank it down, it'll bind
 
 ![](https://raw.githubusercontent.com/railcore/railcore.github.io/master/customization/Screenshot%20from%202020-01-07%2016-10-59.png)
-
-
