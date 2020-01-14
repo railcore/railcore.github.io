@@ -1,3 +1,7 @@
+---
+title: Connecting an external antenna to DuetWifi
+--- 
+ 
  ### Find ipex connector.
  
  ![](./ipex.jpg)
