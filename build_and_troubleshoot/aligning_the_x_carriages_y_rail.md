@@ -30,7 +30,7 @@ Now you can go about installing the belts.
   - Install the belts into the belt retainers on the Y carriage, but only screw them in about half way, you want to leave yourself room for fine tuning.
   - Now push the steppers to the right and snug up screws holding the steppers on, first the back one, then the front one.  Snug them up so that BOTH front and back carriages are touching the 123 blocks.  You want to create some initial tension.  If you tighten one too much than the other, it will mis-align the x carriages again, so be careful of it.
   - Now, download a guitar turner app from your app store.  n-Track Tuner is recommended as it displays the frequency.
-  - Now, you will start tensioning your belts so they "twang" at a frequency of 58-60hz.  Turn the screws on the belt retainers to accomplish this.
+  - Now, you will start tensioning your belts so they "twang" at a frequency of 41-45Hz.  Turn the screws on the belt retainers to accomplish this.
   - Remember to make sure that the X Carriages are both touching the 123 blocks as you are doing this.  I like to do a full number of rotations tighter on each belt as I test the frequency.
 
 This procedure should get your Y rail aligned correctly and fairly easily once you get the knack of adjusting the tension.
