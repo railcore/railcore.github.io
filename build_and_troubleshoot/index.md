@@ -30,7 +30,7 @@ sidebar_sort_order: 2
 * [Installation of a Keenovo heater pad by Keenovo](https://keenovo.store/blogs/how-to/how-to-achieve-a-perfect-installation-of-a-keenovo-heater-pad-to-your-3d-printers-build-plate) 
   * (Extra Info: [How to remove from a 3M adhesive backing installation](https://keenovo.store/blogs/how-to/how-to-remove-from-a-3m-adhesive-backing-installation))
 * [Connecting an external antenna to DuetWifi](./connecting_external_antenna.md)
-* [General Wiring diagram](./RCwiringCorrected-2-2-20.jpg) updated 2-2-2020
+* [General Wiring diagram](https://raw.githubusercontent.com/railcore/railcore.github.io/master/build_and_troubleshoot/RCwiringCorrected-2-2-20.jpg) updated 2-2-2020
 
 ## Software Configuration and Verification
 * [Installing the config and customizing for your machine](./installing_and_customizing_config.md)
