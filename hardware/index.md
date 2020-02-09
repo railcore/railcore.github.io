@@ -25,7 +25,7 @@ While RailCore II is an open-source project, there are companies that deal with 
 * [Mandala Rose Works](http://www.mandalaroseworks.com/) - Upgrade parts and laser-cut acrylic parts.
 * [713 Maker](https://713maker.com/railcore) - Upgrade parts and beds.
 * [Merch Minion Railcore Branded Merchandise](http://kninedhp.merchminion.com/)
-    
+* [HighTemp3D](https://www.HighTemp3D.com/) - RailCore Kits and Parts EU based.    
 
 ## Hardware Components
 
