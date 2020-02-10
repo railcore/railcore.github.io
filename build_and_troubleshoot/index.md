@@ -8,6 +8,7 @@ sidebar_sort_order: 2
 
 [Read the Build FAQ](build_faq.md)
 ### Sourcing
+* [Useful tools](./usefultools.md)
 * [Recommended priority of Aluminium Parts](./recommended_priority_of_aluminium_parts.md)
 * Recommended Additional 3D Printed Parts
   * [Cooling Shroud by James Tongue](https://www.thingiverse.com/thing:3367622)
