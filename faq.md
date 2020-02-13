@@ -27,9 +27,17 @@ The vertical orientation of the carriage was to place the stiffest axis of the r
 
 ### Q: Why is that bit of PTFE there between the Extruder and the hot end?
 
-1) compact carriage footprint in X/Y. This way the rail can go through the 'middle' of the carriage structure. 
+There are five reasons I designed the carriage the way it is. Here they are, ranked by how important I think they are.
 
-2) Steve is constitutionally allergic to disassembling entire extruder and hot end structures for any filament jams that may happen along the way. 
+1) We intended the RailCore to be mod friendly. Tony and I are experimenters and will never stop trying new stuff. The distance from groove mount to nozzle tip is radically different in various hot ends, meaning to change hot ends you've gotta change the shroud and the probe mount at a minimum when you change hot ends. This way, you just make a hot end specific mount and swap 'em out.
+
+2) I was obsessed with build volume to printer volume, because the only printer I have owned that I didn't design was a flash forge that had a tiny build volume and was nearly as large as the RailCore 2 250. This was the most compact way to build that carriage I could come up with. Perhaps I was a little TOO obsessed, as it's difficult to get the nozzle off the build plate now :D
+
+3) I despise disassembling my extruder hot end assembly because someone got some cruft in their filament extrusion line, or any of several other kinds of jams that require complete disassembly of both units to resolve. A simple oversized bit of filament can jam in the cold end and you've gotta take the entire stack apart. Pfft.
+
+4) The "mount the extruder to the carriage and stick the hot end in the extruder" is not as rigid. The nozzle deflection is much better controlled when the hot end is mounted the way it is. Some all-in-ones do better because the 'mount' is actually at the heatsink, but groove mount hot ends are not of this variety.
+
+5) The mass of the system is as close to centered on the rail as I could get it. Hanging it all on one side certainly does change motion behavior. I'm not certain how important this is, but it was one consideration. As was mentioned, some folks have described visible artifacting, but folks seem to be pretty happy with their Hemera builds, so far, so it may be implementation specific.
 
 ### Q: Why are the rails vertical rather than horizontal?
 
