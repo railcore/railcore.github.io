@@ -53,3 +53,6 @@ Diversion from alignment in Y is bad. The inner belt track that goes from pulley
 
 If anyone is interested in an accurate measurement for the belt length, needed for X/Y with magnum pulleys and mounts is around 390cm total, so 195cm each (including enough slack for later adjustment, about 15cm each)
 teddy & aiger
+
+
+"if your PTFE tube is missing the little collar clips, or can move up/down at all, you'll get stringing and be unable to fix it"
