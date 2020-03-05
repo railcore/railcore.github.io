@@ -8,7 +8,8 @@ sidebar_sort_order: 1
 
 The Fusion360 models, Assembly Guide and BOM are the official, master copies maintained by Tony Akens. Thingiverse project is also maintained by Tony Akens.
 
- * [RailCore II 300ZL/ZLT Assembly Guide](https://railcore.page.link/guide)
+ * [RailCore II 300ZL/ZLT Assembly Guide - Filastruder](https://railcore.page.link/fskit) 
+   * [RailCore II 300ZL/ZLT Assembly Guide (old)](https://railcore.page.link/guide)
  * [RailCore II 300ZL/ZLT Thingiverse Project(all printable parts)](https://www.thingiverse.com/thing:2407174)
  * **Bill Of Materials**
    * [RailCore II 300ZL Bill Of Materials](https://railcore.page.link/zlbom)
