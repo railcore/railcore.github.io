@@ -8,7 +8,7 @@ title: Useful tools
 * Philips Head and Flat screwdriver
 * Flush Cutters
 * Soldering iron or similar (for installing press-fit inserts into printed parts)
-* [Heat-Set Insert Installation tip M3](https://www.amazon.com/dp/B078K72615)
+* Heat-Set Insert Installation tip M3
 * 5.5mm ratcheting spanner and/or 5.5mm socket screwdriver (for M3 nuts)
 
 ### For aligning the X Carriages & Y Rail
