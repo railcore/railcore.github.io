@@ -2,6 +2,23 @@
 title: Oneshot Duet Backup
 ---
 
+### Linux/Windows/Mac
+Download [rfm (Reprap File Managment)](https://github.com/wilriker/rfm/releases) for your architecture.
+Place in a folder with this bash script. Change the DUET value to suit your Duet.
+Cron it daily for bonus points.
+```
+DUET=192.168.0.100
+FILE=railcore_backup             
+NAME=${FILE%.*}
+DATE=`date +%y-%m-%d`         
+NEWFILE=${NAME}_${DATE}
+mkdir $NEWFILE
+./rfm backup -domain $DUET -exclude 0:/gcodes ./$NEWFILE 0:/
+tar -zcvf $NEWFILE.tar.gz $NEWFILE
+rm -rf $NEWFILE
+```
+
+
 The following will give you a file that you can run, which will back up everything on your Duet (bar G-codes for speed) , and create a nice compressed file with the date in the name (ISO 8601).
 
 ### Windows (Powershell)
@@ -96,18 +113,4 @@ RD /S /Q %dtt%
 ```
 
 
-### Linux
-Download [rfm (Reprap File Managment)](https://github.com/wilriker/rfm/releases) for your architecture.
-Place in a folder with this bash script. Change the DUET value to suit your Duet.
-Cron it daily for bonus points.
-```
-DUET=192.168.0.100
-FILE=railcore_backup             
-NAME=${FILE%.*}
-DATE=`date +%y-%m-%d`         
-NEWFILE=${NAME}_${DATE}
-mkdir $NEWFILE
-./rfm backup -domain $DUET -exclude 0:/gcodes ./$NEWFILE 0:/
-tar -zcvf $NEWFILE.tar.gz $NEWFILE
-rm -rf $NEWFILE
-```
+
