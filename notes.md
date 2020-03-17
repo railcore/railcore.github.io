@@ -57,3 +57,10 @@ teddy & aiger
 kraegar21feb2020 at 13:35
 "if your PTFE tube is missing the little collar clips, or can move up/down at all, you'll get stringing and be unable to fix it"
 "I put a mark on my ptfe and watch it to be sure it's not moving.  it can be hard to tell otherwise."
+
+
+Duet3 connectors
+
+https://www.digikey.com/product-detail/en/jst-sales-america-inc/VHR-2N/455-1183-ND/608624
+https://www.digikey.com/product-detail/en/SVH-21T-P1.1/455-1133-1-ND/527367/?itemSeq=320004330
+https://www.digikey.com/product-detail/en/VHR-4M/455-3990-ND/9924201/?itemSeq=320004249
