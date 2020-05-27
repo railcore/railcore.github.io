@@ -1,0 +1,7 @@
+RRF3 update notes
+
+
+https://duet3d.dozuki.com/Wiki/Gcode#Section_M140_Set_Bed_Temperature_Fast_or_Configure_Bed_Heater
+Order dependency
+
+In RRF3 a M140 command with H parameter (other than H-1) must come after the M950 command that creates that heater, and before any M143 command that sets a temperature limit for that heater.
