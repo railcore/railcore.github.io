@@ -3,9 +3,11 @@
 The ANTCLABS BL-Touch sensor has three basic parts:
 1. A moving plastic pin with a magnet on top
 1. A circuit board with hall-effect sensor and controller
-1. A housing with a solenoid-like coil at the top
+1. A housing with a solenoid-like coil at the top to retract and hold the pin
 
 ## Connectors
+The BL-Touch package includes a short wiring harness attached to the probe, which is not used with the Kit wiring harness.  It should be carefully unplugged from the BL-Touch before installation, as a longer 5-wire cable is included in the harness.
+
 Because it emulates a microswitch and servo, the BL-Touch's wiring harness has five wires on two separate connectors:
 1. The 2-pin Black & White wire connector is the probe endstop signal from BL-Touch, like a microswitch
 1. The 3-pin connector is the control and power:
@@ -17,12 +19,15 @@ Because it emulates a microswitch and servo, the BL-Touch's wiring harness has f
 | Yellow | Pulse-width servo control |
 
 ## Duet2 Connections
-When facing the RailCore electronics panel and mounted Duet2, use the two pins on the **left side** of the "Z PROBE" 4-pin header.  The White lead goes on the far-left contact ("Z_PROBE_IN"), and black to GND.
+### Probe endstop contact
+When facing the RailCore electronics panel and mounted Duet2, use the two pins on the **left side** of the "Z PROBE" 4-pin header.
+The White lead goes on the far-left contact ("Z_PROBE_IN"), and black to GND.
 Leave the two remaining pins on the right side unoccupied (Z_PROBE_MOD & +3.3V)
 
 ![Z Probe header](./bltouch-zprobe.png)
 ![Probe Connection](./bltouch-probe.jpg)
 
+### Probe control signal
 The Three-pin connector from BL-Touch is the control and power to the probe.  Connect this to the 3-pin connector on Duet for PWM1.
 The Brown wire (ground) should be on the right pin, facing the connector.
 
