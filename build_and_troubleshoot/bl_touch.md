@@ -52,10 +52,10 @@ Here are the parameter arguments explained:
 ; H3 5mm dive height (depends on how fast your BL Touch deploys)
 ```
 
-## Adjusting the X and Y offset
-The `G31` parameter sets the offset between the specific probe point and the extruder nozzle.  This is factored into many calculations and probe patterns, and must be pretty close for your specific hotend configuration.
+## Measuring the X and Y offset between probe and nozzle
+The `G31` parameter sets the offset between the specific probe point and the extruder nozzle.  This is factored into many calculations and probe patterns, and must be pretty close for your specific BL-Touch mount and hotend configuration.
 
-You can use a ruler to find an approximate value to complete printer setup.
+You can use a ruler to find an approximate value until you complete printer setup, and refine it later.
 
 To measure it accurately, we can use the printer to make a spot of plastic as a nozzle reference, then find the specific offset for the probe pin with that.
 
