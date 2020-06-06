@@ -19,13 +19,13 @@ It emulates a microswitch and servo in function, so the wiring harness has five 
 ## Duet2 Connections
 When facing the RailCore electronics panel and mounted Duet2, use the two pins on the **left side** of the "Z PROBE" 4-pin header.  The White lead goes on the far-left contact ("Z_PROBE_IN"), and black to GND.
 Leave the two remaining pins on the right side unoccupied (Z_PROBE_MOD & +3.3V)
-[Z Probe header](bltouch-zprobe.png)
-[Probe Connection](bltouch-probe.jpg)
+[Z Probe header](./bltouch-zprobe.png)
+[Probe Connection](./bltouch-probe.jpg)
 
 The Three-pin connector from BL-Touch is the control and power to the probe.  Connect this to the 3-pin connector on Duet for PWM1.
 The Brown wire (ground) should be on the right pin, facing the connector.
-[Duet Servo](bltouch-pwm-pins.png)
-[Servo connection](bltouch-pwm.jpg)
+[Duet Servo](./bltouch-pwm-pins.png)
+[Servo connection](./bltouch-pwm.jpg)
 
 For these connectors, a configuration line like this in `config.g` might be appropriate:
 ```
