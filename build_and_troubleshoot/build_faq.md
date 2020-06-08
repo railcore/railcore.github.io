@@ -8,7 +8,13 @@ A. See [Belts](../hardware/belts.md)
 
 ### Q. What is the best fan shroud?
 
-A. Currently recommended is the [Cooling Shroud by James Tongue](https://www.thingiverse.com/thing:3367622) - [Remix oriented for easier printing setup](https://www.thingiverse.com/thing:3461781)
+A. The fan shroud is specific to your chosen carriage and hot-end arrangement.   Currently recommended is the [Cooling Shroud by James Tongue](https://www.thingiverse.com/thing:3367622) and the [Remix oriented for easier printing setup](https://www.thingiverse.com/thing:3461781).
+
+There are several  versions, and you will need the one that fits your configuration.  The "Alu_" versions fit the aluminum Y carriages from [Mandala Rose Works](https://www.mandalaroseworks.com/) or [713Maker.com](https://713maker.com).  There is also a version for the [Hemera Extruder](https://www.thingiverse.com/thing:4050630).
+
+Further, you will need an adapter to mount the fan shroud to the bottom of the Y carriage, and likely one or more spacers to set the correct height for the blower nozzle.
+
+Note that the Filastruder Kit includes an excellent MFJ Nylon James Tongue shroud, but it fits only the printed Y carriage.
 
 ### Q. which printed parts should I replace with aluminum parts first?
 
