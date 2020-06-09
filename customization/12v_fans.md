@@ -36,7 +36,7 @@ Here the `H106` refers to the Virtual Heater assigned, and `P3`is the `FAN3` por
 
 For individual filaments, you could even adjust just the target temperature set-point with gcode, for example: `M106 P3 T45:47`.
 
-Note that a fan configured for Thermostatic control will not appear in the web interface for direct control.
+Note that a fan configured for Thermostatic control will not appear in the web interface.  You can check its operation with `M106 P3` in this example.
 
 # RPM Speed input
 
