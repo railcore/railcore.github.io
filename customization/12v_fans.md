@@ -23,9 +23,13 @@ Here the `P3` indicates the port, and other options configure the initial burst 
 
 ## Thermostat control
 To use thermostatic control instead of direct PWM setting, you must first configure a Virtual Heater with a thermometer of interest.  For example, an extra NTC 100K added to E4 might be configured as Virtual Heater #106 this way:
+
 ```M305 P106 X5 T100000 B3950 R4700 C0 H0 L0 S"Chamber"```
+
 Then the fan can use this Virtual Heater to adjust fan speed for a target temperature:
+
 ```M106 P3 H106 T60:62 L0.01 S1.00 B0.1 I0 C"Chamber Fan"```
+
 Here the `H106` refers to the Virtual Heater assigned, and `P3`is the `FAN3` port on Duex.  The fan will turn on 1% speed at 60°C and ramp to maximum 100% speed by 62°C, which holds the temperature pretty even and close to 60.
 
 For individual filaments, you can adjust just the target temperature alone with gcode, for example `M106 P3 T45:47`for a new temperature set-point.
