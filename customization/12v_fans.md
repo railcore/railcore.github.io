@@ -41,3 +41,5 @@ Note that a fan configured for Thermostatic control will not appear in the web i
 # RPM Speed input
 
 The Duex brings out pin `PB6` on the GPIO header for Fan RPM monitoring.  Unfortunately, this does not appear to be compatible with PWM speed control, and may be mismatched to the pules-per-RPM used by some computer fans.  Connecting `PB6` requires an inline diode for 3-wire fans, as described in the [Duet Fan documentation](https://duet3d.dozuki.com/Wiki/Connecting_and_configuring_fans).
+
+On RRF2, it's useful only as a displayed value, and probably not worth the effort to connect.
