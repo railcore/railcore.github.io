@@ -4,7 +4,7 @@ Inexpensive 12v fans in 120mm, 80mm or other common computer-case size can be us
 
 # Enable the 12v Power Supply
 Study the [Duex5 Connection Pinout](https://duet3d.dozuki.com/Wiki/Duex_wiring_diagrams) to identify the `INT 12V EN` jumper near the top-left of the board.
-You must connect a jumper across these two pins to turn on the 12v power supply.
+You must connect a jumper across these two pins to turn on the 12v power supply, as it is not enabled by default.
 
 # Change the V_FAN power to 12v
 By default, the Duex uses 24v for all `V_FAN` connections.  Locate `V_FAN JUMPER SELECT` and move the jumper from `VIN` (far left) to `12V` in the middle.  This changes all V_FAN PWM ports to use 12v.
