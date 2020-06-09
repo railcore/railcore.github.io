@@ -10,7 +10,9 @@ You must connect a jumper across these two pins to turn on the 12v power supply,
 By default, the Duex uses 24v for all `V_FAN` connections.  Locate `V_FAN JUMPER SELECT` and move the jumper from `VIN` (far left) to `12V` in the middle.  This changes all V_FAN PWM ports to use 12v.
 
 # Connect 12v Fans
-The 2-pin ports `FAN3` to `FAN8` can be used for 12v fans.  Note that these ports share a common +12v V_FAN which is powere at all times.  The negative or ground of the fan is modulated to adjust power with PWM.  Multiple fans can share positive power, but not a common ground
+The 2-pin ports `FAN3` to `FAN8` can be used for 12v fans.
+
+Note that these ports share a common +12v V_FAN supply which is powered at all times.  The negative or ground of the fan is modulated to adjust power for PWM.  Multiple fans can share positive power, but not a common ground!
 ![PWM Port](12v_fans_pwm.png)
 
 # Enable Fans 
