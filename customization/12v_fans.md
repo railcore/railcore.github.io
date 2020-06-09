@@ -18,7 +18,9 @@ Note that these ports share a common +12v V_FAN supply which is powered at all t
 # Enable Fans 
 ## Direct speed control
 Each fan can be added as a controllable PWM fan with DWC (Web) control over speed:
+
 ```M106 P3 H-1 B0.2 I0 C"HappyFan" 	; FAN3```
+
 Here the `P3` indicates the port, and other options configure the initial burst and name.
 
 ## Thermostat control
