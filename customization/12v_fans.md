@@ -34,7 +34,7 @@ Then the fan can use this Virtual Heater to adjust fan speed for a target temper
 
 Here the `H106` refers to the Virtual Heater assigned, and `P3`is the `FAN3` port on Duex.  The fan will turn on 1% speed at 60°C and ramp to maximum 100% speed by 62°C, which holds the temperature pretty even and close to 60.
 
-For individual filaments, you can adjust just the target temperature alone with gcode, for example `M106 P3 T45:47`for a new temperature set-point.
+For individual filaments, you could even adjust just the target temperature set-point with gcode, for example: `M106 P3 T45:47`.
 
 Note that a fan configured for Thermostatic control will not appear in the web interface for direct control.
 
