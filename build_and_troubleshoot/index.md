@@ -43,3 +43,25 @@ sidebar_sort_order: 2
 ## Hardware Information
 * [STL/DXF files](https://github.com/railcore/parts)
 * [RailCore II 300ZL Build Gallery](https://imgur.com/a/edVEg4K) *(by JohnOCFII)*
+
+## Entire Build videos
+* Bengadget
+  * [Part 1](https://www.youtube.com/watch?v=Ghtefw_6oyc)
+  * [Part 2](https://www.youtube.com/watch?v=oz7WfpGCz1Y)
+  * [Part 3](https://www.youtube.com/watch?v=B_3ZVqZVEl0)
+  * [Part 4](https://www.youtube.com/watch?v=1Mvz7LZ5GGg)
+  * [Part 5](https://www.youtube.com/watch?v=-rhgRnJ0iwk)
+* [stwerks timelapse](https://www.youtube.com/watch?v=kIuY_h2I_4Q)
+* Greybeard
+   * https://www.youtube.com/watch?v=HUBBb8WHJRM - unboxing
+   * https://www.youtube.com/watch?v=z696rsbmims - bed and electronics
+   * https://www.youtube.com/watch?v=kFqO3lkFea4 - z axis build 
+   * https://www.youtube.com/watch?v=rK_BJqYiGoo live build part 1
+   * https://www.youtube.com/watch?v=pu2B-M_c6VU live build part 2
+   * https://www.youtube.com/watch?v=Udko3NbFcCc live build part 3
+   * https://www.youtube.com/watch?v=835s0i_wojY build part 3
+   * https://www.youtube.com/watch?v=b_CfjeBljYw
+   * https://www.youtube.com/watch?v=EGD0oWCHK00 - rebuild zylech rails
+   
+   
+    
