@@ -53,15 +53,16 @@ sidebar_sort_order: 2
   * [Part 5](https://www.youtube.com/watch?v=-rhgRnJ0iwk)
 * [stwerks timelapse](https://www.youtube.com/watch?v=kIuY_h2I_4Q)
 * Greybeard
-   * https://www.youtube.com/watch?v=HUBBb8WHJRM - unboxing
-   * https://www.youtube.com/watch?v=z696rsbmims - bed and electronics
-   * https://www.youtube.com/watch?v=kFqO3lkFea4 - z axis build 
-   * https://www.youtube.com/watch?v=rK_BJqYiGoo live build part 1
-   * https://www.youtube.com/watch?v=pu2B-M_c6VU live build part 2
-   * https://www.youtube.com/watch?v=Udko3NbFcCc live build part 3
-   * https://www.youtube.com/watch?v=835s0i_wojY build part 3
-   * https://www.youtube.com/watch?v=b_CfjeBljYw
-   * https://www.youtube.com/watch?v=EGD0oWCHK00 - rebuild zylech rails
-   
-   
+   * [unboxing](https://www.youtube.com/watch?v=HUBBb8WHJRM)
+   * [z axis build](https://www.youtube.com/watch?v=kFqO3lkFea4) 
+   * [live build part 1](https://www.youtube.com/watch?v=rK_BJqYiGoo)
+   * [live build part 2](https://www.youtube.com/watch?v=pu2B-M_c6VU)
+   * [live build part 3](https://www.youtube.com/watch?v=Udko3NbFcCc)
+   * [build part 3](https://www.youtube.com/watch?v=835s0i_wojY)
+   * [bed and electronics](https://www.youtube.com/watch?v=z696rsbmims)
+   * [test and configuration](https://www.youtube.com/watch?v=DXMKiwsfHcM)
+   * [rebuild zylech rails](https://www.youtube.com/watch?v=EGD0oWCHK00)
+ * Chris's Basement
+   * [PrintedSolid - Railcore - ProjectR3D - Part 1 Of Many - Chris's Basement](https://www.youtube.com/watch?v=YO-rBDPIUYg)
+   * [PrintedSolid - Railcore - ProjectR3D - Part 1 Of Many - Chris's Basement](https://www.youtube.com/watch?v=T9lPmv_-RhI)
     
