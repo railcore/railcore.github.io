@@ -41,7 +41,7 @@ A RailCore can typically achieve 0.1mm deviation for four points, and often much
 
 #### Leadscrew definitions
 
-The specific location of the leadscrews is important to arriving quickly at the best bed level adjustment.  The X and Y coordinates of the Z motors defines the point outside the bed where the bed pivots on the yoke.  For most RailCores, this is the location of the bed-to-yoke bolt.
+The specific location of the leadscrews is important for arriving quickly at the best bed level adjustment.  The X and Y coordinates of each Z motor defines the point outside the bed where the bed pivots on the yoke.  For most RailCores, this is the location of the bed-to-yoke bolt.
 The specific values for your printer should be defined in your `config.g` similar to this one:
 
 ```
@@ -54,11 +54,15 @@ M671 X-6.5:-6.5:348  Y21.7:275.6:150 S7.5
 
 ## Mesh Map 
 
-Even with the bed parallel to the print movement, the build surface itself may not be flat.  Mapping the high and low points of the print bed shows any irregularities or distortions in the flatness of the bed.  Software can use a map of these points as a topographic map, to raise/lower the head while printing to travel along the known shape of the surface.
+Even with the bed parallel to the print movement, the build surface itself may not be flat.  Mapping the high and low points of the print bed shows any irregularities or distortions in the flatness of the bed.  Software can use a matrix of these points as a topographic map, to raise/lower the head while printing to travel along the known shape of the surface.
+
+For a very flat bed and build plate, the Mesh map is not necessary for real-time correction during the print, but generating a simple Mesh Map can be a useful diagnostic to view the alignment of the X rails and bed.
 
 ## BL-Touch considerations
 
-The BL-Touch probe uses a magnet on a pin to detect contact via hall-effect sensor.  This means that any external magnetic field can cause a higher or lower trigger point, and a distorted reading.
+The BL-Touch probe uses a magnet on a pin to detect surface contact, by lifting the magnet to a hall-effect sensor.  This means that any external magnetic field can cause a higher or lower trigger point, and a distorted depth reading.
+
+For accurate BL-Touch mesh maps, magnetic beds pose a unique challenge, as proximity to any magnet will appear as a very high or low irregularity in the bed.  By carefully chosing a few mesh points, this can be partly mitigated.
 
 ## First-layer Height
 
