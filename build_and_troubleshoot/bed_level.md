@@ -1,19 +1,19 @@
 # Level and Map the print bed
 
-The RailCore has two means of acheiving a first layer that is edge-to-edge flat, smooth as glass, and repeatable: Bed Tramming or Leveling, and the Mesh map correction.
+The RailCore has two means of acheiving a first layer that is edge-to-edge flat, smooth as glass, and repeatable: Bed Leveling, and the Mesh map correction.
 
 ## Bed Leveling (Tramming)
 
 The print bed height on a Railcore 300ZL (or ZLT) is controlled by three independent Z motors, which gives precise control over the angle between the bed and the X/Y motion.
-By sampling the height of the bed at multiple points to detect its plane, and making adjustments to each of the three motors, the bed can be brought into physical alignment with the print head and X/Y motion system.
+By sampling the height of the bed at multiple points to detect its plane, and making adjustments to each of the three motors, the bed can be brought into physical alignment with the print head and X/Y motion system.  This is sometimes referred to as "Tramming the bed".
 
-Performing a Bed Leveling results in a physical adjustment of the bed's *tilt*, but no change to any values, settings, or software state.
+Performing the Bed Leveling cycle results in a physical adjustment of the bed's *tilt*, but no change to any values, settings, or software state.  This should be done before each print, or any time the Z stepper motors have been powered off.
 
 ### Procedure for Bed Leveling
 
 #### G32 / bed.g
 
-The RRF [`G32](https://duet3d.dozuki.com/Wiki/Gcode#Section_G32_Run_bed_g_macro) simply runs the `bed.g` macro.  There is nothing more to it.
+The RRF [`G32`](https://duet3d.dozuki.com/Wiki/Gcode#Section_G32_Run_bed_g_macro) simply runs the `bed.g` macro.
 
 The contents of `bed.g` determine the entire levelling process.  A typical default might look like this:
 ```
@@ -32,13 +32,17 @@ G1 X150 Y150               ; move the head to the center
 ```
 
 Some might prefer a 3-point probe or other specific points, but the process is the same.  Each `G30` probes a specific point and remembers it as `Pxx`.
-Then the last `G30` probes and calculates the offsets for the three Z motors (`S3`).  The firmware will report the probe measurements, deviation, and predicted correction after conclusion:
+The last `G30` command probes and calculates the offsets for the three Z motors (`S3`), adjusting them to their (predicted) optimum alignment.  The firmware will report the probe measurements, deviation, and predicted result after conclusion:
+
 ```6/10/2020, 8:50:05 PM	Leadscrew adjustments made: 0.001 -0.001 0.002, points used 4, deviation before 0.005 after 0.005```
+
 After this, the leadscrews have been adjusted.
 
 It is important to re-home the Z axis after G32, as the height may have changed.
 
 If deviation was improved by the bed levelling, it is a good idea to perform it again to refine the adjustment.  Ideally, it converges on a value that does not change with repeat execution, usually after two or three exections.  If the values do not converge to your liking, it's possible that the X Rails are not correctly aligned, or the coordinates of the three Z "Yoke-to-bed" mounts is not correct.  This can result in bed levelling that improves, but needs multiple cycles.
+
+A RailCore can typically achieve 0.1mm deviation for four points, and often much better if the bed is very precisely flat and linear rails in good alignment.
 
 #### Leadscrew definitions
 
