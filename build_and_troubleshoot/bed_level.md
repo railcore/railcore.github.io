@@ -1,40 +1,35 @@
 # Level and Map the print bed
 
-The RailCore has two means of acheiving a first layer that is edge-to-edge flat, smooth as glass, and repeatable: Bed Leveling, and the Mesh map correction.
+The RailCore has two means of acheiving a first layer that is edge-to-edge flat, smooth as glass, and repeatable: **Bed Leveling**, and the **Mesh** surface correction.
 
 ## Bed Leveling (Tramming)
 
-The print bed height on a Railcore 300ZL (or ZLT) is controlled by three independent Z motors, which gives precise control over the angle between the bed and the X/Y motion.
+The print bed height on a Railcore II 300ZL/300ZLT is controlled by three independent Z motors, which gives precise control over the angle between the bed and the X/Y motion.
 By sampling the height of the bed at multiple points to detect its plane, and making adjustments to each of the three motors, the bed can be brought into physical alignment with the print head and X/Y motion system.  This is sometimes referred to as "Tramming the bed".
 
-Performing the Bed Leveling cycle results in a physical adjustment of the bed's *tilt*, but no change to any values, settings, or software state.  This should be done before each print, or any time the Z stepper motors have been powered off.
+Performing the Bed Leveling cycle results in a *physical* adjustment of the bed's *tilt*, but no change to any settings or software values.  This should be done before each print, or any time the Z stepper motors have been powered off.
 
 ### Procedure for Bed Leveling
 
-#### G32 / bed.g
+#### `G32` / `bed.g`
 
-The RRF [`G32`](https://duet3d.dozuki.com/Wiki/Gcode#Section_G32_Run_bed_g_macro) simply runs the `bed.g` macro.
+The RRF [`G32`](https://duet3d.dozuki.com/Wiki/Gcode#Section_G32_Run_bed_g_macro) GCODE simply runs the `bed.g` macro.
 
 The contents of `bed.g` determine the entire levelling process.  A typical default might look like this:
 ```
-M561                         ; clear any existing bed transform
-; 4 Point measurement and levelling.
-G1 Z5 S2
-G0 X15 Y0 F10000
+M561                         ; clear any existing Mesh bed transform
+; Perform a 4 Point measurement and level
+G1 Z5 S2                  ; Lower the bed 5mm for safety
 G30 P0 X15 Y45 Z-99999
-G0 X15 Y230
 G30 P1 X15 Y275 Z-99999
-G0 X275 Y230
 G30 P2 X275 Y275 Z-99999
-G0 X275 Y0
 G30 P3 X275 Y45 Z-99999 S3
-G1 X150 Y150               ; move the head to the center
 ```
 
 Some might prefer a 3-point probe or other specific points, but the process is the same.  Each `G30` probes a specific point and remembers it as `Pxx`.
 The last `G30` command probes and calculates the offsets for the three Z motors (`S3`), adjusting them to their (predicted) optimum alignment.  The firmware will report the probe measurements, deviation, and predicted result after conclusion:
 
-```6/10/2020, 8:50:05 PM	Leadscrew adjustments made: 0.001 -0.001 0.002, points used 4, deviation before 0.005 after 0.005```
+```6/10/2020, 8:35:01 PM	Leadscrew adjustments made: 0.067 0.078 0.007, points used 4, deviation before 0.051 after 0.003```
 
 After this, the leadscrews have been adjusted.
 
