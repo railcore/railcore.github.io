@@ -77,7 +77,7 @@ The [G29 GCODE](https://duet3d.dozuki.com/Wiki/Gcode#Section_G29_Mesh_bed_probe)
 
 The bed map can be seen visually in the Duet Web interface under Height Map.  Even a 4-point map is useful to show the deviations and RMS error in the measured points, guiding rail adjustments for alignment.
 
-![4 Point Map](./bed_level-4-points.png)
+![4 Point Map](./bed_level-4-points.PNG)
 
 Note that RRF2 shows the map *inverted* from a typical model of the print surface!  The points show a distance from the nozzle, not physical bed height, so a high point on the mesh map is *further* from the nozzle.
 
