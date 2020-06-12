@@ -54,16 +54,45 @@ M671 X-6.5:-6.5:348  Y21.7:275.6:150 S7.5
 
 ## Mesh Map 
 
-Even with the bed parallel to the print movement, the build surface itself may not be flat.  Mapping the high and low points of the print bed shows any irregularities or distortions in the flatness of the bed.  Software can use a matrix of these points as a topographic map, to raise/lower the head while printing to travel along the known shape of the surface.
+Even with the bed parallel to the print movement, the build surface itself may not be flat; it could be warped like a wave or bowl or hvae dents and peaks.  Mapping the high and low points of the print bed shows any irregularities or distortions in the flatness of the bed.  Software can use a matrix of these measuerd points as a topographic map, to raise/lower the head while printing to travel along the known shape of the surface.
 
-For a very flat bed and build plate, the Mesh map is not necessary for real-time correction during the print, but generating a simple Mesh Map can be a useful diagnostic to view the alignment of the X rails and bed.
+For a very flat bed and build plate, the Mesh map is not necessary for real-time correction during the print, but generating a simple Mesh Map can still be a useful diagnostic to view the alignment of the X rails and bed.
+
+### Defining probe points with `M557`
+
+The [`M557` GCODE](https://duet3d.dozuki.com/Wiki/Gcode#Section_M557_Set_Z_probe_point_or_define_probing_grid) defines the set of points that will be probed to build the Mesh map.  You may choose to probe only four representative points, or make a detailed map with hundreds of points.
+
+The best probe grid depends on the bed design, build surface, and depth probe.  A bed with embedded magnets might put specific constraints on where a BL-Touch can be used, for example.  Further, the X/Y offset between the Nozzle and Probe will exclude some portion of the bed from being probed at all.
+
+The number of probe points is specified by either the `P` parameter for points in X & Y, or the `S` parameter for space between points.
+
+Popular map grids seen in use on Railcore include:
+* `M557 X45:282 Y46:254 P2:2` from @JohnOCFII to avoid magnets in a 713 Magnetic bed with rectangular magnets
+* `M557 X10:295 Y10:295 S57:57` from @elmoret to avoid magnets in a Mandala Rose Works 9-magnet bed
+* `M557 X115:240 Y94:209 S125:115` 4-point rectangle keeping maximum distance from MRW bed magnets
+
+### Mapping with `G29`
+
+The [G29 GCODE](https://duet3d.dozuki.com/Wiki/Gcode#Section_G29_Mesh_bed_probe) probes each point of the defined mesh, saves the results to `/sys/heightmap.csv`, and activates bed compensation.   Prints with bed compensation enabled will adjust the Z Height in real-time to travel along the mapped print surface.
+
+The bed map can be seen visually in the Duet Web interface under Height Map.  Even a 4-point map is useful to show the deviations and RMS error in the measured points, guiding rail adjustments for alignment.
+
+![4 Point Map](./bed_level-4_point.png)
+
+Note that RRF2 shows the map *inverted* from a typical model of the print surface!  The points show a distance from the nozzle, not physical bed height, so a high point on the mesh map is *further* from the nozzle.
+
+To flush or disable the bed compensation, `G29 S2` can be used to clear the height map.  For very flat build surfaces, this is generally preferred to avoid Z micro-adjustments in the first layers.
+
+## Interaction between Bed Level and Mesh Map
+
+While Bed Level (physical tramming) and the Mesh Map are unrelated, any adjustment to one may invalidate the other.  It's important to invalidate the Mesh Map as part of Bed Levelling (`bed.g`), and recalculate a fresh Mesh Map after any Bed Levelling.
 
 ## BL-Touch considerations
 
 The BL-Touch probe uses a magnet on a pin to detect surface contact, by lifting the magnet to a hall-effect sensor.  This means that any external magnetic field can cause a higher or lower trigger point, and a distorted depth reading.
 
-For accurate BL-Touch mesh maps, magnetic beds pose a unique challenge, as proximity to any magnet will appear as a very high or low irregularity in the bed.  By carefully chosing a few mesh points, this can be partly mitigated.
+For accurate BL-Touch mesh maps, magnetic beds pose a unique challenge, as proximity to any magnet will appear as a very high or low irregularity in the bed.  By carefully chosing mesh points, this can be partly mitigated.
 
 ## First-layer Height
 
-Once the bed is physically level, and any irregularity is mapped, the height of the nozzle at the first layer is determined by the probe offset, babystep adjustment, and Z Home probe.
+Once the bed is physically level, and any irregularity is mapped and compensated, the height of the nozzle at the first layer should be predictable and repeatable.  The probe probe offset, Babystep adjustment, and Z Home accuracy should result in perfect first-layer results.
