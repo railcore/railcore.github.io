@@ -42,7 +42,7 @@ A RailCore can typically achieve 0.1mm deviation for four points, and often much
 
 #### Leadscrew definitions
 
-The specific location of the leadscrews is important for arriving quickly at the best bed level adjustment.  The X and Y coordinates of each Z motor defines the point outside the bed where the bed pivots on the yoke.  For most RailCores, this is the location of the bed-to-yoke vertical bolt that goes through both.   A [2018 video by Tony Akens](https://www.youtube.com/watch?v=qeFGLb8Gf6U)shows one way to measure the correct offsets for your machine.
+The specific location of the leadscrews is important for arriving quickly at the best bed level adjustment.  The X and Y coordinates of each Z motor defines the point outside the bed where the bed pivots on the yoke.  For most RailCores, this is the location of the bed-to-yoke vertical bolt that goes through both.   A [2018 video by Tony Akens](https://www.youtube.com/watch?v=qeFGLb8Gf6U) shows one way to measure the correct offsets for your machine.
 
 The specific values for your printer should be defined in your `config.g` with `M671` similar to this:
 
