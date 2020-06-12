@@ -1,6 +1,6 @@
 # Level and Map the print bed
 
-The RailCore has two means of acheiving a first layer that is edge-to-edge flat, smooth as glass, and repeatable: **Bed Leveling**, and the **Mesh** surface correction.
+The RailCore has two means of achieving a first layer that is edge-to-edge flat, smooth as glass, and repeatable: **Bed Leveling**, and the **Mesh** surface correction.
 
 ## Bed Leveling (Tramming)
 
@@ -35,7 +35,7 @@ After this, the leadscrews have been adjusted.
 
 It is important to re-home the Z axis after G32, as the height may have changed.
 
-If deviation was improved by the bed levelling, it is a good idea to perform it again to refine the adjustment.  Ideally, it converges on a value that does not change with repeat execution, usually after two or three exections.  If the values do not converge to your liking, it's possible that the X Rails are not correctly aligned, or the coordinates of the three Z "Yoke-to-bed" mounts is not correct.  This can result in bed levelling that improves, but needs multiple cycles.
+If deviation was improved by the bed levelling, it is a good idea to perform it again to refine the adjustment.  Ideally, it converges on a value that does not change with repeat execution, usually after two or three runs.  If the values do not converge to your liking, it's possible that the X Rails are not correctly aligned, or the coordinates of the three Z "Yoke-to-bed" mounts is not correct.  This can result in bed levelling that improves, but needs multiple cycles.
 
 A RailCore can typically achieve 0.1mm deviation for four points, and often much better if the bed is very precisely flat and linear rails in good alignment.
 
@@ -54,7 +54,7 @@ M671 X-6.5:-6.5:348  Y21.7:275.6:150 S7.5
 
 ## Mesh Map 
 
-Even with the bed parallel to the print movement, the build surface itself may not be flat; it could be warped like a wave or bowl or hvae dents and peaks.  Mapping the high and low points of the print bed shows any irregularities or distortions in the flatness of the bed.  Software can use a matrix of these measuerd points as a topographic map, to raise/lower the head while printing to travel along the known shape of the surface.
+Even with the bed parallel to the print movement, the build surface itself may not be flat; it could be warped like a wave or bowl or have dents and peaks.  Mapping the high and low points of the print bed shows any irregularities or distortions in the flatness of the bed.  Software can use a matrix of these measured points as a topographic map, to raise/lower the head while printing to travel along the known shape of the surface.
 
 For a very flat bed and build plate, the Mesh map is not necessary for real-time correction during the print, but generating a simple Mesh Map can still be a useful diagnostic to view the alignment of the X rails and bed.
 
@@ -91,8 +91,8 @@ While Bed Level (physical tramming) and the Mesh Map are unrelated, any adjustme
 
 The BL-Touch probe uses a magnet on a pin to detect surface contact, by lifting the magnet to a hall-effect sensor.  This means that any external magnetic field can cause a higher or lower trigger point, and a distorted depth reading.
 
-For accurate BL-Touch mesh maps, magnetic beds pose a unique challenge, as proximity to any magnet will appear as a very high or low irregularity in the bed.  By carefully chosing mesh points, this can be partly mitigated.
+For accurate BL-Touch mesh maps, magnetic beds pose a unique challenge, as proximity to any magnet will appear as a very high or low irregularity in the bed.  By carefully choosing mesh points, this can be partly mitigated.
 
 ## First-layer Height
 
-Once the bed is physically level, and any irregularity is mapped and compensated, the height of the nozzle at the first layer should be predictable and repeatable.  The probe probe offset, Babystep adjustment, and Z Home accuracy should result in perfect first-layer results.
+Once the bed is physically level, and any irregularity is mapped and compensated, the height of the nozzle at the first layer should be predictable and repeatable.  The probe offset, Babystep adjustment, and Z Home accuracy should result in perfect first-layer results.
