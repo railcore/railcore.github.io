@@ -71,7 +71,7 @@ The number of probe points is specified by either the `P` parameter for points i
 Popular map grids seen in use on Railcore include:
 * `M557 X45:282 Y46:254 P2:2` from @JohnOCFII to avoid magnets in a 713 Magnetic bed with rectangular magnets
 * `M557 X10:295 Y10:295 S57:57` from @elmoret to avoid magnets in a Mandala Rose Works 9-magnet bed
-* `M557 X115:240 Y94:209 S125:115` 4-point rectangle keeping maximum distance from MRW bed magnets
+* `M557 X115:240 Y94:209 S125:115` 4-point rectangle I measured to keep maximum distance from MRW bed magnets
 
 ### Mapping with `G29`
 
