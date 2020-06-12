@@ -4,8 +4,8 @@ The RailCore has two means of acheiving a first layer that is edge-to-edge flat,
 
 ## Bed Leveling (Tramming)
 
-The print bed height on a Railcore II 300ZL/300ZLT is controlled by three independent Z motors, which gives precise control over the angle between the bed and the X/Y motion.
-By sampling the height of the bed at multiple points to detect its plane, and making adjustments to each of the three motors, the bed can be brought into physical alignment with the print head and X/Y motion system.  This is sometimes referred to as "Tramming the bed".
+The print bed height on a Railcore II 300ZL/300ZLT is controlled by three independent Z motors, which gives precise control over the angle between the bed and the X/Y gantry.
+By sampling the height of the bed at multiple points to detect its plane, and making adjustments to each of the three motors, the bed can be brought into physical alignment with the print head gantry.  This is sometimes referred to as "Tramming the bed".
 
 Performing the Bed Leveling cycle results in a *physical* adjustment of the bed's *tilt*, but no change to any settings or software values.  This should be done before each print, or any time the Z stepper motors have been powered off.
 
