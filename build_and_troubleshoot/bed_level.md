@@ -7,7 +7,7 @@ The RailCore has two means of achieving a first layer that is edge-to-edge flat,
 The print bed height on a Railcore II 300ZL/300ZLT is controlled by three independent Z motors, which gives precise control over the angle between the bed and the X/Y gantry.
 By sampling the height of the bed at multiple points to detect its plane, and making adjustments to each of the three motors, the bed can be brought into physical alignment with the print head gantry.  This is sometimes referred to as "Tramming the bed".
 
-Performing the Bed Leveling cycle results in a *physical* adjustment of the bed's *tilt*, but no change to any settings or software values.  This should be done before each print, or any time the Z stepper motors have been powered off.
+Performing the Bed Leveling cycle results in a *physical* adjustment of the bed's *tilt*, but no change to any settings or software values.  This should be done before each print, after changing build plates, or any time the Z stepper motors have been powered off.
 
 ### Procedure for Bed Leveling
 
@@ -17,9 +17,10 @@ The RRF [`G32`](https://duet3d.dozuki.com/Wiki/Gcode#Section_G32_Run_bed_g_macro
 
 The contents of `bed.g` determine the entire levelling process.  A typical default might look like this:
 ```
-M561                         ; clear any existing Mesh bed transform
+M561                          ; clear any existing Mesh bed transform
+
 ; Perform a 4 Point measurement and level
-G1 Z5 S2                  ; Lower the bed 5mm for safety
+G1 Z5 S2                      ; Lower the bed 5mm for safety
 G30 P0 X15 Y45 Z-99999
 G30 P1 X15 Y275 Z-99999
 G30 P2 X275 Y275 Z-99999
@@ -35,13 +36,14 @@ After this, the leadscrews have been adjusted.
 
 It is important to re-home the Z axis after G32, as the height may have changed.
 
-If deviation was improved by the bed levelling, it is a good idea to perform it again to refine the adjustment.  Ideally, it converges on a value that does not change with repeat execution, usually after two or three runs.  If the values do not converge to your liking, it's possible that the X Rails are not correctly aligned, or the coordinates of the three Z "Yoke-to-bed" mounts is not correct.  This can result in bed levelling that improves, but needs multiple cycles.
+If deviation was improved by the bed levelling, it is a good idea to perform it again to refine the adjustment.  Ideally, it converges on a value that does not change with repeat execution, usually after two or three runs.  If the values do not converge to your liking, it's possible that the X Rails are not correctly aligned, or the coordinates of the three Z "Yoke-to-bed" mounts is not correct.  This can result in bed levelling that improves with each G32, but needs multiple cycles to converge.
 
 A RailCore can typically achieve 0.1mm deviation for four points, and often much better if the bed is very precisely flat and linear rails in good alignment.
 
 #### Leadscrew definitions
 
-The specific location of the leadscrews is important for arriving quickly at the best bed level adjustment.  The X and Y coordinates of each Z motor defines the point outside the bed where the bed pivots on the yoke.  For most RailCores, this is the location of the bed-to-yoke bolt.
+The specific location of the leadscrews is important for arriving quickly at the best bed level adjustment.  The X and Y coordinates of each Z motor defines the point outside the bed where the bed pivots on the yoke.  For most RailCores, this is the location of the bed-to-yoke vertical bolt that goes through both.   A [2018 video by Tony Akens](https://www.youtube.com/watch?v=qeFGLb8Gf6U)shows one way to measure the correct offsets for your machine.
+
 The specific values for your printer should be defined in your `config.g` with `M671` similar to this:
 
 ```
@@ -54,7 +56,7 @@ M671 X-6.5:-6.5:348  Y21.7:275.6:150 S7.5
 
 ## Mesh Map 
 
-Even with the bed parallel to the print movement, the build surface itself may not be flat; it could be warped like a wave or bowl or have dents and peaks.  Mapping the high and low points of the print bed shows any irregularities or distortions in the flatness of the bed.  Software can use a matrix of these measured points as a topographic map, to raise/lower the head while printing to travel along the known shape of the surface.
+Even with the bed parallel to the print movement, the build surface itself may not be flat; it could be warped like a wave or bowl or have dents and thermal deformation.  Mapping the high and low points of the print bed shows any irregularities or distortions in the flatness of the bed.  Software can use a matrix of these measured points as a topographic map, to raise/lower the head while printing to travel along the known shape of the surface.
 
 For a very flat bed and build plate, the Mesh map is not necessary for real-time correction during the print, but generating a simple Mesh Map can still be a useful diagnostic to view the alignment of the X rails and bed.
 
@@ -72,6 +74,8 @@ Popular map grids seen in use on Railcore include:
 * `M557 X115:240 Y94:209 S125:115` 4-point rectangle keeping maximum distance from MRW bed magnets
 
 ### Mapping with `G29`
+
+Ideally, the bed should be mapped at your intended printing temperature, since some materials and beds may change with thermal expansion.
 
 The [G29 GCODE](https://duet3d.dozuki.com/Wiki/Gcode#Section_G29_Mesh_bed_probe) probes each point of the defined mesh, saves the results to `/sys/heightmap.csv`, and activates bed compensation.   Prints with bed compensation enabled will adjust the Z Height in real-time to travel along the mapped print surface.
 
