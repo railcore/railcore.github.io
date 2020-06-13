@@ -54,6 +54,8 @@ M305 P106 X5 T100000 B3950 R4700 C0 H0 L0 S"Chamber Hi-R"
 M305 P107 X6 T100000 B3950 R4700 C0 H0 L0 S"Chamber Hi-F"
 M305 P108 X7 T100000 B3950 R4700 C0 H0 L0 S"Heatsink"
 ```
+The new values show up under Extra:
+![Thermistor DWC Example](Thermistor-Example.PNG)
 
 ## Fan Control
 Additional fans can be controlled thermostatically from these new virtual heaters by associating them.
