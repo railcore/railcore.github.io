@@ -27,6 +27,7 @@ sidebar_sort_order: 4
   * [Bottom Panel for Electronics Enclosure](https://www.thingiverse.com/thing:3634362) - a printable panel to cover the bottom of the electronics enclosure to keep wayward fingers and pets away from the wiring
   * [Bed levelling using levelling washers](./levelling_washers.md) - a newer bed mount for levelling using spherical/levelling washers.
   * [Adding 12V fans](./12v_fans.md) - Adding 12-volt fans for thermostatic control
+  * [Adding more Thermistors](./thermistors.md) - Adding additional thermistor temperature monitoring
 
   See also the [Community Modifications and Parts on Thingiverse](https://www.thingiverse.com/railcore/collections/300zl-zlt) You'll find various combinations of mounts for hot-ends, extruders and probes (on aluminium mounts or printed)
 
