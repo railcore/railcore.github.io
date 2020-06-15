@@ -39,7 +39,7 @@ The Duex5 adds another *five* thermistor inputs!  Go nuts.. they're really cheap
 
 ![Duex Thermistor Inputs](Thermistor-Duex.PNG)
 
-The five Duex inputs are numbered on the board's silkscreen, but note the RRF GCODE uses the `X` number designation for each:
+The five Duex inputs are numbered on the board's silkscreen, but note that the RRF GCODE uses the `X` number designation for each:
 * `E2 THERMISTOR3` = `X3` 
 * `E3 THERMISTOR4` = `X4` 
 * `E4 THERMISTOR5` = `X5` 
