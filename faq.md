@@ -25,6 +25,10 @@ We did a LOT of testing and experimented with several means of additional suppor
 
 The vertical orientation of the carriage was to place the stiffest axis of the rail in line with the highest load. Since our accel is typically less than 1g, the lateral load will never reach the static vertical load, so it's the best way to provide appropriate stiffness. 
 
+It has been noted that rails are 'intended' to be bolted to something. This is absolutely true; they're intended to be bolted to a registration edge. This is to assure straightness. In practice, most are very straight at the lengths we're talking about. It's an off-label use, no question, but seems to work very well. 
+
+The good news is, you TOO can experiment with various spar solutions to see if it improves your results. 
+
 ### Q: Why is that bit of PTFE there between the Extruder and the hot end?
 
 There are five reasons we designed the carriage the way it is. Here they are, ranked by how important I think they are.
@@ -38,6 +42,8 @@ There are five reasons we designed the carriage the way it is. Here they are, ra
 4) The "mount the extruder to the carriage and stick the hot end in the extruder" is not as rigid. The nozzle deflection is much better controlled when the hot end is mounted the way it is. Some all-in-ones do better because the 'mount' is actually at the heatsink, but groove mount hot ends are not of this variety.
 
 5) The mass of the system is as close to centered on the rail as we could get it. Hanging it all on one side certainly does change motion behavior. We're not certain how important this is, but it was one consideration. As was mentioned, some folks have described visible artifacting, but folks seem to be pretty happy with their Hemera builds, so far, so it may be implementation specific.
+
+Also, if the bit of PTFE bothers you, or you have real issues with it, you can move to the Hemera solution. Or, you can check thingiverse; some people have made mounts for the typical extruder-mounted hot end. 
 
 ### Q: Why are the rails vertical rather than horizontal?
 
