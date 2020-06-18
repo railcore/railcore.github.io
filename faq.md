@@ -21,7 +21,7 @@ Update: Several community members have done this. Check the Discord and ask arou
 
 ### Q: Is that rail strong enough to hold the print carriage?
 
-We did a LOT of testing and experimented with several means of additional support, with no change in print quality. Keep in mind that the rail is 9x12mm bar of hardened steel. This is roughly as rigid (perhaps more so) to the standard 2x8mm smooth rods used in typical 3d printers from a while back. 
+We did a LOT of testing and experimented with several means of additional support, with no change in print quality. Keep in mind that the rail is 9x12mm bar of hardened steel. This is roughly as rigid (perhaps more so) as the standard 2x8mm smooth rods used in typical 3d printers from a while back. 
 
 The vertical orientation of the carriage was to place the stiffest axis of the rail in line with the highest load. Since our accel is typically less than 1g, the lateral load will never reach the static vertical load, so it's the best way to provide appropriate stiffness. 
 
