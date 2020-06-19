@@ -2,7 +2,7 @@
 
 ## Default pair
 The Duet has three Thermistor inputs, of which two are used for the standard RailCore build.
-1. The Bed Thermistor is assigned to P0.  This is usually embedded into the heated bed and connected to `THERMISTOR0 BED` on the Duet.
+1. The Bed Thermistor is assigned to P0.  This is the bead you installed in the channel on top of the bed surface and connected to `THERMISTOR0 BED` on the Duet.
 1. The Hot-End Thermistor is assigned to P1 and used to regulate the hot-end extrusion temperature using `THERMISTOR1 E0`
 
 The `M305` GCODE defines these in `config.g` as appropriate for your build, for example:
@@ -18,11 +18,10 @@ M305 P1 T100000 B4725 R4700 C7.06e-8 H0 L0
 In addition to the two above, the Duet2 has a third unused Thermistor input and the Duex5 has five more thermistor inputs for added expansion.
 
 ### Keenovo thermistor
-The Kit's Keenovo bed heater has an additional NTC 100K thermistor bundled into the heater, so why not connect it for monitoring?  Plug it into the `E1 THERMISTOR2` thermistor port on the Duet:
+The Kit's Keenovo bed heater has an additional NTC 100K thermistor bundled into the heater, so why not connect it for monitoring?  Plug it into the `E1 THERMISTOR2` port on the Duet, which is selected by the `X2` flag for `M305`:
 
 ![Thermistor Port](Thermistor-Duet.PNG)
 
-The thermistor inputs have unusual numbering in the RRF2 firmware, so this input is designated `X2`:
 ```
 ; Keenovo NTC 100K (Beta 25/50 3950K 1%) Thermistor in bed heater (red wires) [X2=E1 Extruder]
 M305 P103 X2 T100000 B3950 R4700 C0 H0 L0 S"Keenovo"
@@ -39,7 +38,7 @@ The Duex5 adds another *five* thermistor inputs!  Go nuts.. they're really cheap
 
 ![Duex Thermistor Inputs](Thermistor-Duex.PNG)
 
-The five Duex inputs are numbered on the board's silkscreen, but note that the RRF GCODE uses the `X` number designation for each:
+The five Duex inputs are numbered on the board's silkscreen and diagram.  Note that the RRF2 `M305` gcode uses the `THERMISTOR` number and `X` designation for each, instead of the `E` number:
 * `E2 THERMISTOR3` = `X3` 
 * `E3 THERMISTOR4` = `X4` 
 * `E4 THERMISTOR5` = `X5` 
