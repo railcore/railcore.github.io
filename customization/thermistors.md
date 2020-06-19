@@ -2,7 +2,7 @@
 
 ## Default pair
 The Duet has three Thermistor inputs, of which two are used for the standard RailCore build.
-1. The Bed Thermistor is assigned to P0.  This is the bead you installed in the channel on top of the bed surface and connected to `THERMISTOR0 BED` on the Duet.
+1. The Bed Thermistor is assigned to P0.  This is the bead you glued into the top of the bed surface and connected to `THERMISTOR0 BED` on the Duet.
 1. The Hot-End Thermistor is assigned to P1 and used to regulate the hot-end extrusion temperature using `THERMISTOR1 E0`
 
 The `M305` GCODE defines these in `config.g` as appropriate for your build, for example:
