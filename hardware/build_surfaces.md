@@ -16,4 +16,4 @@ There is plenty of good information out there on bed surfaces and their adhesion
 
 **Printed Solid** [https://www.printedsolid.com/](https://www.printedsolid.com/collections/flexplates/products/blank-plate-for-railcore-300zl-and-300zlt) Flexplates for RailCore are among the most affordable, but also the thinnest and most flexible.  The thinner sheets have less magnetic grip on some beds, and the texturing on the powder-coated PEI is prominent and abrasive.
 
-**Thekkiingg** Powder Coated PEI Sheets from [Filastruder](https://www.filastruder.com/collections/railcore/products/railcore-ii-300zl-zlt-magnetic-bed-powder-coated-pei-sheet) are thicker steel and less textured than the PrintedSolid sheets.  Double-sided PEI, or blank steel with handling tabs.
+**Thekkiingg** Powder Coated PEI Sheets from [Filastruder](https://www.filastruder.com/collections/railcore/products/railcore-ii-300zl-zlt-magnetic-bed-powder-coated-pei-sheet) are thicker steel and less coarse in finish than the PrintedSolid sheets.  Double-sided PEI, or blank steel with handling tabs.
