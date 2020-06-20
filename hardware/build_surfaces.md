@@ -13,3 +13,5 @@ There is plenty of good information out there on bed surfaces and their adhesion
 **BuildTak** Works well with BLTouch, folks report erratic results with IR. Stuff sometimes ticks too well when used on a fixed bed; is best suited for a removable flex bed like the magnetic bed. [https://www.buildtak.com](https://www.buildtak.com)
 
 **GeckoTek** [https://www.geckotek.co](https://www.geckotek.co)
+
+**FR4** Some vendors sell this as "Polypropylene bed", meaning for PRINTING PP on, not 'made from pp'. Combined with Vision Miner Nanoadhesive it makes a killer combination for higher temp filaments in a passively heated enclosure. Bed temp > 90C materials stick like cyanoacrylate until the bed temp drops below 50C or so, and then you could blow the parts off the bed with canned air. 
