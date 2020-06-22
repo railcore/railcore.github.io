@@ -24,6 +24,7 @@ sidebar_sort_order: 2
 * Mounting linear rails
 * [New Z alignment procedure for the Z extrusions](./new_Z_alignment_procedure_for_the_Z_extrusions.md)
 * [Aligning the X Carriages/Y Rail](./aligning_the_x_carriages_y_rail.md)
+* [Bed Levelling and Mesh Correction](./bed_level.md)
 
 ## Electrical
 * [Railcore Bed Heater and Thermistor installation](https://www.youtube.com/watch?v=g_x9JUW02aA)
