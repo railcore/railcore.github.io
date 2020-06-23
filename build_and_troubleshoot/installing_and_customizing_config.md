@@ -11,11 +11,12 @@ title: Installing and customising the Duet Config for your RailCore II
 
 The RailCore project is all about flexibility and making your build your own. So, that is your choice, and down to how you want to approach your build.
 
+ * [Filastruder config](https://www.dropbox.com/sh/og8bolggmqlfrsv/AAAbZ0enHyIRuYoy7knaQSbEa?dl=0) - For use with the Filastruder Kit
  * [Kraegars config](https://github.com/railcore/configs/tree/master/unmaintained/Kraegars/300ZL) - The original basic config aimed at self-sourcers. Can be a useful starting point for those that want to engineer everything themselves and keep all their Duet settings in a single file.
  * [Project R3D config](https://github.com/railcore/configs/tree/master/unmaintained/ProjectR3D/300ZL) - A slightly modified version of Kraegars config, for people that have purchased a Project R3D kit.
- * [RailCore Community Config](https://github.com/railcore/configs/) - Originally based on Kraegars Duet config, this config has been (and is) under active development by community members. The goal of this configuration is to be well documented, with additional settings, macros and features so self-sourcers and kit builders do not have to keep re-inventing the wheel.
+ * [RailCore Community Config](https://github.com/railcore/configs/) - Originally based on Kraegars Duet config.
 
-## Community based configuration information
+## Community based configuration information (only for more advanced users, use the Filastruder config if you are starting out with the Duet)
 
 The "duet" folder contains a Duet configuration bundle for RepRapFirmware Duet (Ethernet/Wifi) for the RailCore II 300ZL and 300ZLT.
 
