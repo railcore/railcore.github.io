@@ -8,8 +8,10 @@ sidebar_sort_order: 1
 
 The Fusion360 models, Assembly Guide and BOM are the official, master copies maintained by Tony Akens. Thingiverse project is also maintained by Tony Akens.
 
- * [RailCore II 300ZL/ZLT Assembly Guide - Filastruder](https://railcore.page.link/fskit) 
-   * [RailCore II 300ZL/ZLT Assembly Guide (old)](https://railcore.page.link/guide)
+ * [RailCore Dozuki Build Guide](https://railcore.dozuki.com/c/RailCore_II) -  now the recommended method to build a RailCore kit. If you spot problems or want to assist in tidying up the new guide, join the Documentation Channel on Discord.
+ * Older Google Doc guides: (Kept for reference)  
+   * [RailCore II 300ZL/ZLT Assembly Guide - Filastruder](https://railcore.page.link/fskit) 
+   * [RailCore II 300ZL/ZLT Assembly Guide - Self Sourcer)](https://railcore.page.link/guide)
  * [RailCore II 300ZL/ZLT Thingiverse Project(all printable parts)](https://www.thingiverse.com/thing:2407174)
  * **Bill Of Materials**
    * [RailCore II 300ZL Bill Of Materials](https://railcore.page.link/zlbom)
@@ -29,7 +31,7 @@ While RailCore II is an open-source project, there are companies that deal with 
 * [HighTemp3D](https://www.HighTemp3D.com/) - RailCore Kits and Parts EU based.
 * [Printed Solid](https://printedsolid.com/) - RailCore Kits and Parts, USA based.
 
-## Hardware Components
+## Hardware Components (Self sourcing)
 
 * [Things to Consider Before Ordering Parts](./things_to_consider_before_ordering_parts.md)
 * Mechanics
@@ -46,7 +48,6 @@ While RailCore II is an open-source project, there are companies that deal with 
   * Bed Heaters
   * [SSR](./ssr.md)'s
   * [Z-Probes](./z_probe.md)
-  * Endstop Switches
   * [Fans](./fans.md)
 * Other
   * [Build Surfaces](./build_surfaces.md)
