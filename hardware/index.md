@@ -11,7 +11,7 @@ The Fusion360 models, Assembly Guide and BOM are the official, master copies mai
  * [RailCore Dozuki Build Guide](https://railcore.dozuki.com/c/RailCore_II) -  now the recommended method to build a RailCore kit. If you spot problems or want to assist in tidying up the new guide, join the Documentation Channel on Discord.
  * Older Google Doc guides: (Kept for reference)  
    * [RailCore II 300ZL/ZLT Assembly Guide - Filastruder](https://railcore.page.link/fskit) 
-   * [RailCore II 300ZL/ZLT Assembly Guide - Self Sourcer)](https://railcore.page.link/guide)
+   * [RailCore II 300ZL/ZLT Assembly Guide - (Original Self Sourcer version)](https://railcore.page.link/guide)
  * [RailCore II 300ZL/ZLT Thingiverse Project(all printable parts)](https://www.thingiverse.com/thing:2407174)
  * **Bill Of Materials**
    * [RailCore II 300ZL Bill Of Materials](https://railcore.page.link/zlbom)
@@ -27,9 +27,9 @@ While RailCore II is an open-source project, there are companies that deal with 
 * [Filastruder](https://www.filastruder.com/collections/railcore) - RailCore Kits and Parts.
 * [Mandala Rose Works](http://www.mandalaroseworks.com/) - Upgrade parts and laser-cut acrylic parts.
 * [713 Maker](https://713maker.com/railcore) - Upgrade parts and beds.
-* [Merch Minion Railcore Branded Merchandise](http://kninedhp.merchminion.com/)
 * [HighTemp3D](https://www.HighTemp3D.com/) - RailCore Kits and Parts EU based.
 * [Printed Solid](https://printedsolid.com/) - RailCore Kits and Parts, USA based.
+* [Merch Minion Railcore Branded Merchandise](http://kninedhp.merchminion.com/)
 
 ## Hardware Components (Self sourcing)
 
