@@ -42,7 +42,7 @@ A RailCore can typically achieve 0.1mm deviation for four points, and often much
 
 #### Probe point considerations
 
-Chosing the three or four points to use in `bed.g` should be done with calculation and care.  They should be far enough apart that the planar calculation has good distance to work with, but avoid any problematic areas of the bed where irregularities could confound the results.   For Magnetic Beds under BL-Touch (magnetic) sensors, this is a unique challenge.  See some tips below for [BL-Touch considerations](#bl-touch-considerations).
+Choosing the three or four points to use in `bed.g` should be done with calculation and care.  They should be far enough apart that the planar calculation has good distance to work with, but avoid any problematic areas of the bed where irregularities could confound the results.   For Magnetic Beds under BL-Touch (magnetic) sensors, this is a unique challenge.  See some tips below for [BL-Touch considerations](#bl-touch-considerations).
 
 Note that the probe points in `G30` are with reference to the *Probe* and not the nozzle!  The RRF firmware will factor out the known probe offsets (from your `G31`) for these movements, so the position does not match what you would see with `G1` movements.  Further, G30 will *ignore* your Endstop switches!  This is dangerous when attempting to probe portions of the bed that are physically unreachable, as it will continue to force movement into the hard limits and beyond.   For example, most builds should avoid trying `Y0` with `G30`, as it is unreachable.
 
