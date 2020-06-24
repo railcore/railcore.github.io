@@ -40,6 +40,12 @@ If deviation was improved by the bed levelling, it is a good idea to perform it 
 
 A RailCore can typically achieve 0.1mm deviation for four points, and often much better if the bed is very precisely flat and linear rails in good alignment.
 
+#### Probe point considerations
+
+Choosing the three or four points to use in `bed.g` should be done with calculation and care.  They should be far enough apart that the planar calculation has good distance to work with, but avoid any problematic areas of the bed where irregularities could confound the results.   For Magnetic Beds under BL-Touch (magnetic) sensors, this is a unique challenge.  See some tips below for [BL-Touch considerations](#bl-touch-considerations).
+
+Note that the probe points in `G30` are with reference to the *Probe* and not the nozzle!  The RRF firmware will factor out the known probe offsets (from your `G31`) for these movements, so the position does not match what you would see with `G1` movements.  Further, G30 will *ignore* your Endstop switches!  This is dangerous when attempting to probe portions of the bed that are physically unreachable, as it will continue to force movement into the hard limits and beyond.   For example, most builds should avoid trying `Y0` with `G30`, as it is unreachable.
+
 #### Leadscrew definitions
 
 The specific location of the leadscrews is important for arriving quickly at the best bed level adjustment.  The X and Y coordinates of each Z motor defines the point outside the bed where the bed pivots on the yoke.  For most RailCores, this is the location of the bed-to-yoke vertical bolt that goes through both.   A [2018 video by Tony Akens](https://www.youtube.com/watch?v=qeFGLb8Gf6U) shows one way to measure the correct offsets for your machine.
@@ -96,7 +102,7 @@ While Bed Level (physical tramming) and the Mesh Map are unrelated, any adjustme
 
 The BL-Touch probe uses a magnet on a pin to detect surface contact, by lifting the magnet to a hall-effect sensor.  This means that any external magnetic field can cause a higher or lower trigger point, and a distorted depth reading.
 
-For accurate BL-Touch mesh maps, magnetic beds pose a unique challenge, as proximity to any magnet will appear as a very high or low irregularity in the bed.  By carefully choosing mesh points, this can be partly mitigated.
+For accurate BL-Touch mesh maps, magnetic beds pose a unique challenge, as proximity to any magnet will appear as a very high or low irregularity in the bed.  By carefully choosing mesh points, this can be partly mitigated.  The [Magnet Probe Point spreadsheet](https://docs.google.com/spreadsheets/d/19sg3DF3PqzK8-KJ13Eh1PQMJRK1Q9LHXkGnUAmX1ld8/edit) can help calculate the magnet positions for some recommend points away from known magnets, suitable for `G30`, `M557` and Z Home operations.
 
 ## First-layer Height
 
