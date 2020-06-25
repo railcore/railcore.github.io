@@ -11,23 +11,17 @@ RailCore II is a [Core-XY based Reprap 3D printer](https://reprap.org/wiki/CoreX
 
 ## RailCore II Community Resources
 
-Please read these resources carefully to answer many common questions, and contribute information where you can add!
-
-See our [Contributing page](/contributing/) for more information on contributing to these guides.
-
 * [Hardware](/hardware) - all about choosing and sourcing the parts for your RailCore II.
 * [Build & Troubleshoot](/build_and_troubleshoot) - how to assemble and get your RailCore II running.
 * [Software](/software) - how to configure the firmware on your RailCore II as well as your slicer.
 * [Customization](/customization) - information of variations and customization of the RailCore II.
 
+Want to help? See our [Contributing page](/contributing/) for more information on contributing to these guides.
+
 ### Discussion
    * [Facebook Group](https://www.facebook.com/groups/RailCore/)
-
-### Chat
-
    * [Discord Channel](https://discord.gg/Sy569Hq)
-   * [#RailCore IRC channel on freenode](irc://chat.freenode.net/RailCore) - *you must be authenticated with Freenode to enter the channel*
-
+   
 Read all about the [design history](design_history.md) of the RailCore II and how it came to be.
 More questions? Have a look at the [General FAQ](/faq.md)
 
