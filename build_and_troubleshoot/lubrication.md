@@ -16,7 +16,7 @@ Source: https://us.c.misumi-ec.com/book/usa_2019_msm_fa/pdf/0640.pdf
 ### Standard Misumi rails (SSELB13)
 
 Standard Misumi rails come packed in "Kyodo Yushi Multemp PS NO.2"
-In the US it may be hard to source, but  close alternative would be the AFB-LF from THKis a close alternative, but any grade 2 lithium grease should be fine.
+In the US it may be hard to source, but  close alternative would be the AFB-LF from THK, any grade 2 lithium grease should be fine though.
 
 Source: https://us.misumi-ec.com/maker/misumi/mech/product/lg/faq/
  
