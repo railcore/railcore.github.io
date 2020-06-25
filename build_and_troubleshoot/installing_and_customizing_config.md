@@ -9,12 +9,12 @@ title: Installing and customising the Duet Config for your RailCore II
 
 ## Wait a minute, there are several configs! Which config should I be using?
 
-The RailCore project is all about flexibility and making your build your own. So, that is your choice, and down to how you want to approach your build.
+The RailCore project is all about flexibility and making your build your own. So, that is your choice, and down to how you want to approach your build. RepRapFirmware 2 is the only one currently supported. RRF3 is being tested by several members.
 
- * [Filastruder config](https://www.dropbox.com/sh/og8bolggmqlfrsv/AAAbZ0enHyIRuYoy7knaQSbEa?dl=0) - For use with the Filastruder Kit
+ * [Filastruder config](https://www.dropbox.com/sh/og8bolggmqlfrsv/AAAbZ0enHyIRuYoy7knaQSbEa?dl=0) - For use with the Filastruder Kit. A good, simple base config to work from.
  * [Kraegars config](https://github.com/railcore/configs/tree/master/unmaintained/Kraegars/300ZL) - The original basic config aimed at self-sourcers. Can be a useful starting point for those that want to engineer everything themselves and keep all their Duet settings in a single file.
  * [Project R3D config](https://github.com/railcore/configs/tree/master/unmaintained/ProjectR3D/300ZL) - A slightly modified version of Kraegars config, for people that have purchased a Project R3D kit.
- * [RailCore Community Config](https://github.com/railcore/configs/) - Originally based on Kraegars Duet config.
+ * [RailCore Community Config](https://github.com/railcore/configs/) - Originally based on Kraegars Duet config. Aimed at more advanced users.RRF2
 
 ## Community based configuration information (only for more advanced users, use the Filastruder config if you are starting out with the Duet)
 
