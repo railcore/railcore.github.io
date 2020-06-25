@@ -1,4 +1,6 @@
-# BL-Touch
+---
+title: BL-Touch
+---  
 ## Function
 The ANTCLABS BL-Touch sensor has three basic parts:
 1. A moving plastic pin with a magnet on top
