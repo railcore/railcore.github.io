@@ -8,25 +8,34 @@ sidebar_sort_order: 1
 
 The Fusion360 models, Assembly Guide and BOM are the official, master copies maintained by Tony Akens. Thingiverse project is also maintained by Tony Akens.
 
-#### Guides
+### Guides
  * [RailCore Dozuki Build Guide](https://railcore.dozuki.com/c/RailCore_II) -  now the recommended method to build a RailCore kit. If you spot problems or want to assist in tidying up the new guide, join the Documentation Channel on Discord.
  * Older Google Doc guides: (Kept for reference)  
    * [RailCore II 300ZL/ZLT Assembly Guide - Filastruder](https://railcore.page.link/fskit) 
    * [RailCore II 300ZL/ZLT Assembly Guide - (Original Self Sourcer version)](https://railcore.page.link/guide)
    
- #### Materials & BOM
+### Materials & BOM
 This information is aimed primarily at self-sourcers. Naturally it is of use to kit builders too.
    * [Hardware Components](./hardware_components.md)
    * [RailCore II 300ZL Bill Of Materials](https://railcore.page.link/zlbom)
    * [RailCore II 300ZLT Bill Of Materials](https://railcore.page.link/zltbom)
    * [RailCore II 300ZL/ZLT Thingiverse Project(all printable parts)](https://www.thingiverse.com/thing:2407174)
+   * [Github parts repository](https://github.com/railcore/parts) - this is a secondary repository: **treat the Thingiverse project as "the Source of Truth" for the RailCore build**
    
- #### Fusion 360 Models
+### Fusion 360 Models
    * [RailCore II 300ZL Fusion360 Model](https://railcore.page.link/zlmodel)
    * [RailCore II 300ZLT Fusion360 Model](https://railcore.page.link/zltmodel)
    
-## RailCore II kits and products
+### Further Sourcing
+* [Useful tools](./usefultools.md)
+* [Recommended priority of Aluminium Parts](./recommended_priority_of_aluminium_parts.md)
 
+#### Recommended Additional 3D Printed Parts
+ * [Cooling Shroud by James Tongue](https://www.thingiverse.com/thing:3367622)
+   * [Remix with supports already included](https://github.com/railcore/parts/blob/master/Other%20Printed%20Parts/Cooling%20Shroud/Duct_Printed_Carriage_Supports.stl) - this version prints very well as-is with no additional supports
+   * [Remix oriented for easier printing setup](https://www.thingiverse.com/thing:3461781) - will need sliced with additional supports on most printers
+   
+## RailCore II kits and products
 While RailCore II is an open-source project, there are various companies that deal with RailCore II kits and parts.
 
 * [Printed Solid](https://printedsolid.com/) - RailCore Kits and Parts, USA based.
