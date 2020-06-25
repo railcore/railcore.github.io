@@ -1,4 +1,6 @@
-# Level and Map the print bed
+---
+title: Level and Map the print bed
+---   
 
 The RailCore has two means of achieving a first layer that is edge-to-edge flat, smooth as glass, and repeatable: **Bed Leveling**, and the **Mesh** surface correction.
 
