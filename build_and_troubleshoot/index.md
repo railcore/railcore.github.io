@@ -7,14 +7,10 @@ sidebar_sort_order: 2
 ## Building
  * [RailCore Dozuki Build Guide](https://railcore.dozuki.com/c/RailCore_II) -  now the recommended method to build a RailCore kit. If you spot problems or want to assist in tidying up the new guide, join the Documentation Channel on Discord.
  * [Build FAQ](build_faq.md)
- 
-### Further Sourcing
-* [Useful tools](./usefultools.md)
-* [Recommended priority of Aluminium Parts](./recommended_priority_of_aluminium_parts.md)
-* Recommended Additional 3D Printed Parts
-  * [Cooling Shroud by James Tongue](https://www.thingiverse.com/thing:3367622)
-    * [Remix with supports already included](https://github.com/railcore/parts/blob/master/Other%20Printed%20Parts/Cooling%20Shroud/Duct_Printed_Carriage_Supports.stl) - this version prints very well as-is with no additional supports
-    * [Remix oriented for easier printing setup](https://www.thingiverse.com/thing:3461781) - will need sliced with additional supports on most printers
+ * [Build videos](./build_videos.md) - collected works by the community.
+ * [JohnOCFII RailCore II 300ZL Build Gallery](https://imgur.com/a/edVEg4K) - a rather old self-source, but plenty of images so may still be useful!
+  
+The following information is provided as extra information to assist with build and configuration.
 
 ## Motion Components
 * [Lubrication](./lubrication.md)
@@ -36,33 +32,3 @@ sidebar_sort_order: 2
 * [Installing the config and customizing for your machine](./installing_and_customizing_config.md)
 * [Perform a Motion Test](./motion_test.md) to ensure that your machine is wired correctly and configured like you hope it is.
 * [Perform a Heater Test (Duet wiki)](https://duet3d.dozuki.com/Wiki/Tuning_the_heater_temperature_control)
-
-## Hardware Information
-* [STL/DXF files](https://github.com/railcore/parts)
-
-## Further help
-### Entire Build videos
-* Bengadget
-  * [Part 1](https://www.youtube.com/watch?v=Ghtefw_6oyc)
-  * [Part 2](https://www.youtube.com/watch?v=oz7WfpGCz1Y)
-  * [Part 3](https://www.youtube.com/watch?v=B_3ZVqZVEl0)
-  * [Part 4](https://www.youtube.com/watch?v=1Mvz7LZ5GGg)
-  * [Part 5](https://www.youtube.com/watch?v=-rhgRnJ0iwk)
-* [stwerks timelapse](https://www.youtube.com/watch?v=kIuY_h2I_4Q)
-* Greybeard
-   * [unboxing](https://www.youtube.com/watch?v=HUBBb8WHJRM)
-   * [z axis build](https://www.youtube.com/watch?v=kFqO3lkFea4) 
-   * [live build part 1](https://www.youtube.com/watch?v=rK_BJqYiGoo)
-   * [live build part 2](https://www.youtube.com/watch?v=pu2B-M_c6VU)
-   * [live build part 3](https://www.youtube.com/watch?v=Udko3NbFcCc)
-   * [build part 3](https://www.youtube.com/watch?v=835s0i_wojY)
-   * [bed and electronics](https://www.youtube.com/watch?v=z696rsbmims)
-   * [test and configuration](https://www.youtube.com/watch?v=DXMKiwsfHcM)
-   * [rebuild zylech rails](https://www.youtube.com/watch?v=EGD0oWCHK00)
- * Chris's Basement
-   * [PrintedSolid - Railcore - ProjectR3D - Part 1 Of Many - Chris's Basement](https://www.youtube.com/watch?v=YO-rBDPIUYg)
-   * [PrintedSolid - Railcore - ProjectR3D - Part 2 Of Many - Chris's Basement](https://www.youtube.com/watch?v=T9lPmv_-RhI)
-   * [PrintedSolid - Railcore - ProjectR3D - Part 3 Of Many - Chris's Basement](https://www.youtube.com/watch?v=-aE3d40gows) *still in progress*
- 
- ### Galleries
- * [JohnOCFII RailCore II 300ZL Build Gallery](https://imgur.com/a/edVEg4K)     
