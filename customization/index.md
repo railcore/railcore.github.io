@@ -3,19 +3,12 @@ title: Customization
 layout: category
 sidebar_sort_order: 4
 ---
-
-## Duet optimization
-
-  * Large clusters on MicroSD - For best performance, the card should be formatted with the cluster size as large as possible. On smaller capacity cards this is achieved using FAT16 format, but that is not an option on larger capacity cards." "For 4Gb and under cards, use FAT16 format. FAT16 provides an additional performance boost over FAT32." [dc42](https://forum.duet3d.com/topic/3569/completely-replace-sd-card-duet-ethernet/9)
-  * [Optimized homing](./optimized_homing.md)
-
 ## Software Customizations
-
   * [Switchless X/Y Homing with Duet](./duet_switchless_homing.md)
   * [Tool Offset Z configuration](./tool_offset_z_configuration.md)
   * [Telegram bot for controlling and receiving notifications from a Duet electronics board](https://github.com/martinj/duet-telegram)
 
-## Hardware optimisations
+## Hardware optimizations
   * [Setting Probe offsets for the RailCoreII](https://www.youtube.com/watch?v=bGOpKtG6eWc) 
   * [Configure the offsets for Z-Leveling](https://www.youtube.com/watch?v=qeFGLb8Gf6U)
 
@@ -32,6 +25,9 @@ sidebar_sort_order: 4
   See also the [Community Modifications and Parts on Thingiverse](https://www.thingiverse.com/railcore/collections/300zl-zlt) You'll find various combinations of mounts for hot-ends, extruders and probes (on aluminium mounts or printed)
 
 ### Videos
-
   * [RailCore II Halo Install](https://www.youtube.com/watch?v=9udGI_555m0)
   * [How to configure the offsets for Z-Leveling](https://www.youtube.com/watch?v=qeFGLb8Gf6U)
+
+## Duet optimization
+  * Large clusters on MicroSD - For best performance, the card should be formatted with the cluster size as large as possible. On smaller capacity cards this is achieved using FAT16 format, but that is not an option on larger capacity cards." "For 4Gb and under cards, use FAT16 format. FAT16 provides an additional performance boost over FAT32." [dc42](https://forum.duet3d.com/topic/3569/completely-replace-sd-card-duet-ethernet/9)
+  * [Optimized homing](./optimized_homing.md)
