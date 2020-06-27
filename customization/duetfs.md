@@ -17,7 +17,7 @@ Source: [dc42](https://forum.duet3d.com/topic/3569/completely-replace-sd-card-du
 
 ### Use of SD-Formatter to format the large clusters
 
-Using https://www.sdcard.org/downloads/formatter_4/  is a good tool to use, because it will determine the best way to format your card based on what your card is.
+Using https://www.sdcard.org/downloads/formatter/  is a good tool to use, because it will determine the best way to format your card based on what your card is.
 
 > statistics: Max block time uSD
 > 
