@@ -35,4 +35,5 @@ Source: https://forum.duet3d.com/post/62959
 ### Try a Class 4 card if you have one.
 
 > Class 10 cards will often perform poorly. Some brands of Class 4 cards (e.g. Sandisk) perform much better. The reason is that the speed you get when uploading a large file is dominated by how fast the card handles non-sequential writes when updating the FAT, and Class 10 cards typically handle these about 1000 times slower than they handle sequential writes. See [forum.xda-developers.com] for some measurements.
+
 Source: [dc42](https://reprap.org/forum/read.php?340,557845,557845#msg-557845)
