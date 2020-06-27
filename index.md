@@ -7,7 +7,6 @@ RailCore II is a [Core-XY based Reprap 3D printer](https://reprap.org/wiki/CoreX
 |-------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------|--------------------------------------------------------------------------|
 | [![RailCore II photo](images/railcore_front_preview.jpg)](images/railcore_front_full.jpg) | [![RailCore II photo](images/railcore_diag_preview.jpg)](images/railcore_diag_full.jpg) | [![RailCore II photo](images/parts_preview.jpg)](images/parts_full.jpg) | [![Prints](images/railcore_prints.jpg)](https://imgur.com/a/QNLli) |
 
-
 ## Table of RailCore II ZL Versions
 
 |                   | RailCore II ZL                                                                                              | RailCore II 300ZL                                                                                                                                                                                                        | RailCore II 300ZLT                                                                                                                                                                                                       |
@@ -19,17 +18,6 @@ RailCore II is a [Core-XY based Reprap 3D printer](https://reprap.org/wiki/CoreX
 | Bill of Materials | [BOM](https://docs.google.com/spreadsheets/d/1QZgV6a6Gk4xR9WxrK2C4QYaPQTXA8t7dFDyHO74-oSY/edit?usp=sharing) | [BOM](https://docs.google.com/spreadsheets/d/1Eib0IkmRiP-zVM2p6gZ9PJ2bsDDvSKWbGtUybuFWfcs/edit?usp=sharing)                                                                                                              | [BOM](https://docs.google.com/spreadsheets/d/1L8mOABLsbfHb1PVPEnT-TpgfRpO25UduGNxD8GNMPSs/edit?usp=sharing)                                                                                                              |
 | Assembly Guide    | [Guide](https://docs.google.com/document/d/1OoXfw7aXMz0NzAxkdwuChC0FpunLRyKI02_1vJF52hk/edit?usp=sharing)   | [Guide](https://docs.google.com/document/d/19FuTYfwqgOkGO8SUScnSuhS_Gx8mJMmXLiPgBfGeJ-s/edit?usp=sharing) [Kit wiring](https://docs.google.com/document/d/1aIc6x7Vzb-bH8-pILNBV1cXyp3JWsIa50Y6eSjMmCgM/edit?usp=sharing) | [Guide](https://docs.google.com/document/d/19FuTYfwqgOkGO8SUScnSuhS_Gx8mJMmXLiPgBfGeJ-s/edit?usp=sharing) [Kit wiring](https://docs.google.com/document/d/1aIc6x7Vzb-bH8-pILNBV1cXyp3JWsIa50Y6eSjMmCgM/edit?usp=sharing) |
 | Outer dimensions  |                                                                                                             |                                                                                                                                                                                                                          |                                                                                                                                                                                                                          |
-
-|All models        | Typical specifications, these may vary by kit and self-source.                      |
-|------------------|------------------------------------------------------------------------------------|
-|Motion system     | CoreXY with linear rails and lead screws, capable of moving 200-400mm/s            |
-|Bed specifications| 6.35mm MIC6 cast aluminium tool plate with Keenovo silicone bed heater             |
-|Electronics       | Duet2 + Duex or Duet3 recommended                                                  |
-|Probe             | BL-Touch,IR probe or Piezo are common.                                             |
-|Z step            | Typically 0.01mm, but dependent on leadscrews and Z steppers. 0.0025mm is possible |
-|Steppers          | 0.9 degree on XY. 0.9 or 1.8 degree on Z                                           |
-|Parts materials   | Printed and machined aluminium parts are available                                 |
-|Materials         | PLA, ABS, PETG, TPU, TPE, PP, HIPS, Ninjaflex, Laywood, Laybrick, Nylon, Bamboofill, Bronzefill, ASA, T-Glase, Carbon-fiber filaments, Polycarbonate, and more. |
 
 ## RailCore II Community Resources
 
@@ -44,6 +32,19 @@ RailCore II is a [Core-XY based Reprap 3D printer](https://reprap.org/wiki/CoreX
    
 Read all about the [design history](design_history.md) of the RailCore II and how it came to be.
 More questions? Have a look at the [General FAQ](/faq.md)
+
+## General specifications
+
+|All models        | Typical specifications, these may vary by kit and self-source.                      |
+|------------------|------------------------------------------------------------------------------------|
+|Motion system     | CoreXY with linear rails and lead screws, capable of moving 200-400mm/s            |
+|Bed specifications| 6.35mm MIC6 cast aluminium tool plate with Keenovo silicone bed heater             |
+|Electronics       | Duet2 + Duex or Duet3 recommended                                                  |
+|Probe             | BL-Touch,IR probe or Piezo are common.                                             |
+|Z step            | Typically 0.01mm, but dependent on leadscrews and Z steppers. 0.0025mm is possible |
+|Steppers          | 0.9 degree on XY. 0.9 or 1.8 degree on Z                                           |
+|Parts materials   | Printed and machined aluminium parts are available                                 |
+|Materials         | PLA, ABS, PETG, TPU, TPE, PP, HIPS, Ninjaflex, Laywood, Laybrick, Nylon, Bamboofill, Bronzefill, ASA, T-Glase, Carbon-fiber filaments, Polycarbonate, and more. |
 
 ## Support
 
