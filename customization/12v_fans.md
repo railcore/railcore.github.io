@@ -44,37 +44,48 @@ The Duex brings out pin `PB6` on the GPIO header for Fan RPM monitoring.  Unfort
 
 On RRF2, it's useful only as a displayed value, and probably not worth the effort to connect.
 
-# 4-Wire Fans
-In a 2-wire or 3-wire fan, the Duet is pulsing power to the fan, effectively the same as adjusting voltage downward to run slower.  Small pulses of power cause the fan to turn slowly, while full-time power turns at maximum speed.  The Duex pulses power 250 times a second on its PWM Ports.  If there is a third wire, it is to report the speed back to the controller for RPM display, but it doesn't control anything.
+# 2 & 3-Wire Fan speed control
+In a 2-wire or 3-wire PWM fan, the Duet is interrupting power to the fan to adjust its speed.  Small pulses of power cause the fan to turn slowly, while full-time power turns at maximum speed.  The Duex pulses power 250 times a second on its PWM Fan Ports.  If the fan has a third wire, it is to report the speed back to the controller for RPM display, but it doesn't control anything.
 
-"Four-wire" fans borrowed from the Personal Computer space can operate differently than 2-Wire (Power-only) or 3-Wire (Power & RPM reporting).  Unfortunately, the specific wire colors are not standardized, but usually:
+# 4-Wire Fans
+"Four-wire" fans borrowed from the Personal Computer market can operate differently than 2-Wire (Power-only) or 3-Wire (Power & RPM reporting).  
+
+The fourth "Control PWM" wire allows the supply voltage to be constant (always on), while this new PWM logic signal to the fan tells it how fast to run.  This can result in a fan with more-reliable low-speed operation, precise and predictable speed control, and less audible humming since the power is not being interrupted or pulsed.  Since the control board does not have to modulate power, higher-power fans can be used without any load on the PWM line.
+
+Since 4-wire fans usually default to "always on", most can also be used as 2-wire or 3-wire fans just fine, but it's better to operate them correctly.
+
+The specific wire colors are not standardized, but the pinout is typically:
 
 1. Ground (Black or Gray)
 2. +12V Power (Red or Yellow) 
 3. Sense, Tachometer (Yellow or Green)
 4. Control PWM (Blue)
 
-The fourth "Control PWM" wire allows the 12 Power to be constant (always on), while this new PWM signal to the fan tells it how fast to run.  This can result in a fan with more-certain low-speed operation, precise and predictable speed control, and less audible humming since the power is not being interrupted.  Since 4-wire fans usually default to "always on", they can be rewired as 2-wire or 3-wire fans just fine, but it's better to operate them correctly.
-
-CoolerMmaster has a [nice fan pinout](https://landing.coolermaster.com/faq/3-pin-and-4-pin-fan-wire-diagrams/) summary with their typical wire colors.
-
-## Power for 4-Wire Fans
-
-This is easy.  The 4-wire fan wants constant power at all times, even when not operating.  Simply connect the Ground and +12V to a fixed 12v supply.  The Duex has a 2-pin 12v power connector right above the Enable jumper shown above.  Use this to power your fans, or any other 12v supply.
+CoolerMmaster has a [nice fan pinout](https://landing.coolermaster.com/faq/3-pin-and-4-pin-fan-wire-diagrams/) summary with their own typical wire colors.
 
 ## Ground for 4-Wire Fans
 
-Unlike the 3-wire PWM fans, these fans need constant fixed ground, from the power connector.  Do Not Use a `PWM Fan` port for power and ground!
+Unlike the 3-wire PWM fans, these fans need constant fixed ground, from the power connector.  **Do Not Use a `PWM Fan` port for power and ground!** Those are not constant ground.
+
+## Power for 4-Wire Fans
+
+This is easy.  The 4-wire fan gets constant power at all times, even when not operating.  Simply connect the +12V to any fixed 12v supply.  The Duex has a 2-pin 12v power connector right above the Enable jumper shown above.  (This one has an connector up-side-down from most.) You can use this to power your fans, or any other 12v supply, regardless of the other `V_FAN` voltages. You could also use a fixed "always-on" `FAN` port, if the voltage matches your fan.
 
 ## Control RPM for 4-Wire fans
 
-The control signal for fan speed must be 25,000 Hz, which sadly excludes the slower (250 Hz) PWM ports on the Duex.  The three Duet2 PWM Fan Ports will do just fine here.  (`FAN0`, `FAN1`, `FAN2`).  You could even set your Duex to 24v `V_FAN` and move some existing hotend or part-fans to the Duex to free up these valuable high-speed PWM ports, depending on your needs.
+The control signal for fan speed should be 25,000 Hz, which sadly excludes the slower (250 Hz) PWM ports on the Duex.  The three Duet2 PWM Fan Ports will do just fine here.  (`FAN0`, `FAN1`, `FAN2`).  You could even set your Duex to 24v `V_FAN` and move some existing hotend or part-fans from Duet to Duex to free up these valuable high-speed PWM ports, depending on your needs.
 
-### PWM FAN ground as Speed control
+### PWM FAN "ground" as Speed control
 
-When used with a 4-wire Fan, we only need the **Ground** pin of the PWM Fan port to control the speed.  Remember that the power for your fan comes from elsewhere, and this is now just a PWM signal to set the speed.  This special wiring is what distinguishes the 4-Wire fan from the 3-wire one, so ensure it is done correctly.  We want just the one ground wire from `FAN2`, for example.  Ignore the V_FAN line and leave it unconnected, since it can be any voltage unrelated to the new fan.
+This is a little bit counterintuitive, but when used with a 4-wire Fan, we only need the **Ground** pin of the PWM Fan port to control the speed.  Remember that the power for your fan comes from elsewhere, and this is now just a PWM signal to set the speed.  This special wiring is what distinguishes the 4-Wire fan from the 3-wire one, so ensure it is done correctly.  We want just the one ground wire from `FAN2`, for example.  Ignore the V_FAN pin on `FAN2` and leave it unconnected, since it can be any voltage unrelated to the new fan.
 
-To indicate to RRF that this fan is a 4-wire control, the PWM signal must be Inverted using the `I1` paramter on setup.
+## RRF2 Configuration
+
+The 4-Wire fans should have an `F25000` parameter to turn up the PWM rate for speed control.  To use the Fan ground signal as a 4-wire control, the PWM signal must be Inverted as well, using the `I1` paramter on setup:
+
+```M106 P2 I1 F25000 H-1 L0.20 S1.00 I1 C"Top"		; FAN2 Enclosure(Duet)```
+
+Most 4-wire fans have a minimum operating pulse width, below which they do not spin.  This is set with the `L` parameter above, to 20% in this example.  This causes the fan to spin for even 1% usage.  Of course, the fan can also be under thermostatic control by use of the `H` heater selection and `T` temperature setpoints.
 
 ## Optional tachometer sense line
 
@@ -84,7 +95,7 @@ Like the 3-wire fans, there is a pulsed output from the fan to report back to th
 ## Complete wiring:
 In review, the four-wire fan will be wired:
 1. Ground to any ground
-2. Power to 12v power
+2. Power to constant 12v power
 3. Control PWM to the Ground pin of a FAN port
 4. (Optional) Fan rotation speed reporting via diode to `PB6`
 
