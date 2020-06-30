@@ -61,7 +61,7 @@ The specific wire colors are not standardized, but the pinout is typically:
 3. Sense, Tachometer (Yellow or Green)
 4. Control PWM (Blue)
 
-CoolerMmaster has a [nice fan pinout](https://landing.coolermaster.com/faq/3-pin-and-4-pin-fan-wire-diagrams/) summary with their own typical wire colors.
+CoolerMaster has a [nice fan pinout](https://landing.coolermaster.com/faq/3-pin-and-4-pin-fan-wire-diagrams/) chart with their own typical wire colors.
 
 ## Ground for 4-Wire Fans
 
@@ -81,7 +81,7 @@ This is a little bit counterintuitive, but when used with a 4-wire Fan, we only 
 
 ## RRF2 Configuration
 
-The 4-Wire fans should have an `F25000` parameter to turn up the PWM rate for speed control.  To use the Fan ground signal as a 4-wire control, the PWM signal must be Inverted as well, using the `I1` paramter on setup:
+The 4-Wire fans should have an `F25000` parameter to turn up the PWM rate for speed control.  To use the Fan ground signal as a 4-wire control, the PWM signal must be Inverted as well, using the `I1` parameter on setup:
 
 ```M106 P2 I1 F25000 H-1 L0.20 S1.00 I1 C"Top"		; FAN2 Enclosure(Duet)```
 
