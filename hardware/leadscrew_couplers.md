@@ -24,6 +24,8 @@ These Couplers are a common basic coupler. In testing they were louder than the 
 
 #### 4. Disc Coupler
 
+![Disc coupler](images/disc_coupler.png)
+
 Can produce good prints similar to the pigid couplers, but not enough to be worth the cost
 
 #### 5. Solid Coupler
