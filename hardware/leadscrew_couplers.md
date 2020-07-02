@@ -5,7 +5,7 @@ title: Leadscrew Couplers
 There are several options for leadscrew couplers, listed in order of preference.  This is opinion, feel free to test and evaluate yourself.
 
 #### 0. Rigid coupler
-![Joint Coupler](images/rigid_coupler.jpg)
+![Rigid Coupler](images/rigid_coupler.jpg)
 
 These couplers are made of two separate pieces of aluminum and a center plastic joint. They center the leadscrew & stepper better than the solid couplers, and are very quiet. When carefully aligned they can produce less Z artifacts than either the rigid or spring couplers, however rigid are not included in kits and are not recommended unless you are exacting in your alignment.
 
