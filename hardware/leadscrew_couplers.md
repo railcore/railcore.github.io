@@ -12,7 +12,7 @@ These couplers are made of two separate pieces of aluminum and a center plastic 
 #### 2. Rigid coupler
 ![Rigid Coupler](images/rigid_coupler.png)
 
-When carefully aligned, rigid couplers can produce less Z artifacts than either the spider or spring couplers. However rigid are not included in kits, as they are not recommended unless you are exacting in your alignment. Incorrect alignment will result in worse results than joint/spider/plum couplers.
+When carefully aligned and straight screws, rigid couplers can produce less Z artifacts than either the spider or spring couplers. However rigid are not included in kits, as they are not recommended unless you are exacting in your alignment. Incorrect alignment will result in worse results than joint/spider/plum couplers.
 
 #### 3. Disc Coupler
 ![Disc coupler](images/disc_coupler.png)
