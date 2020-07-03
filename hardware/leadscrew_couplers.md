@@ -22,7 +22,7 @@ These can produce good prints similar to the rigid couplers, but are very expens
 #### 4. Spring Coupler
 ![Spring Coupler](images/spring_coupler.jpg)
 
-These couplers are a common basic coupler. In testing they were louder than the others, and added Z-artifacts / banding.
+These couplers are a common basic coupler. In testing they were louder than the others, and added Z-artifacts / banding. Not recommended.
 
 #### 5. Solid Coupler
 ![Solid Coupler](images/solid_coupler.jpg)
