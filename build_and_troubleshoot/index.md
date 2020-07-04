@@ -11,11 +11,7 @@ sidebar_sort_order: 2
  * [JohnOCFII RailCore II 300ZL Build Gallery](https://imgur.com/a/edVEg4K) - a rather old self-source, but plenty of images so may still be useful!
  * The [#help channel on Discord](https://discord.gg/GJjGjNu) is also a great resource during a build. Remember to be precise and informative about your problem and understand that all assistance is voluntary and community based.
 
-{::nomarkdown}
-<iframe src="https://discordapp.com/widget?id=546187906033909790&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0"></iframe>
-{:/}  
-  
-The following information is provided as extra information to assist with build and configuration.
+The following information is provided as extra information to the Dozuki documentation to assist with build and configuration.
 
 ## Motion Components
 * [Lubrication](./lubrication.md)
