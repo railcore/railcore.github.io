@@ -5,12 +5,11 @@ sidebar_sort_order: 2
 ---
 
 ## Building
- * [RailCore Dozuki Build Guide](https://railcore.dozuki.com/c/RailCore_II) -  now the recommended method to build a RailCore kit. If you spot problems or want to assist in tidying up the new guide, join the #documentation Channel on Discord.
+ * [RailCore Dozuki Build Guide](https://railcore.dozuki.com/c/RailCore_II) -  now the recommended method to build a RailCore kit. If you spot problems or want to assist in tidying up the new guide, join the [#documentation Channel on Discord.](https://discord.gg/ZgYaFPY)
  * [Build FAQ](build_faq.md)
  * [Build videos](./build_videos.md) - collected works by the community.
  * [JohnOCFII RailCore II 300ZL Build Gallery](https://imgur.com/a/edVEg4K) - a rather old self-source, but plenty of images so may still be useful!
-
-*The #help channel on Discord is also a great resource during a build. Remember to be precise and informative about your problem and understand that all assistance is voluntary and community based.*
+ * The [#help channel on Discord](https://discord.gg/GJjGjNu) is also a great resource during a build. Remember to be precise and informative about your problem and understand that all assistance is voluntary and community based.
 
 {::nomarkdown}
 <iframe src="https://discordapp.com/widget?id=546187906033909790&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0"></iframe>
