@@ -28,7 +28,7 @@ The following information is provided as extra information to the Dozuki documen
 * [Connecting an external antenna to DuetWifi](./connecting_external_antenna.md)
 * [BL-Touch bed probe](./bl_touch.md)
 * [Railcore Bed Heater and Thermistor installation](https://www.youtube.com/watch?v=g_x9JUW02aA)
-* [Where to get help for the Duet][./duet.md]
+* [Where to get help for the Duet](./duet.md)
 
 ## Software Configuration and Verification
 * [Installing the config and customizing for your machine](./installing_and_customizing_config.md)
