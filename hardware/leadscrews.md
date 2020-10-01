@@ -5,8 +5,6 @@ TR8*4 Acme Leadscrews are the standard for Railcore. Combined with a 0.9 stepper
 
 TR8*2 leadscrews can be substituted, and are available from www.zyltech.com - they also offer delrin anti-backlash nuts.  (Note, the yokes use a 16mm spacing, be sure to get the correct leadscrew nuts)  These leadscrews have so far been of higher tolerances and straighter than most sources of TR8*4.  If using TR8*2 leadscrews with 0.9 steppers you get a 0.005 full step.  You'll need to change your steps/mm for your Z axis, and it may possibly limit your Z travel speeds.  Use the table below to validate your stepper / leadscrew config, and your settings for steps/mm in config.g
 
-The kits combine a TR8*2 leadscrew with a 1.8 stepper, giving the same step height and steps/mm as the default in the BOM
-
 |           | Full Steps (minimum Z layer height increment) |                |
 |-----------|-----------------------------------------------|----------------|
 |           | **0.9 Degree**                                | **1.8 Degree** |
