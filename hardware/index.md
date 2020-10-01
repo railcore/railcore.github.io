@@ -17,8 +17,7 @@ The Fusion360 models, Assembly Guide and BOM are the official, master copies mai
 ### Materials & BOM
 This information is aimed primarily at self-sourcers. Naturally it is of use to kit builders too.
    * [Hardware Components](./hardware_components.md)
-   * [RailCore II 300ZL Bill Of Materials](https://railcore.page.link/zlbom)
-   * [RailCore II 300ZLT Bill Of Materials](https://railcore.page.link/zltbom)
+   * [RailCore II 300ZL/ZLT Bill Of Materials](https://docs.google.com/spreadsheets/d/1sxKl6h23SXfuNM7hNiX35rIrpISw8AruEEcNl2Fvibk/edit?usp=sharing)
    * [Github parts repository](https://github.com/railcore/parts)  
    * [RailCore II 300ZL/ZLT Thingiverse Project(all printable parts)](https://www.thingiverse.com/thing:2407174) - this is a secondary repository: **treat the GitHub project as "the Source of Truth" for the RailCore build**
    
