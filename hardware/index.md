@@ -19,8 +19,8 @@ This information is aimed primarily at self-sourcers. Naturally it is of use to 
    * [Hardware Components](./hardware_components.md)
    * [RailCore II 300ZL Bill Of Materials](https://railcore.page.link/zlbom)
    * [RailCore II 300ZLT Bill Of Materials](https://railcore.page.link/zltbom)
-   * [RailCore II 300ZL/ZLT Thingiverse Project(all printable parts)](https://www.thingiverse.com/thing:2407174)
-   * [Github parts repository](https://github.com/railcore/parts) - this is a secondary repository: **treat the Thingiverse project as "the Source of Truth" for the RailCore build**
+   * [Github parts repository](https://github.com/railcore/parts)  
+   * [RailCore II 300ZL/ZLT Thingiverse Project(all printable parts)](https://www.thingiverse.com/thing:2407174) - this is a secondary repository: **treat the GitHub project as "the Source of Truth" for the RailCore build**
    
 ### Fusion 360 Models
    * [RailCore II 300ZL Fusion360 Model](https://railcore.page.link/zlmodel)
