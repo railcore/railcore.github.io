@@ -6,6 +6,8 @@ Various Linear rails have been tested
  * Chinese Rails (various sources)
  * Genuine Hiwin Rails
  * Zyltech Linear Rails
+ * Genuine Misumi Rails
+ * LDO Linear Rails
 
 You can rebuild your Chinese linear rails, [following the guide here](https://forum.seemecnc.com/forum/viewtopic.php?f=47&t=12429)
 
