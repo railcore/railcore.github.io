@@ -49,4 +49,4 @@ More questions? Have a look at the [General FAQ](/faq.md)
 ## Support
 
 *A special thanks to [Filastruder](https://www.filastruder.com/), [Duet3d](https://www.duet3d.com/), [E3D](https://e3d-online.com/), [SeeMeCNC](https://www.seemecnc.com/), [Mandala Rose Works](http://www.mandalaroseworks.com/product/railcore), [713 Maker](https://713maker.com/railcore) and [Project R3D](https://www.projectr3d.com/) for supporting the project.*
-[*You can support this project as a patron or give a one-time donation*](https://www.kraegar.com/railcoreii) or assist with documentation via our [Contributing page](/contributing/).
+*You can support this project by assisting with documentation via our [Contributing page](/contributing/).*
