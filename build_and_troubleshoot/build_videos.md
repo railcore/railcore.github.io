@@ -29,6 +29,14 @@ title: Build videos
    * [test and configuration](https://www.youtube.com/watch?v=DXMKiwsfHcM)
    * [rebuild zylech rails](https://www.youtube.com/watch?v=EGD0oWCHK00)
  * Chris's Basement
-   * [PrintedSolid - Railcore - ProjectR3D - Part 1 Of Many - Chris's Basement](https://www.youtube.com/watch?v=YO-rBDPIUYg)
-   * [PrintedSolid - Railcore - ProjectR3D - Part 2 Of Many - Chris's Basement](https://www.youtube.com/watch?v=T9lPmv_-RhI)
-   * [PrintedSolid - Railcore - ProjectR3D - Part 3 Of Many - Chris's Basement](https://www.youtube.com/watch?v=-aE3d40gows) *still in progress*
+   * [PrintedSolid - Railcore - ProjectR3D - Part 1 Of 7 - Chris's Basement](https://www.youtube.com/watch?v=YO-rBDPIUYg)
+   * [PrintedSolid - Railcore - ProjectR3D - Part 2 Of 7 - Chris's Basement](https://www.youtube.com/watch?v=T9lPmv_-RhI)
+   * [PrintedSolid - Railcore - ProjectR3D - Part 3 Of 7 - Chris's Basement](https://www.youtube.com/watch?v=-aE3d40gows) 
+   * [PrintedSolid - Railcore - ProjectR3D - Part 4 Of 7 - Chris's Basement](https://youtu.be/Jri0HigoJC0) 
+   * [PrintedSolid - Railcore - ProjectR3D - Part 5 Of 7 - Chris's Basement](https://youtu.be/5hzGMiXhL6Q) 
+   * [PrintedSolid - Railcore - ProjectR3D - Part 6 Of 7 - Chris's Basement](https://youtu.be/0VsyJLxns-0) 
+   * [PrintedSolid - Railcore - ProjectR3D - Part 7 Of 7 - Chris's Basement](https://youtu.be/0mfu-o4JG28)
+ * KnineDHP
+   * [KnineDHP Railcore Build Part 1](https://youtu.be/tcnUh3-DgP8)
+   * [KnineDHP Railcore Build Part 2](https://www.youtube.com/watch?v=r_5sj3mrVSY)
+   * [KnineDHP Railcore Build Part 3](https://www.youtube.com/watch?v=5fIiC_JBw58)
