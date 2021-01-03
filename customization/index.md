@@ -3,6 +3,11 @@ title: Customization
 layout: category
 sidebar_sort_order: 4
 ---
+## Toolchanger (Alpha WIP)
+  * [Project Summary and Goals](./tc_project_summary.md)
+  * [Sourcing](./tc_sourcing.md)
+  * [Building](./tc_project_summary.md)
+
 ## Software Customizations
   * [Switchless X/Y Homing with Duet](./duet_switchless_homing.md)
   * [Tool Offset Z configuration](./tool_offset_z_configuration.md)
