@@ -28,10 +28,10 @@ sidebar_sort_order: 4
   * [Adding more Thermistors](./thermistors.md) - Adding additional thermistor temperature monitoring
   * [Emergency Stop by satre](https://www.thingiverse.com/thing:3930313)
   * Rail Alignment
-   * [Railcore II 300 ZL X-rail Height Adjuster by satre](https://www.thingiverse.com/thing:3930258)
-   * [Railcore XRAT (X Rail Alignment Tool) by jslaker](https://www.thingiverse.com/thing:3499474)
-   * [RailCore XRAT with Captive Screw by Turtle3D](https://www.thingiverse.com/thing:3592571)
-   * [Thing ico
+    * [Railcore II 300 ZL X-rail Height Adjuster by satre](https://www.thingiverse.com/thing:3930258)
+    * [Railcore XRAT (X Rail Alignment Tool) by jslaker](https://www.thingiverse.com/thing:3499474)
+    * [RailCore XRAT with Captive Screw by Turtle3D](https://www.thingiverse.com/thing:3592571)
+    * [Thing ico
 Railcore XRAT 2.0: Absolute Overkill Edition (X Rail Alignment Tool) by jslaker](https://www.thingiverse.com/thing:4435803)
 
   See also the [Community Modifications and Parts on Thingiverse](https://www.thingiverse.com/railcore/collections/300zl-zlt) You'll find various combinations of mounts for hot-ends, extruders and probes (on aluminium mounts or printed)
