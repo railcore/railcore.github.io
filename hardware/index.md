@@ -37,9 +37,8 @@ This information is aimed primarily at self-sourcers. Naturally it is of use to 
 ## RailCore II kits and products
 While RailCore II is an open-source project, there are various companies that deal with RailCore II kits and parts.
 
-* [Printed Solid](https://printedsolid.com/) - RailCore Kits and Parts, USA based.
-* [HighTemp3D](https://www.HighTemp3D.com/) - RailCore Kits and Parts EU based.
 * [Filastruder](https://www.filastruder.com/collections/railcore) - RailCore Parts.
 * [Mandala Rose Works](http://www.mandalaroseworks.com/) - RailCore Upgrade parts and laser-cut acrylic parts.
 * [713 Maker](https://713maker.com/railcore) - Railcore Upgrade parts.
+* [HighTemp3D](https://www.HighTemp3D.com/) - RailCore Kits and Parts EU based.
 * [Merch Minion Railcore Branded Merchandise](http://kninedhp.merchminion.com/)
