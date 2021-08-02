@@ -9,7 +9,7 @@ title: Build videos
  * [Configure the offsets for Z-Leveling](https://www.youtube.com/watch?v=qeFGLb8Gf6U)
  * [RailCore II Halo Install](https://www.youtube.com/watch?v=9udGI_555m0)
  * [How to configure the offsets for Z-Leveling](https://www.youtube.com/watch?v=qeFGLb8Gf6U)
- * [Air Print Method for RailCore Belt Tension] (https://www.youtube.com/watch?v=ib19Mr9uRl8)
+ * [Air Print Method for RailCore Belt Tension](https://www.youtube.com/watch?v=ib19Mr9uRl8)
  
 
 ### Entire Build videos
