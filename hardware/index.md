@@ -39,7 +39,7 @@ The Fusion360 models, Assembly Guide and BOM are the official, master copies mai
 ### Additionals Guides and Sourcing Info
 
 * [Hardware Components](./hardware_components.md)
-* [Useful tools](./usefultools.md)
+* [Useful tools](../build_and_troubleshoot/usefultools.md)
 * [Recommended priority of Aluminium Parts](./recommended_priority_of_aluminium_parts.md)
 
 
