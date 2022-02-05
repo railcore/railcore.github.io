@@ -48,7 +48,7 @@ More questions? Have a look at the [General FAQ](/faq.md)
 
 ## Support
 
-*A special thanks to [Filastruder](https://www.filastruder.com/), [Duet3d](https://www.duet3d.com/), [E3D](https://e3d-online.com/), [SeeMeCNC](https://www.seemecnc.com/), [Mandala Rose Works](http://www.mandalaroseworks.com/product/railcore), [713 Maker](https://713maker.com/railcore) and [Project R3D](https://www.projectr3d.com/) for supporting the project.*
+*A special thanks to [Filastruder](https://www.filastruder.com/), [Duet3d](https://www.duet3d.com/), [E3D](https://e3d-online.com/), [SeeMeCNC](https://www.seemecnc.com/), [Mandala Rose Works](http://www.mandalaroseworks.com/product/railcore), and [713 Maker](https://713maker.com/railcore) for supporting the project.*
 
 RAILCORE is a registered trademark of RailCore Labs, LLC
 *You can support this project by assisting with documentation via our [Contributing page](/contributing/).*
