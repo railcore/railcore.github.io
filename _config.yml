@@ -16,12 +16,12 @@
 title: RailCore
 # email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
-  RailcoreII is a Core-XY based Reprap 3D printer designed by J. Steve White & Tony Akens.
+  Railcore is a family of Core-XY based Reprap 3D printers designed by J. Steve White, Tony Akens, and Ben Withem.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: railcorelabs
 github_username:  railcore
-
+repository: railcore/railcore.github.io
 # Build settings
 markdown: kramdown
 remote_theme: fongandrew/hydeout

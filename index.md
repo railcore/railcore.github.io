@@ -1,23 +1,24 @@
 ---
-title: RailCore® II 3D Printer
+title: RailCore® 3D Printers
 ---
-RailCore® II is a [Core-XY based Reprap 3D printer](https://reprap.org/wiki/CoreXY) designed by J. Steve White & Tony Akens under the [CC-Attribution Only license](https://creativecommons.org/licenses/by/3.0/).
+RailCore® is a family of [Core-XY based Reprap 3D printers](https://reprap.org/wiki/CoreXY) designed by J. Steve White, Tony Akens, and Ben Withem under the [CC-Attribution Only license](https://creativecommons.org/licenses/by/4.0/).
 
-| Front                                                                                                 | Side                                                                                                | Parts                                                                               | Prints                                                                   |
-|-------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------|--------------------------------------------------------------------------|
-| [![RailCore II photo](images/railcore_front_preview.jpg)](images/railcore_front_full.jpg) | [![RailCore II photo](images/railcore_diag_preview.jpg)](images/railcore_diag_full.jpg) | [![RailCore II photo](images/parts_preview.jpg)](images/parts_full.jpg) | [![Prints](images/railcore_prints.jpg)](https://imgur.com/a/QNLli) |
+|RailCore II 300ZL|RailCore II 300ZLT|RailCore Mini|
+|-|-|-|
+|<img src="images/zl-homepage.png" width="400">|<img src="images/zlt-homepage.png" width="400">|<img src="images/mini-homepage.png" width="400">|
 
-## Table of RailCore II ZL Versions
 
-|                   | RailCore II ZL                                                                                              | RailCore II 300ZL                                                                                                                                                                                                        | RailCore II 300ZLT                                                                                                                                                                                                       |
-|-------------------|-------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| X/Y Printable     | 250×250                                                                                                     | 300×300                                                                                                                                                                                                                  | 300×300                                                                                                                                                                                                                  |
-| Z Printable       | 280                                                                                                         | 330                                                                                                                                                                                                                      | 600                                                                                                                                                                                                                      |
-| ABL               | Yes                                                                                                         | Yes                                                                                                                                                                                                                      | Yes                                                                                                                                                                                                                      |
-| Fusion 360 Model  | [Model](http://a360.co/2DoeHFu)                                                                             | [Model](http://a360.co/2D5OryV)                                                                                                                                                                                          | [Model](https://a360.co/2w7PjT6)                                                                                                                                                                                         |
-| Bill of Materials | [BOM](https://docs.google.com/spreadsheets/d/1QZgV6a6Gk4xR9WxrK2C4QYaPQTXA8t7dFDyHO74-oSY/edit?usp=sharing) | [BOM](https://docs.google.com/spreadsheets/d/1sxKl6h23SXfuNM7hNiX35rIrpISw8AruEEcNl2Fvibk/edit?usp=sharing)                                                                                                              | [BOM](https://docs.google.com/spreadsheets/d/1sxKl6h23SXfuNM7hNiX35rIrpISw8AruEEcNl2Fvibk/edit?usp=sharing)                                                                                                              |
-| Assembly Guide    | [Guide](https://docs.google.com/document/d/1OoXfw7aXMz0NzAxkdwuChC0FpunLRyKI02_1vJF52hk/edit?usp=sharing)   | [Guide](https://railcore.dozuki.com/c/RailCore_II) | [Guide](https://railcore.page.link/fskit) |
-| Outer dimensions (excl.260mm for loom)  |  522mm x 445mm x 496mm                                                                | 572mm x 495mm x 546mm                                                                                                                                                                              | 572mm x 495mm x 830mm                                                                                                                                                                                |
+## Table of RailCore Versions
+
+|| RailCore II ZL|RailCore II 300ZL|RailCore II 300ZLT|RailCore Mini|
+|-|-|-|-|-|
+|X/Y Printable|250xmm250mm|250mmx250mm|300mmx300mm|150mmx150mm|
+|Z Printable|280mm|330mm|600mm|150mm|
+|ABL|Yes|Yes|Yes|Yes|
+|Source Files|[Model](http://a360.co/2DoeHFu)|[Model](http://a360.co/2D5OryV)|[Model](https://a360.co/2w7PjT6)|[Github](https://www.youtube.com/watch?v=dQw4w9WgXcQ)|
+|Bill of Materials|[BOM](https://docs.google.com/spreadsheets/d/1QZgV6a6Gk4xR9WxrK2C4QYaPQTXA8t7dFDyHO74-oSY/edit?usp=sharing)|[BOM](https://docs.google.com/spreadsheets/d/1sxKl6h23SXfuNM7hNiX35rIrpISw8AruEEcNl2Fvibk/edit?usp=sharing)| [BOM](https://docs.google.com/spreadsheets/d/1sxKl6h23SXfuNM7hNiX35rIrpISw8AruEEcNl2Fvibk/edit?usp=sharing)|[BOM](https://www.youtube.com/watch?v=dQw4w9WgXcQ)|
+|Assembly Guide|[Guide](https://docs.google.com/document/d/1OoXfw7aXMz0NzAxkdwuChC0FpunLRyKI02_1vJF52hk/edit?usp=sharing)|[Guide](https://railcore.dozuki.com/c/RailCore_II)|[Guide](https://railcore.page.link/fskit)|[Guide](https://www.youtube.com/watch?v=dQw4w9WgXcQ)|
+|Outer dimensions (excl.260mm for loom)|522mm x 445mm x 496mm|572mm x 495mm x 546mm|572mm x 495mm x 830mm| 400mm x 312mm x 470mm|
 
 ## RailCore II Community Resources
 
@@ -26,10 +27,11 @@ RailCore® II is a [Core-XY based Reprap 3D printer](https://reprap.org/wiki/Cor
 * [Software](/software) - how to configure the firmware on your RailCore II as well as your slicer.
 * [Customization](/customization) - information of variations and customization of the RailCore II.
 
-## Community discussion and support
- * [Facebook Group](https://www.facebook.com/groups/RailCore/?sorting_setting=CHRONOLOGICAL)
- * [Discord Channel](https://discord.gg/Sy569Hq)
-   
+## Community
+
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/groups/RailCore/?sorting_setting=CHRONOLOGICAL)
+[![Discord](https://img.shields.io/badge/%3CServer%3E-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/Sy569Hq)
+
 Read all about the [design history](design_history.md) of the RailCore II and how it came to be.
 More questions? Have a look at the [General FAQ](/faq.md)
 
@@ -40,9 +42,9 @@ More questions? Have a look at the [General FAQ](/faq.md)
 |Motion system     | CoreXY with linear rails and lead screws, capable of moving 200-400mm/s            |
 |Bed specifications| 6.35mm MIC6 cast aluminium tool plate with Keenovo silicone bed heater             |
 |Electronics       | Duet2 + Duex or Duet3 recommended                                                  |
-|Probe             | BL-Touch,IR probe or Piezo are common.                                             |
+|Probe             | BL-Touch, IR probe, or Piezo are common.                                           |
 |Z step            | Typically 0.01mm, but dependent on leadscrews and Z steppers. 0.0025mm is possible |
-|Steppers          | 0.9 degree on XY. 0.9 or 1.8 degree on Z                                           |
+|Steppers          | 0.9 degree on XYZ                                                                  |
 |Parts materials   | Printed and machined aluminium parts are available                                 |
 |Materials         | PLA, ABS, PETG, TPU, TPE, PP, HIPS, Ninjaflex, Laywood, Laybrick, Nylon, Bamboofill, Bronzefill, ASA, T-Glase, Carbon-fiber filaments, Polycarbonate, and more. |
 
