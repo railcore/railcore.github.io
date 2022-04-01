@@ -12,7 +12,7 @@ RailCore® is a family of [Core-XY based Reprap 3D printers](https://reprap.org/
 
 || RailCore II ZL|RailCore II 300ZL|RailCore II 300ZLT|RailCore Mini|
 |-|-|-|-|-|
-|X/Y Printable|250xmm250mm|250mmx250mm|300mmx300mm|150mmx150mm|
+|X/Y Printable|250xmm250mm|300mmx300mm|300mmx300mm|150mmx150mm|
 |Z Printable|280mm|330mm|600mm|150mm|
 |ABL|Yes|Yes|Yes|Yes|
 |Source Files|[Model](http://a360.co/2DoeHFu)|[Model](http://a360.co/2D5OryV)|[Model](https://a360.co/2w7PjT6)|[Github](https://www.youtube.com/watch?v=dQw4w9WgXcQ)|
