@@ -13,11 +13,11 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: RailCore Labs
+title: RailCore&#174 Labs
 # email: your-email@example.com
 logo: 'images/mini-logo.png'
 description: >- # this means to ignore newlines until "baseurl:"
-  Railcore is a family of Core-XY based Reprap 3D printers designed by J. Steve White, Tony Akens, and Ben Withem.
+  RailCore&#174 is a family of Core-XY based Reprap 3D printers designed by J. Steve White, Tony Akens, and Ben Withem.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: railcorelabs
