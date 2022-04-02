@@ -1,7 +1,6 @@
 ---
 title: Customization
-layout: category
-sidebar_sort_order: 4
+rank: 4
 ---
 ## Toolchanger (Alpha WIP)
   * [Project Summary and Goals](./tc_project_summary.md)

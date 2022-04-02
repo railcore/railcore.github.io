@@ -1,7 +1,6 @@
 ---
 title: Build & Troubleshoot
-layout: category
-sidebar_sort_order: 2
+rank: 2
 ---
 
 ## Building
