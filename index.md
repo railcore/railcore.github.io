@@ -15,9 +15,9 @@ RailCore® is a family of [Core-XY based Reprap 3D printers](https://reprap.org/
 |X/Y Printable|250xmm250mm|300mmx300mm|300mmx300mm|150mmx150mm|
 |Z Printable|280mm|330mm|600mm|150mm|
 |ABL|Yes|Yes|Yes|Yes|
-|Source Files|[Model](http://a360.co/2DoeHFu)|[Model](http://a360.co/2D5OryV)|[Model](https://a360.co/2w7PjT6)|[Github](https://www.youtube.com/watch?v=dQw4w9WgXcQ)|
-|Bill of Materials|[BOM](https://docs.google.com/spreadsheets/d/1QZgV6a6Gk4xR9WxrK2C4QYaPQTXA8t7dFDyHO74-oSY/edit?usp=sharing)|[BOM](https://docs.google.com/spreadsheets/d/1sxKl6h23SXfuNM7hNiX35rIrpISw8AruEEcNl2Fvibk/edit?usp=sharing)| [BOM](https://docs.google.com/spreadsheets/d/1sxKl6h23SXfuNM7hNiX35rIrpISw8AruEEcNl2Fvibk/edit?usp=sharing)|[BOM](https://www.youtube.com/watch?v=dQw4w9WgXcQ)|
-|Assembly Guide|[Guide](https://docs.google.com/document/d/1OoXfw7aXMz0NzAxkdwuChC0FpunLRyKI02_1vJF52hk/edit?usp=sharing)|[Guide](https://railcore.dozuki.com/c/RailCore_II)|[Guide](https://railcore.page.link/fskit)|[Guide](https://www.youtube.com/watch?v=dQw4w9WgXcQ)|
+|Source Files|[Model](http://a360.co/2DoeHFu)|[Model](http://a360.co/2D5OryV)|[Model](https://a360.co/2w7PjT6)|[Github](https://github.com/railcore/railcore-mini)|
+|Bill of Materials|[BOM](https://docs.google.com/spreadsheets/d/1QZgV6a6Gk4xR9WxrK2C4QYaPQTXA8t7dFDyHO74-oSY/edit?usp=sharing)|[BOM](https://docs.google.com/spreadsheets/d/1sxKl6h23SXfuNM7hNiX35rIrpISw8AruEEcNl2Fvibk/edit?usp=sharing)| [BOM](https://docs.google.com/spreadsheets/d/1sxKl6h23SXfuNM7hNiX35rIrpISw8AruEEcNl2Fvibk/edit?usp=sharing)|[BOM](https://docs.google.com/spreadsheets/d/1TM1vca-hA29apzcBjQ2FyvvZ5D19cWTZl7NxzBflSlU/edit#gid=0)|
+|Assembly Guide|[Guide](https://docs.google.com/document/d/1OoXfw7aXMz0NzAxkdwuChC0FpunLRyKI02_1vJF52hk/edit?usp=sharing)|[Guide](https://railcore.dozuki.com/c/RailCore_II)|[Guide](https://railcore.page.link/fskit)|[Guide](https://railcore.dozuki.com/c/RailCore%C2%AE_Mini_Kit)|
 |Outer dimensions (excl.260mm for loom)|522mm x 445mm x 496mm|572mm x 495mm x 546mm|572mm x 495mm x 830mm| 400mm x 312mm x 470mm|
 
 ## RailCore II Community Resources
