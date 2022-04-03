@@ -50,7 +50,7 @@ More questions? Have a look at the [General FAQ](/faq.md)
 
 ## Support
 
-*A special thanks to [Filastruder](https://www.filastruder.com/), [Duet3d](https://www.duet3d.com/), [E3D](https://e3d-online.com/), [Mandala Rose Works](http://www.mandalaroseworks.com/product/railcore), and [713 Maker](https://713maker.com/railcore), and of course our amazing community of builders, for your continued support of the project.  Thanks as well to former supporters including [SeeMeCNC](https://www.seemecnc.com/), [ProjectR3d](https://projectr3d.com), and [Printed Solid](https://printedsolid.com) for helping us along the way.*
+*A special thanks to [Filastruder](https://www.filastruder.com/), [Duet3d](https://www.duet3d.com/), [E3D](https://e3d-online.com/), [Mandala Rose Works](http://www.mandalaroseworks.com), and [713 Maker](https://713maker.com), and of course our amazing community of builders, for your continued support of the project.  Thanks as well to former supporters including [SeeMeCNC](https://www.seemecnc.com/), [ProjectR3d](https://projectr3d.com), and [Printed Solid](https://printedsolid.com) for helping us along the way.*
 
 RAILCORE is a registered trademark of RailCore Labs, LLC
 
