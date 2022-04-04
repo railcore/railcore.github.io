@@ -16,8 +16,8 @@ RailCore® is a family of [Core-XY based Reprap 3D printers](https://reprap.org/
 |Z Printable|330mm|600mm|150mm|
 |ABL|Yes|Yes|Yes|
 |Source Files|[Model](http://a360.co/2D5OryV)|[Model](https://a360.co/2w7PjT6)|[Github](https://github.com/railcore/railcore-mini)|
-|Bill of Materials|[BOM](https://docs.google.com/spreadsheets/d/1sxKl6h23SXfuNM7hNiX35rIrpISw8AruEEcNl2Fvibk/edit?usp=sharing)|[BOM](https://docs.google.com/spreadsheets/d/1sxKl6h23SXfuNM7hNiX35rIrpISw8AruEEcNl2Fvibk/edit?usp=sharing)|[BOM]()|
-|Assembly Guide|[Guide](https://railcore.dozuki.com/c/RailCore_II)|[Guide](https://railcore.page.link/fskit)|[Guide]()|
+|Bill of Materials|[BOM](https://docs.google.com/spreadsheets/d/1sxKl6h23SXfuNM7hNiX35rIrpISw8AruEEcNl2Fvibk/edit?usp=sharing)|[BOM](https://docs.google.com/spreadsheets/d/1sxKl6h23SXfuNM7hNiX35rIrpISw8AruEEcNl2Fvibk/edit?usp=sharing)|[BOM](https://docs.google.com/spreadsheets/d/1TM1vca-hA29apzcBjQ2FyvvZ5D19cWTZl7NxzBflSlU)|
+|Assembly Guide|[Guide](https://railcore.dozuki.com/c/RailCore_II)|[Guide](https://railcore.page.link/fskit)|[Guide](https://railcore.dozuki.com/c/RailCore%C2%AE_Mini_Kit)|
 |Outer dimensions (excl.260mm for loom)|572mm x 495mm x 546mm|572mm x 495mm x 830mm| 400mm x 312mm x 470mm|
 
 ## RailCore II Community Resources
