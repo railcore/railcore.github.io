@@ -2,7 +2,11 @@
 
 @font-face {
     font-family: Constantine;
-    src: url("Constantine.ttf") format('truetype');
+    src: url("fonts/Constantine.ttf") format('truetype');
+    src: url("fonts/Constantine.eot") format('embedded-opentype');
+    src: url("fonts/Constantine.otf") format('opentype');
+    src: url("fonts/Constantine.woff") format('woff');
+    src: url("fonts/Constantine.woff2") format('woff2');
     font-weight: bold;
     font-style: normal;
 }
