@@ -1,7 +1,7 @@
 ---
 title: RailCore® 3D Printers
 ---
-RailCore® is a family of [Core-XY based Reprap 3D printers](https://reprap.org/wiki/CoreXY) designed by J. Steve White, Tony Akens, and Ben Withem under the [CC-Attribution Only license](https://creativecommons.org/licenses/by/4.0/).
+RailCore® is a family of [Core-XY based Reprap 3D printers](https://reprap.org/wiki/CoreXY) designed by J. Steve White, Tony Akens, and Ben Withem under the [CC-Attribution Only license](https://creativecommons.org/licenses/by/4.0/). [ Special thanks to [Mandala Rose Works](http://www.mandalaroseworks.com) for providing open source files for some parts and design assistance on the Mini ]
 
 |RailCore II 300ZL|RailCore II 300ZLT|RailCore Mini|
 |-|-|-|
