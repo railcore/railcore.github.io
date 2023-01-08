@@ -20,7 +20,9 @@ In the US it may be hard to source, but  close alternative would be the AFB-LF f
  
 ## LDO rails
 
-Currently unknown which grease comes with LDO rails.
+Currently unknown which grease comes with LDO rails.   
+[LDO Docs - Linear Rail Greasing Guide](https://docs.ldomotors.com/en/guides/rail_grease_guide)   
+Some of the most commonly recommended lubricants by Voron community members are Mobilux EP1 or EP2, Superlube 21030, or white lithium grease.
 
 ## Superlube
 
