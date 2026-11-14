@@ -3,7 +3,7 @@ In the standard build, the RailCore's Duet2 board supports only 24v Fans but the
 Inexpensive 12v fans in 120mm, 80mm or other common computer-case size can be used to cool the electronics enclosure or printer interior, and the Duet firmware makes it easy to assign a thermostat for fan control.  The Duex5 provides a built-in 12v 2A switching regulator for LEDs or Fans, but it is not enabled by default.
 
 # Enable the 12v Power Supply
-Study the [Duex5 Connection Pinout](https://duet3d.dozuki.com/Wiki/Duex_wiring_diagrams) to identify the `INT 12V EN` jumper near the top-left of the board.
+Study the [Duex5 Connection Pinout](https://docs.duet3d.com/Duet3D_hardware/Duet_2_family/DueX2_and_DueX5#wiring-diagram) to identify the `INT 12V EN` jumper near the top-left of the board.
 You must connect a jumper across these two pins to turn on the 12v power supply, as it is not enabled by default.
 
 # Change the V_FAN power to 12v
@@ -40,7 +40,7 @@ Note that a fan configured for Thermostatic control will not appear in the web i
 
 # RPM Speed input
 
-The Duex brings out pin `PB6` on the GPIO header for Fan RPM monitoring.  Unfortunately, this does not appear to be compatible with PWM speed control, and may be mismatched to the pules-per-RPM used by some computer fans.  Connecting `PB6` requires an inline diode for 3-wire fans, as described in the [Duet Fan documentation](https://duet3d.dozuki.com/Wiki/Connecting_and_configuring_fans).
+The Duex brings out pin `PB6` on the GPIO header for Fan RPM monitoring.  Unfortunately, this does not appear to be compatible with PWM speed control, and may be mismatched to the pules-per-RPM used by some computer fans.  Connecting `PB6` requires an inline diode for 3-wire fans, as described in the [Duet Fan documentation](https://docs.duet3d.com/User_manual/Connecting_hardware/Fans_connecting).
 
 On RRF2, it's useful only as a displayed value, and probably not worth the effort to connect.
 
@@ -90,7 +90,7 @@ Most 4-wire fans have a minimum operating pulse width, below which they do not s
 ## Optional tachometer sense line
 
 Like the 3-wire fans, there is a pulsed output from the fan to report back to the Duet the actual rotation speed of the fan.  This requires a diode to connect to Duet, and there is only one input.  It is not useful for much, and just lets RRF show the fan speed in the web interface.  More info here if you want to wire it up:
-[Duet Fan documentation](https://duet3d.dozuki.com/Wiki/Connecting_and_configuring_fans)
+[Duet Fan documentation](https://docs.duet3d.com/User_manual/Connecting_hardware/Fans_connecting)
 
 ## Complete wiring:
 In review, the four-wire fan will be wired:

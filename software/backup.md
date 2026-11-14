@@ -27,7 +27,7 @@ The following will give you a file that you can run, which will back up everythi
 Change $railCoreHostOrIp
 Puts everything in a directory that does not require admin access and is tied to the user who is logged in to the OS
 
-[Download this script](https://cdn.discordapp.com/attachments/546190822228492290/657045033089761290/Railcore_backup.ps1)
+[Download this script](../downloads/Railcore_backup.ps1)
 
 ```
 #region user defined
@@ -88,7 +88,6 @@ Create a the folder and download the following
 1. [rfm (Reprap File Managment) release page](https://github.com/wilriker/rfm/releases)  - get "rfm-windows_amd64.zip" and unzip into the folder.
 1. paste the following code into a file called something like "duetbackup.cmd" in this folder, and modify the third line.
 
-You can also get all of this from [here](http://www.crimsoncurve.com/upload/duetbackup.zip) in one go.
 ```
 @echo off
 REM CHANGE THE VALUE OF THIS TO SUIT YOUR RAILCORE - You can use IP address also

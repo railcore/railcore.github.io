@@ -26,7 +26,7 @@ A. See [Aligning the X Carriages & Y Rail](../build_and_troubleshoot/aligning_th
 
 ### Q. How do I best find the Z-offset?
 
-A. [Standard way (Duet3D wiki)](https://duet3d.dozuki.com/Wiki/Test_and_calibrate_the_Z_probe) or [newer way](../customization/tool_offset_z_configuration.md)
+A. [Standard way (Duet3D wiki)](https://docs.duet3d.com/User_manual/Connecting_hardware/Z_probe_testing) or [newer way](../customization/tool_offset_z_configuration.md)
 
 ### Q. Where can I find models for the aluminium parts?
 
@@ -38,7 +38,7 @@ A. The simplest method is to go to the particular repository(section) you want f
 
 ### Q. I need more help! Where do I go next?
 
-A. There are [discussion and chat options](../index.md#discussion) for help. Please DO NOT message people directly about issues on Facebook  messenger, e-mail, hangouts or twitter, without being specifically invited first.
+A. There are [discussion and chat options](../index.md#railcore-ii-community-resources) for help. Please DO NOT message people directly about issues on Facebook  messenger, e-mail, hangouts or twitter, without being specifically invited first.
 
 ### Q. Problems with ringing or banding, where should I look?
 
@@ -64,7 +64,7 @@ See "bltouch-magbed-bed.g" in the sys folder.
 
 ### Q. Will there be a toolchanger for Railcore?
 
-A. The toolchanger is currently in development.
+A. A toolchanger was in development; the work in progress is in the [toolchanger repository](https://github.com/railcore/toolchanger).
 
 ### Q. How do I align my lead screws with the steppers?
 

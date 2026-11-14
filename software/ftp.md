@@ -1,6 +1,6 @@
 ### Enable FTP and backup your SDcard
 
-1. Enable FTP - "M586 P1 S1" (see https://github.com/railcore/configs/blob/master/duet/sys/config.g line 12, you can also set a password, see line 6)
+1. Enable FTP - add `M586 P1 S1` to your `config.g` ([M586 reference](https://docs.duet3d.com/User_manual/Reference/Gcodes#m586-configure-network-protocols)). You can also set a password with `M551` (the RailCore configs have it commented out near the top of `config.g`).
 1. Set up an FTP client such as filezilla, with a connection to the Railcores IP/hostname.
 1. Under transfer settings set "Maximum number of connections" to 1.
 

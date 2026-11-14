@@ -6,7 +6,7 @@ Machined and milled parts are available which can increase durability, strength 
 
 ## Panels and covers
  
-  * [Mandala Rose Works](http://www.mandalaroseworks.com/product/railcore_parts)
+  * [Mandala Rose Works](https://mandalaroseworks.com/collections/railcore)
     * Clear & Smokey Grey Acrylic Electronics Covers
 
 ## Machined Aluminium replacement parts
@@ -20,7 +20,7 @@ Machined and milled parts are available which can increase durability, strength 
     * E3D V6 ultralight hot end mount
     * J12 ultralight hot end mount
     * Titan ultralight extruder mount plate
-  * [Mandala Rose Works](http://www.mandalaroseworks.com/product/railcore_parts)
+  * [Mandala Rose Works](https://mandalaroseworks.com/collections/railcore)
     * X Carriages
     * Z Yokes
     * Z Brackets

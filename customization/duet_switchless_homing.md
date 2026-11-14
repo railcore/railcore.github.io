@@ -6,7 +6,7 @@ The Trinamic 2660 drivers have stall detection that can identify dropped steps t
 
 ## Configuraion
 
-The Duet wiki has a page on [sensorless homing](https://duet3d.dozuki.com/Wiki/Stall_detection_and_sensorless_homing) that you should review along with [M915: Configure motor stall detection](https://duet3d.dozuki.com/Wiki/Gcode#Section_M915_Configure_motor_stall_detection). I'll cover the bits specific to my configuration here.
+The Duet wiki has a page on [sensorless homing](https://docs.duet3d.com/User_manual/Connecting_hardware/Sensors_stall_detection) that you should review along with [M915: Configure motor stall detection](https://docs.duet3d.com/User_manual/Reference/Gcodes#m915-configure-motor-stall-detection). I'll cover the bits specific to my configuration here.
 The [RailCore community Duet config](https://github.com/railcore/configs/tree/master/duet) has sensorless homing files available.
 
 Basically, I:

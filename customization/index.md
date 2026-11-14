@@ -3,9 +3,7 @@ title: Customization
 rank: 4
 ---
 ## Toolchanger (Alpha WIP)
-  * [Project Summary and Goals](./tc_project_summary.md)
-  * [Sourcing](./tc_sourcing.md)
-  * [Building](./tc_project_summary.md)
+  * [RailCore Toolchanger repository](https://github.com/railcore/toolchanger) - development files for the toolchanger project (last updated January 2021)
 
 ## Software Customizations
   * [Switchless X/Y Homing with Duet](./duet_switchless_homing.md)

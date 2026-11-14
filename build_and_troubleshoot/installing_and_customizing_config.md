@@ -11,9 +11,9 @@ title: Installing and customising the Duet Config for your RailCore II
 
 The RailCore project is all about flexibility and making your build your own. So, that is your choice, and down to how you want to approach your build. RepRapFirmware 2 is the only one currently supported. RRF3 is being tested by several members.
 
- * [Filastruder config](https://www.dropbox.com/sh/og8bolggmqlfrsv/AAAbZ0enHyIRuYoy7knaQSbEa?dl=0) - For use with the Filastruder Kit. A good, simple base config to work from.
- * [Kraegars config](https://github.com/railcore/configs/tree/master/unmaintained/Kraegars/300ZL) - The original basic config aimed at self-sourcers. Can be a useful starting point for those that want to engineer everything themselves and keep all their Duet settings in a single file.
- * [Project R3D config](https://github.com/railcore/configs/tree/master/unmaintained/ProjectR3D/300ZL) - A slightly modified version of Kraegars config, for people that have purchased a Project R3D kit.
+ * [Filastruder config](../downloads/filastruder-duet2-config.zip) - For use with the Filastruder Kit. A good, simple base config to work from.
+ * [Kraegars config](https://github.com/railcore/configs/tree/master/archive/Kraegars/300ZL) - The original basic config aimed at self-sourcers. Can be a useful starting point for those that want to engineer everything themselves and keep all their Duet settings in a single file.
+ * [Project R3D config](https://github.com/railcore/configs/tree/master/archive/ProjectR3D/300ZL) - A slightly modified version of Kraegars config, for people that have purchased a Project R3D kit.
  * [RailCore Community Config](https://github.com/railcore/configs/) - Originally based on Kraegars Duet config. Aimed at more advanced users.RRF2
 
 ## Community based configuration information (only for more advanced users, use the Filastruder config if you are starting out with the Duet)
@@ -70,4 +70,4 @@ The Duet can run from USB power (assuming it can supply a steady 5V)
 
 With luck, you should be able to connect via the web interface via http://railcore.local on your local network. This very much depends on the machines you are using and your local network topology.
 
-**If this does not work, then the next step is to interact with your Duet via USB and find its IP address. Full instructions can be found on the [Duet documentation - Getting connected to your Duet](https://duet3d.dozuki.com/Guide/1.%29+Getting+Connected+to+your+Duet/7)** 
+**If this does not work, then the next step is to interact with your Duet via USB and find its IP address. Full instructions can be found on the [Duet documentation - Getting connected to your Duet](https://docs.duet3d.com/How_to_guides/Getting_connected/Getting_connected_to_your_Duet)** 

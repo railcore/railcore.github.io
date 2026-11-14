@@ -16,7 +16,7 @@ A Bltouch can be using using the BLTouch in the main Thingiverse page.  You'll n
 To connect to the duet you need to use 2 wires off the Z-Probe port, and 3 off of the duex5's PWM1 port. See [BL-Touch](../build_and_troubleshoot/bl_touch.md) for wiring and offsets, and build guide K for [mounting it](../guides/guide/9-k-y-carriage.html#s58).
 
 The full BLTouch Duet guide is here:
-https://duet3d.dozuki.com/Wiki/Connecting_a_Z_probe
+https://docs.duet3d.com/User_manual/Connecting_hardware/Z_probe_connecting
 
 ##### Settings
 
@@ -39,9 +39,7 @@ For the RailCore, you will want to download and print (or ask someone to print f
 
 https://www.thingiverse.com/thing:2957477
 
-Here are some example shots of the Orion and mount on a RailCore II 300ZL:
-
-<img src="http://www.xepherys.net/Railcore/Pics/RCPiezo2.jpeg" alt="Piezo" width="400"/><img src="http://www.xepherys.net/Railcore/Pics/RCPiezo3.jpeg" alt="Piezo" width="400"/>
+(The example photos of the Orion and mount on a RailCore II 300ZL were hosted on xepherys.net and are no longer online.)
 
 ##### Settings
 

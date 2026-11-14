@@ -33,4 +33,4 @@ The following information is provided as extra information to the build guides t
 ## Software Configuration and Verification
 * [Installing the config and customizing for your machine](./installing_and_customizing_config.md)
 * [Perform a Motion Test](./motion_test.md) to ensure that your machine is wired correctly and configured like you hope it is.
-* [Perform a Heater Test (Duet wiki)](https://duet3d.dozuki.com/Wiki/Tuning_the_heater_temperature_control)
+* [Perform a Heater Test (Duet wiki)](https://docs.duet3d.com/User_manual/Connecting_hardware/Heaters_tuning)
