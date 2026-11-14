@@ -70,4 +70,4 @@ The Duet can run from USB power (assuming it can supply a steady 5V)
 
 With luck, you should be able to connect via the web interface via http://railcore.local on your local network. This very much depends on the machines you are using and your local network topology.
 
-**If this does not work, then the next step is to interact with your Duet via USB and find its IP address. Full instructions can be found on the [Duet documentation - Getting connected to your Duet](https://duet3d.dozuki.com/Guide/1.%29+Getting+Connected+to+your+Duet/7)** 
+**If this does not work, then the next step is to interact with your Duet via USB and find its IP address. Full instructions can be found on the [Duet documentation - Getting connected to your Duet](https://docs.duet3d.com/How_to_guides/Getting_connected/Getting_connected_to_your_Duet)** 

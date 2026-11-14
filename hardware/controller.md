@@ -16,7 +16,7 @@ Major features include:
  * Fuses fitted for bed heater, steppers & other heaters, and fans (v1.04 onwards)
  * The Duet 2 Ethernet is identical to the Duet 2 WiFi except that the WiFi module is replaced by an Ethernet module.
 
-For more information see the Duet3D wiki - https://duet3d.dozuki.com/
+For more information see the [Duet3D documentation](https://docs.duet3d.com/).
 
 #### RAMPS
 

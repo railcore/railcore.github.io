@@ -15,7 +15,7 @@ Performing the Bed Leveling cycle results in a *physical* adjustment of the bed'
 
 #### `G32` / `bed.g`
 
-The RRF [`G32`](https://duet3d.dozuki.com/Wiki/Gcode#Section_G32_Run_bed_g_macro) GCODE simply runs the `bed.g` macro.
+The RRF [`G32`](https://docs.duet3d.com/User_manual/Reference/Gcodes#g32-run-bedg-macro) GCODE simply runs the `bed.g` macro.
 
 The contents of `bed.g` determine the entire levelling process.  A typical default might look like this:
 ```
@@ -70,7 +70,7 @@ For a very flat bed and build plate, the Mesh map is not necessary for real-time
 
 ### Defining probe points with `M557`
 
-The [`M557` GCODE](https://duet3d.dozuki.com/Wiki/Gcode#Section_M557_Set_Z_probe_point_or_define_probing_grid) defines the set of points that will be probed to build the Mesh map.  You may choose to probe only four representative points, or make a detailed map with hundreds of points.
+The [`M557` GCODE](https://docs.duet3d.com/User_manual/Reference/Gcodes#m557-set-z-probe-point-or-define-probing-grid) defines the set of points that will be probed to build the Mesh map.  You may choose to probe only four representative points, or make a detailed map with hundreds of points.
 
 The best probe grid depends on the bed design, build surface, and depth probe.  A bed with embedded magnets might put specific constraints on where a BL-Touch can be used, for example.  Further, the X/Y offset between the Nozzle and Probe will exclude some portion of the bed from being probed at all.
 
@@ -86,7 +86,7 @@ Popular map grids seen in use on Railcore include:
 
 Ideally, the bed should be mapped at your intended printing temperature, since some materials and beds may change with thermal expansion.
 
-The [G29 GCODE](https://duet3d.dozuki.com/Wiki/Gcode#Section_G29_Mesh_bed_probe) probes each point of the defined mesh, saves the results to `/sys/heightmap.csv`, and activates bed compensation.   Prints with bed compensation enabled will adjust the Z Height in real-time to travel along the mapped print surface.
+The [G29 GCODE](https://docs.duet3d.com/User_manual/Reference/Gcodes#g29-mesh-bed-probe) probes each point of the defined mesh, saves the results to `/sys/heightmap.csv`, and activates bed compensation.   Prints with bed compensation enabled will adjust the Z Height in real-time to travel along the mapped print surface.
 
 The bed map can be seen visually in the Duet Web interface under Height Map.  Even a 4-point map is useful to show the deviations and RMS error in the measured points, guiding rail adjustments for alignment.
 
