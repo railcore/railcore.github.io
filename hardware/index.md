@@ -8,7 +8,7 @@ rank: 1
 The Fusion360 models, Assembly Guide and BOM are the official, master copies maintained by Tony Akens. Thingiverse project is also maintained by Tony Akens.
 
 ### Guides
- * [RailCore Dozuki Build Guide](https://railcore.dozuki.com/c/RailCore_II) 
+ * [RailCore II Build Guide](../guides/railcore-ii.html) ([RailCore Mini](../guides/railcore-mini-kit.html))
    * Current recommended method to build a RailCore kit. 
    * If you spot problems or want to assist in tidying up the new guide, please join the \#documentation channel on Discord.
  
