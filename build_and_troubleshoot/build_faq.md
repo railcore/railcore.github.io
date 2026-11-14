@@ -38,7 +38,7 @@ A. The simplest method is to go to the particular repository(section) you want f
 
 ### Q. I need more help! Where do I go next?
 
-A. There are [discussion and chat options](../index.md#discussion) for help. Please DO NOT message people directly about issues on Facebook  messenger, e-mail, hangouts or twitter, without being specifically invited first.
+A. There are [discussion and chat options](../index.md#railcore-ii-community-resources) for help. Please DO NOT message people directly about issues on Facebook  messenger, e-mail, hangouts or twitter, without being specifically invited first.
 
 ### Q. Problems with ringing or banding, where should I look?
 
@@ -64,7 +64,7 @@ See "bltouch-magbed-bed.g" in the sys folder.
 
 ### Q. Will there be a toolchanger for Railcore?
 
-A. The toolchanger is currently in development.
+A. A toolchanger was in development; the work in progress is in the [toolchanger repository](https://github.com/railcore/toolchanger).
 
 ### Q. How do I align my lead screws with the steppers?
 
