@@ -5,7 +5,7 @@ rank: 1
 
 ## Official Assembly Guide, BOM, Model and Printable Parts 
 
-The Fusion360 models, Assembly Guide and BOM are the official, master copies maintained by Tony Akens. Thingiverse project is also maintained by Tony Akens.
+The Fusion 360 models, Assembly Guide and BOM are the official, master copies maintained by Tony Akens. Thingiverse project is also maintained by Tony Akens.
 
 ### Guides
  * [RailCore Dozuki Build Guide](https://railcore.dozuki.com/c/RailCore_II) 
@@ -16,7 +16,14 @@ The Fusion360 models, Assembly Guide and BOM are the official, master copies mai
    * [RailCore II 300ZL/ZLT Assembly Guide - Filastruder](https://railcore.page.link/fskit) 
    * [RailCore II 300ZL/ZLT Assembly Guide - (Original self-sourcer version)](https://railcore.page.link/guide)
    
-### Fusion 360 Models
+### CAD Models
+Download the full Fusion 360 archives (`.f3z`, open with File → Open → Open from my computer) or STEP files for other CAD tools:
+   * RailCore II 300ZL (November 2019, the newest Fusion version): [.f3z](https://github.com/railcore/parts/raw/master/F3Z/RailCore%20II%20300ZL%20-%20Nov%202019.f3z)
+   * RailCore II 300ZLT: [.f3z](https://github.com/railcore/parts/raw/master/F3Z/RailCore%20II%20300ZLT.f3z)
+   * RailCore II STEP files: [parts/STEP](https://github.com/railcore/parts/tree/master/STEP)
+   * RailCore Mini: [.f3z](https://github.com/railcore/railcore-mini/raw/main/parts/F360/RCM_f360_archive.f3z) and [STEP files](https://github.com/railcore/railcore-mini/tree/main/parts/STEP)
+
+View in the browser (Autodesk viewer, view only, no download):
    * [RailCore II 300ZL Fusion360 Model](https://railcore.page.link/zlmodel)
    * [RailCore II 300ZLT Fusion360 Model](https://railcore.page.link/zltmodel)
 
