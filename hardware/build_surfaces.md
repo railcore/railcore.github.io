@@ -4,13 +4,13 @@ title: Build Surfaces
 
 There is plenty of good information out there on bed surfaces and their adhesion. This is just a summary of any surfaces when used with the Railcore.
 
-**Everflex™ PEI** Double-sided and textured powder coated PEI flex plates offered by Subtle Design. Compatible with all forms of sensors and probes. Printed parts self release when cooled down. [https://subtle.design/everflex](https://subtle.design/everflex)
+**Everflex™ PEI** Double-sided and textured powder coated PEI flex plates offered by Subtle Design. Compatible with all forms of sensors and probes. Printed parts self release when cooled down. The Everflex product page is gone; see [Subtle Design](https://subtle.design/) for what they sell now.
 
-**Lokbuild** Compatible with dc42's mini-differential IR sensor and BLtouch. [http://lokbuild.com](http://lokbuild.com)
+**Lokbuild** Compatible with dc42's mini-differential IR sensor and BLtouch. [Lokbuild at Steelman's 3D](https://www.steelmans3d.com/lokbuild)
 
 **PrintBite+** - printed parts “self release” as the heat bed cools down with this surface. However be aware that it seems that it may be translucent to IR and so not a good surface when combined with dc42's mini-differential IR sensor (which is the standard on the BOM) [https://flex3drive.com/printbite/](https://flex3drive.com/printbite/)
 
-**BuildTak** Works well with BLTouch, folks report erratic results with IR. Stuff sometimes ticks too well when used on a fixed bed; is best suited for a removable flex bed like the magnetic bed. [https://www.buildtak.com](https://www.buildtak.com).  The Railcore uses their size 13.07" x 13.39" (332x340mm) plates, sometimes listed under "Raise3D N2".  The BuildTak FlexPlates are rectangular and have no 'tabs' for grip, but their oversized 340mm Y length extends off the bed a good amount for removal.  FlexPlates are among the thicker steel plates for maximum magnetic grip.  BuildTak original sheets are black and very subtle in texture, while their PEI is smooth.  Some materials like ABS have excessive affinity for BuildTak and can be damaged or scarred by tight first-layers.
+**BuildTak** Works well with BLTouch, folks report erratic results with IR. Stuff sometimes ticks too well when used on a fixed bed; is best suited for a removable flex bed like the magnetic bed. [https://buildtak.com](https://buildtak.com/).  The Railcore uses their size 13.07" x 13.39" (332x340mm) plates, sometimes listed under "Raise3D N2".  The BuildTak FlexPlates are rectangular and have no 'tabs' for grip, but their oversized 340mm Y length extends off the bed a good amount for removal.  FlexPlates are among the thicker steel plates for maximum magnetic grip.  BuildTak original sheets are black and very subtle in texture, while their PEI is smooth.  Some materials like ABS have excessive affinity for BuildTak and can be damaged or scarred by tight first-layers.
 
 **FR4** Some vendors sell this as "Polypropylene bed", meaning for PRINTING PP on, not 'made from pp'. Combined with Vision Miner Nanoadhesive it makes a killer combination for higher temp filaments in a passively heated enclosure. Bed temp > 90C materials stick like cyanoacrylate until the bed temp drops below 50C or so, and then you could blow the parts off the bed with canned air. 
 

@@ -32,7 +32,7 @@ The Fusion360 models, Assembly Guide and BOM are the official, master copies mai
 
 #### Recommended Additional 3D Printed Parts
  * [Cooling Shroud by James Tongue](https://www.thingiverse.com/thing:3367622)
-   * [Remix with supports already included](https://github.com/railcore/parts/blob/master/Other%20Printed%20Parts/Cooling%20Shroud/Duct_Printed_Carriage_Supports.stl) - this version prints very well as-is with no additional supports
+   * [Remix with supports already included](https://github.com/railcore/parts/blob/master/STL/cooling_shroud_hangtight_james_tongue/Duct_Printed_Carriage_Supports.stl) - this version prints very well as-is with no additional supports
    * [Remix oriented for easier printing setup](https://www.thingiverse.com/thing:3461781) - will need sliced with additional supports on most printers
    
 ### Additionals Guides and Sourcing Info
@@ -40,6 +40,7 @@ The Fusion360 models, Assembly Guide and BOM are the official, master copies mai
 * [Hardware Components](./hardware_components.md)
 * [Useful tools](../build_and_troubleshoot/usefultools.md)
 * [Recommended priority of Aluminium Parts](./recommended_priority_of_aluminium_parts.md)
+* [Extruders](./extruders.md) and [Controllers](./controller.md)
 
 
 ## RailCore II kits and products
@@ -47,6 +48,4 @@ While RailCore II is an open-source project, there are various companies that de
 
 * [Filastruder](https://www.filastruder.com/collections/railcore) - RailCore Parts. US based.
 * [Mandala Rose Works](http://www.mandalaroseworks.com/) - RailCore upgrade parts and laser-cut acrylic parts.
-* [713 Maker](https://713maker.com/railcore) - Railcore upgrade parts.
-* [HighTemp3D](https://hightemp3d.org/) - RailCore kits and parts. EU based.
-* [Merch Minion Railcore Branded Merchandise](http://kninedhp.merchminion.com/)
+* [713 Maker](https://713maker.com/en/14-railcore-) - Railcore upgrade parts.
