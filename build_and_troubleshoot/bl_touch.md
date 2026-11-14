@@ -1,6 +1,8 @@
 ---
 title: BL-Touch
 ---  
+In the build guides: mounting is [guide K, steps 3–4](../guides/guide/9-k-y-carriage.html#s58), wiring is [guide Q, step 29](../guides/guide/16-q-wiring-the-electronics.html#s136), first test is [guide S, step 7](../guides/guide/19-s-first-moves.html#s160) and setting the trigger height is [guide T, steps 1–2](../guides/guide/20-t-adjusting-your-configuration.html#s149). For the Mini (Duet 3 Mini 5+): [wiring](../guides/guide/39-q-wiring-the-electronics.html#s304), [testing](../guides/guide/41-s-first-moves.html#s320), [trigger height](../guides/guide/42-t-adjusting-your-configuration.html#s325).
+
 ## Function
 The ANTCLABS BL-Touch sensor has three basic parts:
 1. A moving plastic pin with a magnet on top

@@ -68,11 +68,13 @@ A. The toolchanger is currently in development.
 
 ### Q. How do I align my lead screws with the steppers?
 
-A. 
+A. Each Z tower has to sit directly over its stepper so the leadscrew runs straight. With the tower's Z bracket bolts loose, lower the yoke until it sits just above the leadscrew coupler, then tighten the lower bracket with the Z extrusion pushed flush against the frame; square up the top and tighten it. See [Aligning the Z Towers](../guides/guide/17-n-aligning-your-railcore.html#s151) in build guide N (Mini: [guide N](../guides/guide/36-n-aligning-your-railcore.html#s285)). Fitting the leadscrews themselves is [guide H, step 6](../guides/guide/13-h-leadscrews-and-z-yokes.html#s87) (Mini: [guide H, step 3](../guides/guide/30-h-z-motors-and-leadscrews.html#s246)).
+
+If you still see Z banding afterwards, the [new Z alignment procedure](new_Z_alignment_procedure_for_the_Z_extrusions.md) uses a printed tool on the stepper shaft for a more rigid reference.
 
 ### Q. How do I square the frame?
 
-A. 
+A. Square it while you fit the panels. With the printer on its back, centre the bottom panel, tighten the nuts along one side, square the bottom extrusions with a square or 123 blocks, then tighten the rest. Repeat for each side panel, bottom edge first. See [Squaring your Frame](../guides/guide/6-g-sides-installation.html#s42) in build guide G. On the Mini the acrylic panels pull the frame square, so loosen the corner cubes before you bolt the panels on ([guide F, step 1](../guides/guide/28-f-z-installation.html#s221)). Once the frame is square, [guide N](../guides/guide/17-n-aligning-your-railcore.html) aligns the belts, linear rails and Z towers to it.
 
 ### Q. How do I align the upper z-brackets?
 

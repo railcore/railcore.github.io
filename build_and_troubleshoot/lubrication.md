@@ -4,6 +4,8 @@ title: Lubrication
 
 Much has been discussed on the topic of grease, oils and lubrication. There is no "best" choice here.
 
+The easiest time to grease the rails is before they go on the frame: the X rails in [build guide C, step 7](../guides/guide/2-c-top-extrusions-assembly.html#s13) and the Z rails in [guide F, step 4](../guides/guide/5-f-z-installation.html#s33). Leadscrews and anti-backlash nuts go in during [guide H](../guides/guide/13-h-leadscrews-and-z-yokes.html#s86) (Mini: [guide H](../guides/guide/30-h-z-motors-and-leadscrews.html#s244)).
+
 ## Misumi rails
 
 ### Misumi high temperature rails (SSELBT13)  

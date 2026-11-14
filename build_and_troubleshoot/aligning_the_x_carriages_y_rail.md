@@ -3,6 +3,8 @@ title: Aligning the X Carriages & Y Rail
 ---
 FIRST DRAFT - mandalarose
 
+This is a community alternative to the build guide's method. The guide fits the Y rail in [guide I](../guides/guide/7-i-y-rail-installation.html#s45), then aligns and tensions the belts by measuring in [guide N, steps 1–2](../guides/guide/17-n-aligning-your-railcore.html#s142) (Mini: [guide N](../guides/guide/36-n-aligning-your-railcore.html#s282)).
+
 My method relies on 123 blocks (cheaply purchased off amazon).  However, some other item that is metal and a consistent thickness, can be used.
 
 All of this should be done before the belts are installed, or with the belts loose.
