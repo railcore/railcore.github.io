@@ -1,7 +1,7 @@
 ---
 title: RailCore® 3D Printers
 ---
-RailCore® is a family of [Core-XY based Reprap 3D printers](https://reprap.org/wiki/CoreXY) designed by J. Steve White, Tony Akens, and Ben Withem under the [CC-Attribution Only license](https://creativecommons.org/licenses/by/4.0/). [ Special thanks to [Mandala Rose Works](http://www.mandalaroseworks.com) for providing open source files for some parts and design assistance on the Mini ]
+RailCore® is a family of [Core-XY based Reprap 3D printers](https://reprap.org/wiki/CoreXY) designed by J. Steve White, Tony Akens, and Ben Withem and published under the [CC BY-SA 4.0 license](https://creativecommons.org/licenses/by-sa/4.0/). [ Special thanks to [Mandala Rose Works](http://www.mandalaroseworks.com) for providing open source files for some parts and design assistance on the Mini ]
 
 |RailCore II 300ZL|RailCore II 300ZLT|RailCore Mini|
 |-|-|-|
@@ -17,7 +17,7 @@ RailCore® is a family of [Core-XY based Reprap 3D printers](https://reprap.org/
 |ABL|Yes|Yes|Yes|
 |Source Files|[Model](http://a360.co/2D5OryV)|[Model](https://a360.co/2w7PjT6)|[Github](https://github.com/railcore/railcore-mini)|
 |Bill of Materials|[BOM](https://docs.google.com/spreadsheets/d/1sxKl6h23SXfuNM7hNiX35rIrpISw8AruEEcNl2Fvibk/edit?usp=sharing)|[BOM](https://docs.google.com/spreadsheets/d/1sxKl6h23SXfuNM7hNiX35rIrpISw8AruEEcNl2Fvibk/edit?usp=sharing)|[BOM](https://docs.google.com/spreadsheets/d/1TM1vca-hA29apzcBjQ2FyvvZ5D19cWTZl7NxzBflSlU)|
-|Assembly Guide|[Guide](https://railcore.dozuki.com/c/RailCore_II)|[Guide](https://railcore.page.link/fskit)|[Guide](https://railcore.dozuki.com/c/RailCore%C2%AE_Mini_Kit)|
+|Assembly Guide|[Guide](guides/railcore-ii.html)|[Guide](https://railcore.page.link/fskit)|[Guide](guides/railcore-mini-kit.html)|
 |Outer dimensions (excl.260mm for loom)|572mm x 495mm x 546mm|572mm x 495mm x 830mm| 400mm x 312mm x 470mm|
 
 ## RailCore II Community Resources

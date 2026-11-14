@@ -5,6 +5,7 @@ title: new Z Alignment Procedure
 * [Video of Z alignment procedure](https://www.youtube.com/watch?v=CNWzMLc5-Cg)
 * [ZL alignment jig](../downloads/alignment_jig.stl)
 * [ZLT alignment jig](https://www.thingiverse.com/thing:3708947)
+* The standard method during a build: [Aligning the Z Towers](../guides/guide/17-n-aligning-your-railcore.html#s151), build guide N step 4 (Mini: [guide N step 4](../guides/guide/36-n-aligning-your-railcore.html#s285))
 
 #### New Z alignment procedure for the Z extrusions.
 

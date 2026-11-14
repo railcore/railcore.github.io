@@ -1,0 +1,48 @@
+<!doctype html>
+<html lang="en"><head><meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>P) Electronics — RailCore® Mini Kit · RailCore Build Guides</title>
+<meta property="og:type" content="article">
+<meta property="og:site_name" content="RailCore Build Guides">
+<meta property="og:title" content="P) Electronics — RailCore® Mini Kit">
+<meta property="og:description" content="Kit build guides for the RailCore® II 300 ZL and RailCore® Mini, by J. Steve White and Tony Akens.">
+<meta name="description" content="Kit build guides for the RailCore® II 300 ZL and RailCore® Mini, by J. Steve White and Tony Akens.">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="P) Electronics — RailCore® Mini Kit">
+<meta name="twitter:description" content="Kit build guides for the RailCore® II 300 ZL and RailCore® Mini, by J. Steve White and Tony Akens.">
+<meta property="og:url" content="https://railcore.org/guides/guide/38-p-electronics.html">
+<meta property="og:image" content="https://railcore.org/guides/img/MhuXYyFdHQaYkVFX.jpg">
+<meta property="og:image:width" content="800">
+<meta property="og:image:height" content="600">
+<meta name="twitter:image" content="https://railcore.org/guides/img/MhuXYyFdHQaYkVFX.jpg">
+<link rel="canonical" href="https://railcore.org/guides/guide/38-p-electronics.html">
+<link rel="stylesheet" href="../style.css">
+</head><body>
+<header><nav class="crumbs"><a href="../../">RailCore Labs</a> › <a href="../index.html">RailCore Build Guides</a> › <a href="../railcore-mini-kit.html">RailCore® Mini Kit</a></nav></header>
+<main>
+<h1>P) Electronics</h1>
+<p class="meta">Moderate · 30 minutes · by Ben Withem · last edited 2022-04-04</p>
+<div class="lead-image"><a href="../img/MhuXYyFdHQaYkVFX.full.jpg"><img src="../img/MhuXYyFdHQaYkVFX.jpg" alt="" loading="lazy" class=main></a></div>
+<div class="bom">
+<section><h2>Parts</h2><ul class=items><li><a href="../item/duet-3-mini-5-wifi.html">Duet 3 Mini 5+ WiFi</a></li><li><a href="../item/duet-3-mini-expansion-2.html">Duet 3 Mini Expansion 2+</a></li><li><a href="../item/5mm-nylon-spacer.html">5mm Nylon Spacer</a> <span class=qty>×4</span></li><li><a href="../item/m3-x-16-socket-head-screw.html">M3 x 16 Socket Head Screw</a> <span class=qty>×4</span></li><li><a href="../item/m3-washer.html">M3 Washer</a> <span class=qty>×20</span></li><li><a href="../item/m3-nut.html">M3 Nut</a> <span class=qty>×20</span></li><li><a href="../item/m3-x-20-socket-head-screw.html">M3 x 20 Socket Head Screw</a> <span class=qty>×8</span></li><li><a href="../item/m3-x-12-socket-head-screw.html">M3 x 12 Socket Head Screw</a> <span class=qty>×8</span></li><li><a href="../item/m2-5-x-6-self-tapping-screw.html">M2.5 x 6 Self Tapping Screw</a> <span class=qty>×2</span></li></ul></section>
+</div>
+<nav class="toc"><h2>Steps</h2><ol><li><a href="#s289">Safety</a></li><li><a href="#s290">Power Switch Reference</a></li><li><a href="#s291">Power Input Reference</a></li><li><a href="#s292">Install Duet 3 Mini 5+</a></li><li><a href="#s293">Install Power Switch</a></li><li><a href="#s295">Install Power Plug</a></li><li><a href="#s296">Install Panel Fans</a></li></ol></nav>
+<section class="step" id="s289"><h2><a href="#s289">Step 1</a> — Safety</h2><div class="lines"><ul><li class="caution"><span class="tag">Caution</span> The RailCore Mini is a &quot;DIY&quot; project, build safe, build smart, and be responsible.</li><li class="caution"><span class="tag">Caution</span> Build at your own risk.</li><li class="caution"><span class="tag">Caution</span> When in doubt, double check things.</li><li class="caution"><span class="tag">Caution</span> 3D Printers can get very hot, use common sense and quality components.</li><li class="note"><span class="tag">Note</span> If you need help, find us at the RailCore Facebook page or RailCore Discord channel. Both are linked from RailCore.org.</li></ul></div></section>
+<section class="step" id="s290"><h2><a href="#s290">Step 2</a> — Power Switch Reference</h2><div class="step-images"><a href="../img/RHjIhnijNuZIoxYn.full.jpg"><img src="../img/RHjIhnijNuZIoxYn.jpg" alt="" loading="lazy" class=main></a></div><div class="lines"><ul><li class="">The power switch in your kit should come pre-wired. Below is a cable reference, and also serves as a way to double check it.</li><ul><li class="">Pin 1A -&gt; Black, Wago (6 Port) / 150mm</li><li class="">Pin 4B -&gt; Red, Wago (3 Port) / 150mm</li><li class="">Pin 5B -&gt; Red, Duet VIN (24v) / 250mm</li></ul></ul></div></section>
+<section class="step" id="s291"><h2><a href="#s291">Step 3</a> — Power Input Reference</h2><div class="step-images"><a href="../img/ygfOcDTWJHP2qO6a.full.jpg"><img src="../img/ygfOcDTWJHP2qO6a.jpg" alt="" loading="lazy" class=main></a></div><div class="lines"><ul><li class="">The power input plug in your kit should come pre-wired. Below is a cable reference, and also serves as a way to double check it.</li><ul><li class="">Pin 1 -&gt; Black, Wago (6 Port) / 120mm</li><li class="">Pin 2 -&gt; Red, Wago (3 Port) / 120mm</li><li class="">Pin 3 -&gt; Red, Wago (3 Port) / 120mm</li><li class="">Pin 4 -&gt; Black, Wago (6 Port) / 120mm</li></ul></ul></div></section>
+<section class="step" id="s292"><h2><a href="#s292">Step 4</a> — Install Duet 3 Mini 5+</h2><div class="step-images"><a href="../img/m4kjoPQCb4NhdjQJ.full.jpg"><img src="../img/m4kjoPQCb4NhdjQJ.jpg" alt="" loading="lazy" class=main></a><a href="../img/Lp2ucmWgL5DZIWsD.full.jpg"><img src="../img/Lp2ucmWgL5DZIWsD.jpg" alt="" loading="lazy"></a></div><div class="lines"><ul><li class="">Install the Duet +2 expansion board on the Duet board as shown in the image.</li><li class="">Using (4) nylon standoffs, M3 x 16 socket head screws, and M3 washers, attach the Duet to the base of the printer.</li></ul></div></section>
+<section class="step" id="s293"><h2><a href="#s293">Step 5</a> — Install Power Switch</h2><div class="step-images"><a href="../img/UTWq6IoXmCnUjCqu.full.jpg"><img src="../img/UTWq6IoXmCnUjCqu.jpg" alt="" loading="lazy" class=main></a><a href="../img/E2UyG3BCPiFvZ2qB.full.jpg"><img src="../img/E2UyG3BCPiFvZ2qB.jpg" alt="" loading="lazy"></a></div><div class="lines"><ul><li class="">Using (4) M3 x 12 socket head screws, M3 washers, and M3 nuts, install the power switch under the panel.</li><li class="note"><span class="tag">Note</span> Off position should be towards the top of the printer.</li></ul></div></section>
+<section class="step" id="s295"><h2><a href="#s295">Step 6</a> — Install Power Plug</h2><div class="step-images"><a href="../img/dKJlOidA6mfnXFZT.full.jpg"><img src="../img/dKJlOidA6mfnXFZT.jpg" alt="" loading="lazy" class=main></a></div><div class="lines"><ul><li class="">Using (2) M3 x 10 self tapping screws, attach the power plug to the printed mount.</li><li class="note"><span class="tag">Note</span> The material the plug is made out of can also be tapped for M3.</li><li class="">Using (4) M3 x 12 socket head screws, M3 washers, and M3 nuts, install the power plug under the panel.</li></ul></div></section>
+<section class="step" id="s296"><h2><a href="#s296">Step 7</a> — Install Panel Fans</h2><div class="step-images"><a href="../img/4GOW3FMofdSxq6Hd.full.jpg"><img src="../img/4GOW3FMofdSxq6Hd.jpg" alt="" loading="lazy" class=main></a></div><div class="lines"><ul><li class="">Using (4) M3 x 20 socket head screws, M3 washers, and M3 nuts, install the (2) panel fans under the rear panel.</li></ul></div></section>
+
+<nav class="prevnext"><a class="prev" href="../guide/37-o-bed.html">← O) Bed</a><a class="next" href="../guide/39-q-wiring-the-electronics.html">Q) Wiring the Electronics →</a></nav>
+<p class="orig">Originally at https://railcore.dozuki.com/Guide/P)+Electronics/38</p>
+</main>
+<footer>
+<p>RailCore® II and RailCore® Mini by J. Steve White, Tony Akens and Ben Withem.
+Guides licensed <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a>
+(first published on Dozuki under CC BY 3.0 US).
+Archived from railcore.dozuki.com (shut down 2026-11-20); content unchanged.
+<a href="../about.html">About this archive</a>.</p>
+</footer>
+</body></html>

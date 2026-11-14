@@ -5,10 +5,10 @@ rank: 1
 
 ## Official Assembly Guide, BOM, Model and Printable Parts 
 
-The Fusion360 models, Assembly Guide and BOM are the official, master copies maintained by Tony Akens. Thingiverse project is also maintained by Tony Akens.
+The Fusion 360 models, Assembly Guide and BOM are the official, master copies maintained by Tony Akens. Thingiverse project is also maintained by Tony Akens.
 
 ### Guides
- * [RailCore Dozuki Build Guide](https://railcore.dozuki.com/c/RailCore_II) 
+ * [RailCore II Build Guide](../guides/railcore-ii.html) ([RailCore Mini](../guides/railcore-mini-kit.html))
    * Current recommended method to build a RailCore kit. 
    * If you spot problems or want to assist in tidying up the new guide, please join the \#documentation channel on Discord.
  
@@ -16,7 +16,14 @@ The Fusion360 models, Assembly Guide and BOM are the official, master copies mai
    * [RailCore II 300ZL/ZLT Assembly Guide - Filastruder](https://railcore.page.link/fskit) 
    * [RailCore II 300ZL/ZLT Assembly Guide - (Original self-sourcer version)](https://railcore.page.link/guide)
    
-### Fusion 360 Models
+### CAD Models
+Download the full Fusion 360 archives (`.f3z`, open with File → Open → Open from my computer) or STEP files for other CAD tools:
+   * RailCore II 300ZL (November 2019, the newest Fusion version): [.f3z](https://github.com/railcore/parts/raw/master/F3Z/RailCore%20II%20300ZL%20-%20Nov%202019.f3z)
+   * RailCore II 300ZLT: [.f3z](https://github.com/railcore/parts/raw/master/F3Z/RailCore%20II%20300ZLT.f3z)
+   * RailCore II STEP files: [parts/STEP](https://github.com/railcore/parts/tree/master/STEP)
+   * RailCore Mini: [.f3z](https://github.com/railcore/railcore-mini/raw/main/parts/F360/RCM_f360_archive.f3z) and [STEP files](https://github.com/railcore/railcore-mini/tree/main/parts/STEP)
+
+View in the browser (Autodesk viewer, view only, no download):
    * [RailCore II 300ZL Fusion360 Model](https://railcore.page.link/zlmodel)
    * [RailCore II 300ZLT Fusion360 Model](https://railcore.page.link/zltmodel)
 
@@ -32,7 +39,7 @@ The Fusion360 models, Assembly Guide and BOM are the official, master copies mai
 
 #### Recommended Additional 3D Printed Parts
  * [Cooling Shroud by James Tongue](https://www.thingiverse.com/thing:3367622)
-   * [Remix with supports already included](https://github.com/railcore/parts/blob/master/Other%20Printed%20Parts/Cooling%20Shroud/Duct_Printed_Carriage_Supports.stl) - this version prints very well as-is with no additional supports
+   * [Remix with supports already included](https://github.com/railcore/parts/blob/master/STL/cooling_shroud_hangtight_james_tongue/Duct_Printed_Carriage_Supports.stl) - this version prints very well as-is with no additional supports
    * [Remix oriented for easier printing setup](https://www.thingiverse.com/thing:3461781) - will need sliced with additional supports on most printers
    
 ### Additionals Guides and Sourcing Info
@@ -40,6 +47,7 @@ The Fusion360 models, Assembly Guide and BOM are the official, master copies mai
 * [Hardware Components](./hardware_components.md)
 * [Useful tools](../build_and_troubleshoot/usefultools.md)
 * [Recommended priority of Aluminium Parts](./recommended_priority_of_aluminium_parts.md)
+* [Extruders](./extruders.md) and [Controllers](./controller.md)
 
 
 ## RailCore II kits and products
@@ -47,6 +55,4 @@ While RailCore II is an open-source project, there are various companies that de
 
 * [Filastruder](https://www.filastruder.com/collections/railcore) - RailCore Parts. US based.
 * [Mandala Rose Works](http://www.mandalaroseworks.com/) - RailCore upgrade parts and laser-cut acrylic parts.
-* [713 Maker](https://713maker.com/railcore) - Railcore upgrade parts.
-* [HighTemp3D](https://hightemp3d.org/) - RailCore kits and parts. EU based.
-* [Merch Minion Railcore Branded Merchandise](http://kninedhp.merchminion.com/)
+* [713 Maker](https://713maker.com/en/14-railcore-) - Railcore upgrade parts.

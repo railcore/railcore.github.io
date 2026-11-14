@@ -1,8 +1,16 @@
 ---
 title: Controllers 
 ---
-#### Duet
-The Duet 2 (Wifi or Ethernet)- are control boards for 3D printers and other similar robots. These control boards are based on a 32-bit ARM processor, running RepRapFirmware. The Duet family can all be controlled through a web interface, but they also support a touchscreen called the PanelDue. They all have a connector for an expansion board containing additional stepper drivers and I/O circuitry - the Duex 2 and Duex 5 for the Duet 2 (WiFi and Ethernet)
+The RailCore runs on most 32-bit 3D printer boards. The kits shipped with Duet boards running RepRapFirmware (RRF), and the official [configs](https://github.com/railcore/configs) are for RRF. Klipper is a popular alternative.
+
+## Duet (RepRapFirmware)
+
+### Duet 3 Mini 5+ (RailCore Mini kit)
+
+The RailCore Mini kit uses the Duet 3 Mini 5+ running RepRapFirmware 3: five onboard TMC2209 stepper drivers, WiFi or Ethernet, and the same web interface (Duet Web Control) as the Duet 2. Mounting and wiring are in build guides [P](../guides/guide/38-p-electronics.html#s292) and [Q](../guides/guide/39-q-wiring-the-electronics.html); firmware is in [guide R](../guides/guide/40-r-firmware-config-and-smoke-test.html#s313).
+
+### Duet 2 WiFi / Ethernet (RailCore II kit)
+The Duet 2 WiFi and Ethernet were the RailCore II kit boards. They are control boards for 3D printers and other similar robots. These control boards are based on a 32-bit ARM processor, running RepRapFirmware. The Duet family can all be controlled through a web interface, but they also support a touchscreen called the PanelDue. They all have a connector for an expansion board containing additional stepper drivers and I/O circuitry - the Duex 2 and Duex 5 for the Duet 2 (WiFi and Ethernet)
 
 Major features include:
 
@@ -18,11 +26,19 @@ Major features include:
 
 For more information see the [Duet3D documentation](https://docs.duet3d.com/).
 
-#### RAMPS
+Wiring for the RailCore II kit is in build guides [P](../guides/guide/15-p-electronics.html#s101) and [Q](../guides/guide/16-q-wiring-the-electronics.html).
+
+## Klipper
+
+[Klipper](https://www.klipper3d.org/) runs the motion planning on a host computer (usually a Raspberry Pi) and drives a printer board over USB or serial. Plenty of RailCore owners run it. A RailCore is a standard CoreXY to Klipper (`kinematics: corexy`) with three independent Z motors, so `z_tilt` can level the bed by driving each leadscrew. Start from the [Klipper configuration reference](https://www.klipper3d.org/Config_Reference.html) and the example config for your board.
+
+## Other boards
+
+### RAMPS
 
 See https://reprap.org/wiki/Arduino_Mega_Pololu_Shield
 
-#### Radds
+### RADDS
 
 ![RADDS](images/radds_3.jpg)
 

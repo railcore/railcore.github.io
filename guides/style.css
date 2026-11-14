@@ -1,0 +1,79 @@
+:root {
+  --bg: #ffffff; --fg: #1d2125; --muted: #5f6b76; --line: #e3e7eb; --card: #f6f8fa;
+  --link: #0b6bcb; --note: #5f6b76; --caution: #c1280b; --blue: #15a1d6;
+  --caution-bg: #fdf1ee; --note-bg: #f3f5f7;
+}
+@media (prefers-color-scheme: dark) {
+  :root {
+    --bg: #15181b; --fg: #e4e7ea; --muted: #9aa5b0; --line: #2c3238; --card: #1d2125;
+    --link: #6cb4ff; --note: #9aa5b0; --caution: #ff7a5c; --caution-bg: #2a1a16; --note-bg: #1f2428;
+  }
+}
+* { box-sizing: border-box; }
+body { margin: 0; background: var(--bg); color: var(--fg);
+  font: 16px/1.55 system-ui, -apple-system, "Segoe UI", Roboto, sans-serif; }
+a { color: var(--link); }
+header, main, footer { max-width: 980px; margin: 0 auto; padding: 0 16px; }
+header { padding-top: 14px; padding-bottom: 6px; border-bottom: 1px solid var(--line); font-size: 14px; }
+header .crumbs a { text-decoration: none; }
+footer { margin-top: 48px; padding-top: 12px; padding-bottom: 32px; border-top: 1px solid var(--line);
+  color: var(--muted); font-size: 13px; }
+h1 { font-size: 28px; line-height: 1.2; margin: 24px 0 6px; }
+h2 { font-size: 19px; margin: 28px 0 10px; }
+h2 a { color: inherit; text-decoration: none; }
+.meta { color: var(--muted); font-size: 14px; margin: 0 0 10px; }
+.summary { font-size: 17px; }
+img { max-width: 100%; height: auto; display: block; border-radius: 6px; background: #fff; }
+
+.lead-image img { max-width: min(480px, 100%); margin: 12px 0; }
+.bom { display: grid; grid-template-columns: repeat(auto-fit, minmax(260px, 1fr)); gap: 0 32px; }
+.items { padding-left: 18px; }
+.items .qty { color: var(--muted); }
+.items .notes { color: var(--muted); font-size: 14px; }
+.toc ol { columns: 2 260px; padding-left: 22px; }
+
+.step { border-top: 1px solid var(--line); padding-top: 4px; }
+.step-images { display: grid; grid-template-columns: repeat(auto-fill, minmax(140px, 1fr)); gap: 8px; }
+.step-images a:first-child { grid-column: 1 / -1; }
+.step-images img.main { max-width: min(800px, 100%); width: 100%; }
+.lines ul { padding-left: 22px; margin: 10px 0; }
+.lines li { margin: 4px 0; }
+.lines li.blue::marker { color: var(--blue); }
+.lines li.note, .lines li.caution { list-style: none; margin-left: -22px; padding: 6px 10px; border-radius: 6px;
+  border-left: 4px solid; }
+.lines li.note { background: var(--note-bg); border-color: var(--note); }
+.lines li.caution { background: var(--caution-bg); border-color: var(--caution); }
+.lines .tag { font-weight: 600; font-size: 13px; text-transform: uppercase; letter-spacing: .03em; }
+.lines li.caution .tag { color: var(--caution); }
+.lines li.note .tag { color: var(--note); }
+.lines li > p { margin: 0; }
+
+details.comments { margin: 12px 0; font-size: 14px; }
+details.comments summary { cursor: pointer; color: var(--muted); }
+ul.comments { list-style: none; padding-left: 14px; border-left: 2px solid var(--line); }
+ul.comments li { margin: 10px 0; }
+ul.comments .meta { margin: 0; font-size: 13px; }
+ul.comments p { margin: 2px 0; }
+
+.prevnext { display: flex; justify-content: space-between; gap: 16px; margin: 32px 0 8px; flex-wrap: wrap; }
+.prevnext .next { margin-left: auto; text-align: right; }
+.orig { color: var(--muted); font-size: 13px; overflow-wrap: anywhere; }
+
+.cards { list-style: none; padding: 0; display: grid; grid-template-columns: repeat(auto-fill, minmax(200px, 1fr)); gap: 14px; }
+.cards a { display: flex; flex-direction: column; height: 100%; text-decoration: none; color: inherit;
+  background: var(--card); border: 1px solid var(--line); border-radius: 8px; overflow: hidden; }
+.cards a:hover { border-color: var(--link); }
+.cards img, .cards .noimg { aspect-ratio: 4 / 3; width: 100%; object-fit: contain; border-radius: 0; background: #fff; }
+.cards .t { padding: 8px 10px 0; font-weight: 600; }
+.cards .n { padding: 0 10px 10px; color: var(--muted); font-size: 13px; }
+.cats { grid-template-columns: repeat(auto-fill, minmax(280px, 1fr)); }
+.columns { columns: 3 220px; padding-left: 18px; }
+
+article.guide { break-before: page; }
+@media print {
+  header, footer nav, .prevnext, .toc, details.comments, .orig { display: none; }
+  body { font-size: 11pt; }
+  .step { break-inside: avoid; }
+  .step-images img.main { max-width: 60%; }
+  a { color: inherit; text-decoration: none; }
+}

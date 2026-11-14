@@ -13,7 +13,7 @@ A Bltouch can be using using the BLTouch in the main Thingiverse page.  You'll n
 
 <a href="https://i.imgur.com/0miqDUb.png"><img src="https://i.imgur.com/0miqDUb.png" alt="BLTouch on mount" width="400"/></a>
 
-To connect to the duet you need to use 2 wires off the Z-Probe port, and 3 off of the duex5's PWM1 port.
+To connect to the duet you need to use 2 wires off the Z-Probe port, and 3 off of the duex5's PWM1 port. See [BL-Touch](../build_and_troubleshoot/bl_touch.md) for wiring and offsets, and build guide K for [mounting it](../guides/guide/9-k-y-carriage.html#s58).
 
 The full BLTouch Duet guide is here:
 https://docs.duet3d.com/User_manual/Connecting_hardware/Z_probe_connecting
