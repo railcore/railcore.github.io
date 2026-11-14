@@ -39,9 +39,7 @@ For the RailCore, you will want to download and print (or ask someone to print f
 
 https://www.thingiverse.com/thing:2957477
 
-Here are some example shots of the Orion and mount on a RailCore II 300ZL:
-
-<img src="http://www.xepherys.net/Railcore/Pics/RCPiezo2.jpeg" alt="Piezo" width="400"/><img src="http://www.xepherys.net/Railcore/Pics/RCPiezo3.jpeg" alt="Piezo" width="400"/>
+(The example photos of the Orion and mount on a RailCore II 300ZL were hosted on xepherys.net and are no longer online.)
 
 ##### Settings
 

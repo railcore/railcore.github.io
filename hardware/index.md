@@ -54,5 +54,5 @@ View in the browser (Autodesk viewer, view only, no download):
 While RailCore II is an open-source project, there are various companies that deal with RailCore II kits and parts.
 
 * [Filastruder](https://www.filastruder.com/collections/railcore) - RailCore Parts. US based.
-* [Mandala Rose Works](http://www.mandalaroseworks.com/) - RailCore upgrade parts and laser-cut acrylic parts.
+* [Mandala Rose Works](https://mandalaroseworks.com/) - RailCore upgrade parts and laser-cut acrylic parts.
 * [713 Maker](https://713maker.com/en/14-railcore-) - Railcore upgrade parts.
