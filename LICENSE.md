@@ -1,4 +1,23 @@
-MIT License
+# License
+
+This repository is the source of [railcore.org](https://railcore.org). It holds two kinds of material under two licenses:
+
+| What | License |
+|---|---|
+| Written content and images: the pages, guides, build notes, diagrams and photos | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) |
+| Website code, configuration files and slicer profiles: layouts, CSS, JavaScript, scripts, `.g` macros, slicer configs | MIT (below) |
+
+Material credited to someone else on its page (linked videos, third-party photos, vendor documents) stays under its own terms.
+
+Copies obtained before this change stay available under the license they were published with.
+
+RailCore® is a registered trademark of RailCore Labs, LLC.
+
+## CC BY-SA 4.0
+
+You may share and adapt the written content and images for any purpose, as long as you credit RailCore Labs and the page's authors, link to the license, say if you changed anything, and share your adaptations under CC BY-SA 4.0. Full legal code: https://creativecommons.org/licenses/by-sa/4.0/legalcode
+
+## MIT
 
 Copyright (c) 2018 railcore
 
