@@ -6,6 +6,8 @@ title: Belts
 
 **NOTE**: when planning to change from printed to aluminium idler and motor mounts add several cm extra length to your belts as the aluminium idler mounts will move the idlers further outside than the printed idler mounts.
  
+ The build guide routes the belts in [guide L](../guides/guide/10-l-x-y-belts.html) and aligns and tensions them in [guide N, steps 1–2](../guides/guide/17-n-aligning-your-railcore.html#s142) (Mini: [L](../guides/guide/34-l-x-y-belts.html), [N](../guides/guide/36-n-aligning-your-railcore.html#s282)).
+
  To assist with belt tensioning measure belt frequency using a tool such as:-
  
  * a guitar tuner 
