@@ -13,8 +13,8 @@ The Fusion 360 models, Assembly Guide and BOM are the official, master copies ma
    * If you spot problems or want to assist in tidying up the new guide, please join the \#documentation channel on Discord.
  
  * Older Google Doc guides (For reference only. May not be current):
-   * [RailCore II 300ZL/ZLT Assembly Guide - Filastruder](https://railcore.page.link/fskit) 
-   * [RailCore II 300ZL/ZLT Assembly Guide - (Original self-sourcer version)](https://railcore.page.link/guide)
+   * [RailCore II 300ZL/ZLT Assembly Guide - Filastruder](https://docs.google.com/document/d/15J_cdOHNNx7lwDMkNhXAAtIhqxqbfPpD4SzC3hH7Sow/edit) 
+   * [RailCore II 300ZL/ZLT Assembly Guide - (Original self-sourcer version)](https://docs.google.com/document/d/19FuTYfwqgOkGO8SUScnSuhS_Gx8mJMmXLiPgBfGeJ-s/view)
    
 ### CAD Models
 Download the full Fusion 360 archives (`.f3z`, open with File → Open → Open from my computer) or STEP files for other CAD tools:
@@ -24,8 +24,8 @@ Download the full Fusion 360 archives (`.f3z`, open with File → Open → Open 
    * RailCore Mini: [.f3z](https://github.com/railcore/railcore-mini/raw/main/parts/F360/RCM_f360_archive.f3z) and [STEP files](https://github.com/railcore/railcore-mini/tree/main/parts/STEP)
 
 View in the browser (Autodesk viewer, view only, no download):
-   * [RailCore II 300ZL Fusion360 Model](https://railcore.page.link/zlmodel)
-   * [RailCore II 300ZLT Fusion360 Model](https://railcore.page.link/zltmodel)
+   * [RailCore II 300ZL Fusion360 Model](https://myhub.autodesk360.com/ue293a20a/g/shares/SH7f1edQT22b515c761e0032d4a75a58dbae)
+   * [RailCore II 300ZLT Fusion360 Model](https://myhub.autodesk360.com/ue293a20a/g/shares/SH7f1edQT22b515c761e2b331e3b964e19c7)
 
 ### Bill of Materials
 * [RailCore II 300ZL/ZLT Bill Of Materials](https://docs.google.com/spreadsheets/d/1sxKl6h23SXfuNM7hNiX35rIrpISw8AruEEcNl2Fvibk/edit?usp=sharing)

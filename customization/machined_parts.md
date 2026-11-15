@@ -11,7 +11,7 @@ Machined and milled parts are available which can increase durability, strength 
 
 ## Machined Aluminium replacement parts
 
-  * [713 Maker](https://713maker.com/railcore-ii-300zl)
+  * [713 Maker](https://713maker.com/en/14-railcore-)
     * Halo *(A large structural element that helps align and make rigid the idler pulley mounts, motor mounts, and printer frame.)*
     * Standard Heated Bed
     * Magnetic Heated Bed

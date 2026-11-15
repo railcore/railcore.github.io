@@ -17,7 +17,7 @@ You can also, less elegantly, purchase a flex plate the size of your printable a
 ## Magnetic Bed Solutions
   * [Buildtak FlexPlate system](https://buildtak.com/collections/flexplates)
   * [Subtle Design](https://subtle.design/)
-  * [WhamBam](https://whambam3d.com/collections/pre-sale/products/flexible-build-system-340-x-325)
+  * [WhamBam](https://www.whambamsystems.com/collections/frontpage?pf_mlt_brand_model=II%20300ZL)
   
 ## Magnetic Build Plates
   * [Buildtak](https://buildtak.com/collections/flexplates)
@@ -25,4 +25,4 @@ You can also, less elegantly, purchase a flex plate the size of your printable a
   * [Funssor Creality CR-10 Plate](https://www.aliexpress.com/item/Funssor-Creality-CR-10-heated-bed-Ultem-1000-PEI-powder-coated-spring-steel-305mm-Double-sided/33003834729.html?spm=a2g0s.9042311.0.0.75d74c4ddCEd4j)
   * [Geckotek](https://www.geckotek.co/collections/build-plates/products/custom-ez-stik-build-plate?variant=14029925777523)
   * [Printed Solid](https://www.printedsolid.com/products/blank-plate-for-railcore-300zl-and-300zlt)
-  * [WhamBam](https://whambam3d.com/collections/flexible-build-system/products/flexible-build-system-340-x-325)
+  * [WhamBam](https://www.whambamsystems.com/collections/frontpage?pf_mlt_brand_model=II%20300ZL)
