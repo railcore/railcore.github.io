@@ -31,7 +31,7 @@ rank: 4
     * [Thing ico
 Railcore XRAT 2.0: Absolute Overkill Edition (X Rail Alignment Tool) by jslaker](https://www.thingiverse.com/thing:4435803)
 
-  See also the [Community Modifications and Parts on Thingiverse](https://www.thingiverse.com/railcore/collections/300zl-zlt) You'll find various combinations of mounts for hot-ends, extruders and probes (on aluminium mounts or printed)
+  See also the [Community Modifications and Parts on Thingiverse](https://www.thingiverse.com/railcore/collections) You'll find various combinations of mounts for hot-ends, extruders and probes (on aluminium mounts or printed)
 
 ### Videos
   * [RailCore II Halo Install](https://www.youtube.com/watch?v=9udGI_555m0)
