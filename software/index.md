@@ -19,6 +19,10 @@ Please note that the Duet is a platform that is extremely versatile.
  * [Community Duet config for the Duet 2](https://github.com/railcore/configs/tree/master/duet) : Use with caution. Advanced users only.
  * [Config Repository for all boards](https://github.com/railcore/configs)
 
+## Klipper
+
+Prefer Klipper to RepRapFirmware? See the [Klipper section](../klipper/) for what changes, supported boards, a RailCore [config guide](../klipper/railcore_config.md) and [sample configs](https://github.com/railcore/configs/tree/master/klipper).
+
 ## Slicers
 
 * [Slicer Configs](https://github.com/railcore/slicers)

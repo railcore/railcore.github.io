@@ -30,7 +30,7 @@ Wiring for the RailCore II kit is in build guides [P](../guides/guide/15-p-elect
 
 ## Klipper
 
-[Klipper](https://www.klipper3d.org/) runs the motion planning on a host computer (usually a Raspberry Pi) and drives a printer board over USB or serial. Plenty of RailCore owners run it. A RailCore is a standard CoreXY to Klipper (`kinematics: corexy`) with three independent Z motors, so `z_tilt` can level the bed by driving each leadscrew. Start from the [Klipper configuration reference](https://www.klipper3d.org/Config_Reference.html) and the example config for your board.
+[Klipper](https://www.klipper3d.org/) runs the motion planning on a host computer (usually a Raspberry Pi) and drives a printer board over USB or serial. Plenty of RailCore owners run it. A RailCore is a standard CoreXY to Klipper (`kinematics: corexy`) with three independent Z motors, so `z_tilt` can level the bed by driving each leadscrew. See the site's [Klipper section](../klipper/) for board support (including the kit Duets), a RailCore [config guide](../klipper/railcore_config.md) and sample configs.
 
 ## Other boards
 
